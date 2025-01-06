@@ -136,6 +136,7 @@ citation:
 
 20. Within the broad range of Environmental, Social and Governance (ESG) Reporting Standards, Climate-related disclosure and reporting standards, such as the Task Force on Climate-related Financial Disclosures (TCFD) and the Carbon Disclosure Project (CDP), guide companies in presenting environmental and social-related information transparently and comprehensively in their financial reports and other disclosures. These standards are crucial: quantification standards ensure accurate emissions data, while disclosure standards promote transparency and informed decision-making, driving regulatory compliance and market trust. The table below summarises existing and commonly used climate-related disclosure and reporting standards:
 
+::: {.landscape}
 ```{=html}
 <!--- This code reads a table from a csv file and displays it at the desired font size. Change the header.tex for PDF output
 -->
@@ -157,6 +158,7 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
 <!--- End of code snippet
 -->
 ```
+:::
 
 21. The figure below illustrates the role of guiding principles and frameworks for ESG investment assessment from an investor perspective. Their associated indices and assessment support tools are crucial for investors looking to integrate ESG factors into their investment decisions. They help investors assess their portfolio’s sustainability and ethical impacts, driving informed investment strategies.
 
