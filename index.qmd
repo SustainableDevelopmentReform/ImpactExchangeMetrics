@@ -88,7 +88,7 @@ citation:
 
 8.  In contrast, ESG reporting focuses on the broader disclosure of an organisation's environmental, social, and governance practices. Standards such as the Global Reporting Initiative (GRI), Sustainability Accounting Standards Board (SASB), Task Force on Climate-related Financial Disclosures (TCFD), and the Greenhouse Gas Protocol (GHG Protocol) help organisations provide structured and transparent information on their ESG performance, manage related risks, and ensure regulatory compliance. Integrating various strategies within AIX could be beneficial to ensure robust impact measurement and verification, enhancing credibility and effectiveness in driving sustainable development:
 
-![Methodology for market studies on sustainability-related investments. Source: <https://www.eurosif.org/wp-content/uploads/2024/02/2024.02.15-Final-Report-Eurosif-Classification_2024.pdf>](media/Picture%202.jpg)
+![Methodology for market studies on sustainability-related investments. Source: <https://www.eurosif.org/wp-content/uploads/2024/02/2024.02.15-Final-Report-Eurosif-Classification_2024.pdf>](media/Picture%202.png)
 
 9.  The AIX will need to adhere to the characteristics of each asset and strategy to ensure investments deliver verified social and environmental outcomes alongside financial returns. The assessment should be conducted before investment, with ongoing reporting to measure impact during the investment and the use of appropriate reporting standards for communicating effect in the form of reporting.
 
