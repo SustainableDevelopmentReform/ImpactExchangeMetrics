@@ -233,7 +233,7 @@ kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measu
 
 ::: small
 ```{r echo = FALSE, results = 'asis'}
-data <- read.csv(file = "mrv-frameworks.csv", check)
+data <- read.csv(file = "mrv-frameworks.csv")
 library(knitr)
 kable(data[1:7, ], caption = "Overview of Measurement and Verification Frameworks focused on Ecological Health.")
 ```
@@ -350,8 +350,6 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 
 # Appendix
 
-### Overview of ESG Strategies
-
 ```{=html}
 <!--- This code reads a table from a csv file and displays it at the desired font size. Change the header.tex for PDF output
 -->
@@ -365,7 +363,7 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "Figure-7.csv")
 library(knitr)
-kable(data[1:10, ], caption = "Overview of Measurement and Verification Frameworks for Social Impact.")
+kable(data[1:8, ], caption = "Overview of ESG Strategies.")
 ```
 :::
 
@@ -373,8 +371,6 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 <!--- End of code snippet
 -->
 ```
-
-### Overview of Impact Investment Strategies
 
 ```{=html}
 <!--- This code reads a table from a csv file and displays it at the desired font size. Change the header.tex for PDF output
@@ -389,7 +385,7 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "Figure-8.csv")
 library(knitr)
-kable(data[1:10, ], caption = "Overview of Measurement and Verification Frameworks for Social Impact.")
+kable(data[1:7, ], caption = "Overview of Impact Investment Strategies.")
 ```
 :::
 
@@ -397,8 +393,6 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 <!--- End of code snippet
 -->
 ```
-
-### Green Finance and Social Finance
 
 ```{=html}
 <!--- This code reads a table from a csv file and displays it at the desired font size. Change the header.tex for PDF output
@@ -413,7 +407,7 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "Figure-9.csv")
 library(knitr)
-kable(data[1:10, ], caption = "Overview of Measurement and Verification Frameworks for Social Impact.")
+kable(data[1:5, ], caption = "Overview of Green Finance and Social Finance.")
 ```
 :::
 
@@ -421,8 +415,6 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 <!--- End of code snippet
 -->
 ```
-
-### Governance and Ethical Investing
 
 ```{=html}
 <!--- This code reads a table from a csv file and displays it at the desired font size. Change the header.tex for PDF output
@@ -437,7 +429,7 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "Figure-10.csv")
 library(knitr)
-kable(data[1:10, ], caption = "Overview of Measurement and Verification Frameworks for Social Impact.")
+kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")
 ```
 :::
 
