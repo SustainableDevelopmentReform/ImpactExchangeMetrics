@@ -23,10 +23,10 @@ outcomes for a proposed Australian Impact Exchange</article-title>
         <contrib contrib-type="author" corresp="yes">
           <contrib-id contrib-id-type="orcid">0000-0003-1313-3956</contrib-id>
           <name>
-            <surname>Arlette Schram</surname>
+            <surname>Arlette Schramm</surname>
             <given-names>Ben Milligan</given-names>
           </name>
-          <string-name>Arlette Schram, Marianne Feoli, Ben Milligan</string-name>
+          <string-name>Arlette Schramm, Marianne Feoli, Ben Milligan</string-name>
           <email>b.milligan@unsw.edu.au</email>
           <xref ref-type="aff" rid="aff-1">a</xref>
           <xref ref-type="corresp" rid="cor-1">*</xref>
@@ -49,17 +49,18 @@ Reform</institution>
       <history/>
       <abstract>
 Impact Exchanges require distinct measurement frameworks across asset
-classes (corporate securities, impact investments, commodities) due to
-fundamental differences in how environmental and social outcomes are
-quantified, verified, and reported within each market segment. We
-propose use of a “meta-standards” approach for incorporating measurement
-of environmental and social outcomes—establishing overarching principles
-for outcome measurement while allowing methodological flexibility -
-supported by a technical committee to ensure market integrity and
-framework interoperability. Short-term market demands for simple metrics
-must be balanced against systemic risks, as evidenced by carbon markets
-where inadequate standardization and verification led to market
-fragmentation and credibility issues.
+classes (equities and corporate debt, commodities, and alternative
+investments) due to fundamental differences in how environmental and
+social outcomes are quantified, verified, and reported within each
+market segment. We propose use of a “meta-standards” approach for
+incorporating measurement of environmental and social
+outcomes—establishing overarching principles for outcome measurement
+while allowing methodological flexibility - supported by a technical
+committee to ensure market integrity and framework interoperability.
+Short-term market demands for simple metrics must be balanced against
+systemic risks, as evidenced by carbon markets where inadequate
+standardization and verification led to market fragmentation and
+credibility issues.
 </abstract>
       <kwd-group kwd-group-type="author">
         <kwd>Sustainability Metrics</kwd>
@@ -68,8 +69,8 @@ fragmentation and credibility issues.
     </article-meta>
   </front>
   <body>
-    <sec id="summary-of-key-findings">
-      <title>1. Summary of key findings</title>
+    <sec id="key-findings">
+      <title>1. Key findings</title>
       <list list-type="bullet">
         <list-item>
           <p>Measurement and verification of environmental and social
@@ -79,10 +80,11 @@ fragmentation and credibility issues.
       of diverse financial instruments for diverse asset classes. These
       methods are commonly applied as a subset of overarching frameworks
       and standards implementation—for positive and negative
-      environmental, social and governance (ESG) screening, impact
-      investment, corporate disclosure of impacts and dependencies,
-      sustainability certification or benchmarking, and other topic
-      areas. These frameworks and standards are characterised by highly
+      environmental, social and governance (ESG) screening, integration
+      of ESG factors into investment decisions, impact investment
+      strategies, corporate disclosure of impacts and dependencies,
+      sustainability certification or benchmarking, and other
+      specialized approaches. They are also characterised by highly
       varied degrees of: formal standardisation, public or private
       sector involvement, intellectual property licensing models, and
       transparency.</p>
@@ -98,18 +100,22 @@ fragmentation and credibility issues.
           <list list-type="bullet">
             <list-item>
               <p>corporate securities might be best underpinned by holistic
-          disclosure frameworks such as those maintained by the Capitals
-          Coalition (e.g. the Natural Capital Protocol), or Taskforces
-          for Nature-Related, and Climate-Related Financial Disclosures
-          (TNFD and TCFD respectively).</p>
+          disclosure frameworks for example those maintained by the
+          Capitals Coalition
+          (<xref alt="2024" rid="ref-capitals_coalition_2024" ref-type="bibr">2024</xref>),
+          Taskforce on Nature-related Financial Disclosures (TNFD)
+          (<xref alt="2024" rid="ref-tnfd_2024" ref-type="bibr">2024</xref>),
+          or Taskforce on Climate-related Financial Disclosures (TCFD)
+          (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>).</p>
             </list-item>
             <list-item>
               <p>enabling impact investment might be best underpinned by the
           existing dedicated frameworks such as Global Impact Investing
-          Network’s (GIIN) IRIS+, the Social Return on Investment
-          (SROI), the Social Performance Task Force (SPTF), B Impact
-          Assessment (BIA) by B Lab, and the Impact Management Project
-          (IMP).</p>
+          Network’s (GIIN) IRIS+
+          (<xref alt="2022" rid="ref-iris_2022" ref-type="bibr">2022</xref>),
+          the Social Return on Investment (SROI), the Social Performance
+          Task Force (SPTF), B Impact Assessment (BIA) by B Lab, and the
+          Impact Management Project (IMP).</p>
             </list-item>
             <list-item>
               <p>commodities or real property may be well matched with
@@ -160,14 +166,16 @@ fragmentation and credibility issues.
                   <p>Transparently document their definitional foundations,
               input data and assessment methods. Low-level definitions
               should be aligned with the System of
-              Environmental-Economic Accounting (SEEA) as appropriate,
-              in particular to avoid confusion between measurement of
-              environmental stocks (e.g. the extent and/or condition of
-              specific ecosystem types aligned to the IUCN Global
-              Ecosystem Typology) and flows of goods and services from
-              the environment to the economy (e.g. carbon sequestration,
-              regulation of waste, flows of raw materials)–see Figure 1
-              below.</p>
+              Environmental-Economic Accounting United Nations
+              Statistics Division
+              (<xref alt="2024" rid="ref-united_nations_statistics_division_2024" ref-type="bibr">2024</xref>)
+              as appropriate, in particular to avoid confusion between
+              measurement of environmental stocks (e.g. the extent
+              and/or condition of specific ecosystem types aligned to
+              the IUCN Global Ecosystem Typology) and flows of goods and
+              services from the environment to the economy (e.g. carbon
+              sequestration, regulation of waste, flows of raw
+              materials)–see Figure 1 below.</p>
                 </list-item>
                 <list-item>
                   <p>Clearly document their functional, geographical and
@@ -276,20 +284,21 @@ fragmentation and credibility issues.
       and effectiveness. For example, investing in vehicles that employ
       ESG incorporation can encourage best-practice industry leaders by
       integrating ESG factors into financial analysis and investment
-      decisions, aligning with standards like the Taskforce on
-      Nature-related Financial Disclosures (TNFD). At the same time, ESG
-      performance strategies can actively engage companies to improve
-      their practices and continuously track ESG momentum. Impact
-      investing can unlock novel nature-based solutions or encourage
-      capital flow towards the circular economy. Green finance can fund
+      decision. This alignment with frameworks like the Taskforce on
+      Nature-related Financial Disclosures (TNFD)
+      (<xref alt="2024" rid="ref-tnfd_2024" ref-type="bibr">2024</xref>)
+      could support investors in addressing nature-related risks and
+      opportunities. At the same time, active ownership and shareholder
+      engagement can incentivize companies to improve their ESG
+      practices and create long-term value. As a distinct approach,
+      impact investing could support nature-based solutions and drive
+      innovation in the circular economy. Green finance can fund
       projects with specific environmental benefits through instruments
       like green and climate bonds, while social finance strategies can
       address pressing social issues through social and impact bonds.
       Governance and ethical strategies, such as active ownership and
       corporate governance investing, can drive corporate change and
-      align investments with personal values. Measuring and verifying
-      impact refers to the positive environmental or social impacts of
-      impact investment.</p>
+      align investments with personal values.</p>
         </list-item>
         <list-item>
           <label>6.</label>
@@ -307,11 +316,10 @@ fragmentation and credibility issues.
       additionality<xref ref-type="fn" rid="fn4">4</xref> and
       evidence-based<xref ref-type="fn" rid="fn5">5</xref>, ensuring
       that investments create positive outcomes that would not occur
-      otherwise. Impact Investments must align with fiduciary duty and
+      otherwise. Impact Investments must align with fiduciary duties and
       social investing, which requires asset managers to act in the best
       interest of beneficiaries and ensure investments align with
-      specified social or environmental objectives (Finance UNEP
-      Initiative, 2020).</p>
+      specified social or environmental objectives.</p>
         </list-item>
       </list>
       <list list-type="order">
@@ -321,13 +329,17 @@ fragmentation and credibility issues.
       an organisation’s environmental, social, and governance practices.
       Standards such as the Global Reporting Initiative (GRI),
       Sustainability Accounting Standards Board (SASB), Task Force on
-      Climate-related Financial Disclosures (TCFD), and the Greenhouse
-      Gas Protocol (GHG Protocol) help organisations provide transparent
-      information on their ESG performance, manage related risks, and
-      ensure regulatory compliance. Integrating various strategies
-      within AIX could be beneficial to ensure robust impact measurement
-      and verification, enhancing credibility and effectiveness in
-      driving sustainable development:</p>
+      Climate-related Financial Disclosures (Taskforce on
+      Climate-related Financial Disclosures (TCFD)
+      (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>)),
+      and the Greenhouse Gas Protocol (GHG Protocol
+      (<xref alt="2024" rid="ref-ghg_protocol_2024" ref-type="bibr">2024</xref>))
+      help organisations provide structured and transparent information
+      on their ESG performance, manage related risks, and ensure
+      regulatory compliance. Integrating various strategies within AIX
+      could be beneficial to ensure robust impact measurement and
+      verification, enhancing credibility and effectiveness in driving
+      sustainable development:</p>
         </list-item>
       </list>
       <fig>
@@ -375,11 +387,17 @@ fragmentation and credibility issues.
       meta-governance structure should integrate the critical aspects of
       commonly used standards tailored to different socially responsible
       investing strategies. For company reporting, frameworks such as
-      the Global Reporting Initiative (GRI), the Taskforce on
-      Nature-related Financial Disclosures (TNFD), the Task Force on
-      Climate-related Financial Disclosures (TCFD), and the
-      Sustainability Accounting Standards Board (SASB) provide essential
-      guidelines for companies to report their ESG performance.</p>
+      the Global Reporting Initiative (Global Reporting Initiative
+      (<xref alt="2021" rid="ref-gri2021" ref-type="bibr">2021</xref>)),
+      the Taskforce on Nature-related Financial Disclosures (Taskforce
+      on Nature-related Financial Disclosures (TNFD)
+      (<xref alt="2024" rid="ref-tnfd_2024" ref-type="bibr">2024</xref>)),
+      the Task Force on Climate-related Financial Disclosures (Taskforce
+      on Climate-related Financial Disclosures (TCFD)
+      (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>)),
+      and the Sustainability Accounting Standards Board (SASB) provide
+      essential guidelines for companies to report their ESG
+      performance.</p>
         </list-item>
         <list-item>
           <label>12.</label>
@@ -399,19 +417,22 @@ fragmentation and credibility issues.
         </list-item>
         <list-item>
           <label>13.</label>
-          <p>Regarding GHG emissions, accounting approaches range from VERRA
-      and Accounting for Nature to the ISO standards and the EU
-      Emissions Trading System (EU ETS). Comprehensive ecosystem
-      assessments can rely on the System of Environmental-Economic
-      Accounting (SEEA), which can build a critical basis for
-      integrating more holistic and comprehensive impact assessments.
-      While IRIS+ is commonly used to quantify or report qualitatively
-      on the impact of impact investments, integrating SEEA can enhance
-      the ability to assess broader ecological impacts systematically
-      and from a more holistic perspective. Incorporating varied
-      frameworks can support the robust and transparent outcome
-      measurement and verification of a digital finance exchange, foster
-      trust, and attract diverse investors.</p>
+          <p>Regarding GHG emissions, accounting approaches range in scope
+      and aims from VERRA and Accounting for Nature to the ISO standards
+      and the EU Emissions Trading System (EU ETS). Comprehensive
+      ecosystem assessments can rely on the System of
+      Environmental-Economic Accounting United Nations Statistics
+      Division
+      (<xref alt="2024" rid="ref-united_nations_statistics_division_2024" ref-type="bibr">2024</xref>),
+      which can build a critical basis for integrating more holistic and
+      comprehensive impact assessments. While IRIS+ is commonly used to
+      quantify or report qualitatively on the impact of impact
+      investments, integrating SEEA can enhance the ability to assess
+      broader ecological impacts systematically and from a more holistic
+      perspective. Incorporating varied frameworks can support the
+      robust and transparent outcome measurement and verification of a
+      digital finance exchange, foster trust, and attract diverse
+      investors.</p>
         </list-item>
       </list>
       <sec id="categorisation-of-measurement-and-verification-standards">
@@ -422,8 +443,10 @@ fragmentation and credibility issues.
             <label>14.</label>
             <p>The current measurement and verification standards landscape
         for institutional investment can be differentiated based on the
-        applied strategy (for example, ESG) or impact dimensions such as
-        climate, ecological health, and social impact. This
+        applied strategy (for example, ESG, Triple Bottom Line),
+        overaching goal (for example risk management, reputation,
+        regulatory compliance) or impact dimensions such as climate,
+        ecological health, and social impact (among others). This
         classification can help identify the relevant standards for each
         dimension, guiding principles, and frameworks. The impact
         dimensions cover the primary areas where impacts occur and are
@@ -455,7 +478,7 @@ fragmentation and credibility issues.
             <p>Illustrative tiers of analytical approaches to impact
       and ESG assessment</p>
           </caption>
-          <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%204.jpg"/>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%204.png"/>
         </fig>
         <list list-type="order">
           <list-item>
@@ -695,7 +718,7 @@ fragmentation and credibility issues.
             <p>Role of guiding principles and frameworks for ESG
       investment assessment</p>
           </caption>
-          <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%205.jpg"/>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%205.png"/>
         </fig>
         <list list-type="order">
           <list-item>
@@ -714,7 +737,7 @@ fragmentation and credibility issues.
             <p>Role of guiding principles and frameworks for ESG
       investment assessment</p>
           </caption>
-          <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%206.jpg"/>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%206.png"/>
         </fig>
         <list list-type="order">
           <list-item>
@@ -760,7 +783,20 @@ fragmentation and credibility issues.
         social outcomes, as seen with SROI. Understanding these overlaps
         and gaps is crucial for developing a comprehensive and credible
         impact assessment strategy, ensuring investments align with
-        broader social and environmental goals.</p>
+        broader social and environmental goals. Furthermore, Standards
+        differ in their approach to verification and certification.
+        Some, like ISO standards, require formal verification to certify
+        compliance with specific criteria, ensuring that organizations
+        meet the established standard. Others, such as the Global
+        Reporting Initiative (GRI), are primarily guidelines that
+        companies align with, and verification may depend on regional
+        regulations or organizational preferences—sometimes it is
+        required, other times optional. Verification also varies in
+        scope: standards like GRI verify the accuracy of reported
+        statements, ISO standards verify compliance with detailed
+        requirements, and frameworks like Science-Based Targets
+        initiative (SBTi) assess whether an organization’s efforts
+        genuinely aim to drive meaningful change.</p>
           </list-item>
         </list>
       </sec>
@@ -795,30 +831,6 @@ fragmentation and credibility issues.
         sectors and activities. It provides methodologies for
         calculating emissions from direct (Scope 1), indirect energy
         (Scope 2), and other indirect sources (Scope 3).</p>
-            <list list-type="bullet">
-              <list-item>
-                <p>ISO 14064 is an international standard developed by the
-            International Organization for Standardization (ISO) that
-            provides guidelines and requirements for greenhouse gas
-            emissions and removals. ISO 14064 is divided into three
-            parts:</p>
-              </list-item>
-              <list-item>
-                <p>ISO 14064-1: Specifies principles and requirements for
-            quantifying and reporting GHG emissions and removals at the
-            organisation level.</p>
-              </list-item>
-              <list-item>
-                <p>ISO 14064-2: Guides at the project level for quantifying,
-            monitoring, and reporting GHG emission reductions or removal
-            enhancements.</p>
-              </list-item>
-              <list-item>
-                <p>ISO 14064-3 Offers guidelines for validating and
-            verifying GHG assertions, ensuring the accuracy and
-            reliability of GHG reports.</p>
-              </list-item>
-            </list>
           </list-item>
           <list-item>
             <label>28.</label>
@@ -943,7 +955,7 @@ fragmentation and credibility issues.
             <p>Standards for measuring ecological health are essential for
         protecting and restoring biodiversity and ecosystem services.
         The frameworks focus on assessing and reporting the condition of
-        natural assets such as soils, vegetation, and fauna. The
+        natural assets such as soils, water, vegetation, and fauna. The
         following paragraphs introduces various ecological health
         standards and compares them, analysing their purpose, scope,
         market acceptance, strengths, and weaknesses to highlight their
@@ -1028,7 +1040,7 @@ fragmentation and credibility issues.
             <label>35.</label>
             <p>As outlined in the table below, other frameworks for
         nature-related measurement and verification have proliferated in
-        recent years, with heterogenous conceptual foundations and
+        recent years, with heterogeneous conceptual foundations and
         scope.</p>
           </list-item>
         </list>
@@ -1221,10 +1233,10 @@ fragmentation and credibility issues.
             <thead>
               <tr>
                 <th align="left">Framework</th>
-                <th align="left">Purpose.and.Coverage</th>
+                <th align="left">Purpose.Coverage</th>
                 <th align="left">Average</th>
-                <th align="left">Measurement.and.Verification.Requirements</th>
-                <th align="left">Overlap.and.Gaps</th>
+                <th align="left">MRV.Requirements</th>
+                <th align="left">Overlap.Gaps</th>
               </tr>
             </thead>
             <tbody>
@@ -1771,11 +1783,13 @@ fragmentation and credibility issues.
       Coalition (e.g. the Natural Capital Protocol), or Taskforces for
       Nature-Related, and Climate-Related Financial Disclosures (TNFD
       and TCFD respectively).</p>
-          <p>– enabling impact investment might be best underpinned by the
-      existing dedicated frameworks such as Global Impact Investing
-      Network’s (GIIN) IRIS+, the Social Return on Investment (SROI),
-      the Social Performance Task Force (SPTF), B Impact Assessment
-      (BIA) by B Lab, and the Impact Management Project (IMP).</p>
+          <p>– enabling impact investment might be best underpinned by by
+      existing dedicated tools and frameworks, such as the Global Impact
+      Investing Network’s (GIIN) IRIS+ for standardized metrics, the
+      Social Performance Task Force (SPTF) for social performance
+      management, the B Impact Assessment (BIA) by B Lab for evaluating
+      business impact, and the Impact Management Project (IMP) for
+      aligning impact measurement and management practices.</p>
           <p>– commodities or real property may be well matched with primary
       low-level measurement frameworks such as those developed for
       specific sectoral raw material supply chains (e.g. apparel,
@@ -1865,30 +1879,396 @@ fragmentation and credibility issues.
     </sec>
     <sec id="appendix">
       <title>7. Appendix</title>
-      <fig>
+      <table-wrap>
         <caption>
-          <p>Overview of ESG Strategies</p>
+          <p>Overview of ESG Strategies.</p>
         </caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="media/Appendix4.png"/>
-      </fig>
-      <fig>
+        <table>
+          <colgroup>
+            <col width="11%"/>
+            <col width="34%"/>
+            <col width="6%"/>
+            <col width="15%"/>
+            <col width="18%"/>
+            <col width="16%"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th align="left">Strategy</th>
+              <th align="left">Description</th>
+              <th align="left">Geography</th>
+              <th align="left">Acceptance</th>
+              <th align="left">Weaknesses</th>
+              <th align="left">Strengths</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left">Negative Screening</td>
+              <td align="left">Avoid the worst performers</td>
+              <td align="left">Global</td>
+              <td align="left">Widely accepted, especially in Europe</td>
+              <td align="left">May exclude potentially profitable
+          investments</td>
+              <td align="left">Simple to implement, reduces reputational
+          risk</td>
+            </tr>
+            <tr>
+              <td align="left">Norms-based Screening</td>
+              <td align="left">Screening based on international norms and
+          standards</td>
+              <td align="left">Global</td>
+              <td align="left">Growing acceptance, especially among
+          institutional investors</td>
+              <td align="left">Can be subjective, may miss new emerging
+          risks</td>
+              <td align="left">Aligns with international standards, enhances
+          ethical alignment</td>
+            </tr>
+            <tr>
+              <td align="left">Best-in-Class Selection / Positive
+          Screening</td>
+              <td align="left">Investing in companies with superior ESG
+          performance within their sector</td>
+              <td align="left">Global</td>
+              <td align="left">Widely accepted, especially in Europe</td>
+              <td align="left">Requires rigorous data and analysis, may lead
+          to over-diversification</td>
+              <td align="left">Encourages industry leaders, promotes best
+          practices</td>
+            </tr>
+            <tr>
+              <td align="left">ESG Integration</td>
+              <td align="left">Integrating ESG factors into financial
+          analysis and investment decisions</td>
+              <td align="left">Global</td>
+              <td align="left">Highly accepted, becoming standard
+          practice</td>
+              <td align="left">Requires comprehensive data integration</td>
+              <td align="left">Holistic approach, aligns with overall
+          corporate strategy</td>
+            </tr>
+            <tr>
+              <td align="left">Proxy Voting</td>
+              <td align="left">Formally expressing approval or disapproval
+          through voting on resolutions and proposing shareholder
+          resolutions on specific ESG issues.</td>
+              <td align="left">Global</td>
+              <td align="left">Widely accepted, especially in activist
+          funds</td>
+              <td align="left">Can be resource-intensive, may have slow
+          impact</td>
+              <td align="left">Promotes active ownership, can lead to
+          long-term improvements</td>
+            </tr>
+            <tr>
+              <td align="left">Engagement</td>
+              <td align="left">Engaging with companies to influence their
+          ESG practices</td>
+              <td align="left">Global</td>
+              <td align="left">Widely accepted, especially in activist
+          funds</td>
+              <td align="left">Can be resource-intensive, may have slow
+          impact</td>
+              <td align="left">Promotes active ownership, can lead to
+          long-term improvements</td>
+            </tr>
+            <tr>
+              <td align="left">ESG Momentum Investing</td>
+              <td align="left">Investing in companies improving their ESG
+          performance</td>
+              <td align="left">Europe, North America</td>
+              <td align="left">Emerging strategy</td>
+              <td align="left">Requires detailed performance tracking</td>
+              <td align="left">Encourages continuous improvement, dynamic
+          approach</td>
+            </tr>
+            <tr>
+              <td align="left">Negative/Positive Tilt</td>
+              <td align="left">Adjusting portfolio weight based on ESG
+          criteria</td>
+              <td align="left">Global</td>
+              <td align="left">Growing among passive and index
+          investors</td>
+              <td align="left">Can lead to sub-optimal diversification</td>
+              <td align="left">Enhances ESG exposure, flexible
+          implementation</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap>
         <caption>
-          <p>Overview of Impact Investment Strategies</p>
+          <p>Overview of Impact Investment Strategies.</p>
         </caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="media/Appendix3.png"/>
-      </fig>
-      <fig>
+        <table>
+          <colgroup>
+            <col width="8%"/>
+            <col width="23%"/>
+            <col width="9%"/>
+            <col width="18%"/>
+            <col width="19%"/>
+            <col width="24%"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th align="left">Strategy</th>
+              <th align="left">Description</th>
+              <th align="left">Geography</th>
+              <th align="left">Acceptance</th>
+              <th align="left">Weaknesses</th>
+              <th align="left">Strengths</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left">Sustainability Themed</td>
+              <td align="left">Investing in themes or sectors related to
+          sustainability</td>
+              <td align="left">Europe, Asia, North America</td>
+              <td align="left">High acceptance, especially in thematic
+          funds</td>
+              <td align="left">Can be niche, might limit
+          diversification</td>
+              <td align="left">Targets specific sustainability outcomes,
+          appeals to impact-focused investors</td>
+            </tr>
+            <tr>
+              <td align="left">Impact Investing</td>
+              <td align="left">Investing to generate measurable social or
+          environmental impact</td>
+              <td align="left">Global</td>
+              <td align="left">Growing, especially among social impact
+          funds</td>
+              <td align="left">Often involves higher risk, long time
+          horizons</td>
+              <td align="left">Directly addresses social and environmental
+          issues, measurable impact</td>
+            </tr>
+            <tr>
+              <td align="left">Community Investing</td>
+              <td align="left">Direct investments in community development
+          projects</td>
+              <td align="left">North America, Global</td>
+              <td align="left">Growing in popularity among socially
+          conscious investors</td>
+              <td align="left">Higher risk, often lower returns</td>
+              <td align="left">Supports local communities, social
+          impact</td>
+            </tr>
+            <tr>
+              <td align="left">Transition Investing</td>
+              <td align="left">Supporting companies in transitioning to
+          sustainable practices</td>
+              <td align="left">Europe, Asia</td>
+              <td align="left">Emerging strategy</td>
+              <td align="left">Risk of transition failure, can be capital
+          intensive</td>
+              <td align="left">Facilitates sustainability transitions, can
+          drive significant change</td>
+            </tr>
+            <tr>
+              <td align="left">Climate Change Mitigation</td>
+              <td align="left">Investments aimed at reducing carbon
+          emissions</td>
+              <td align="left">Global</td>
+              <td align="left">High acceptance among climate-focused
+          funds</td>
+              <td align="left">May be narrow in focus, requires thorough
+          impact assessment</td>
+              <td align="left">Addresses climate change directly, supports
+          global goals</td>
+            </tr>
+            <tr>
+              <td align="left">Circular Economy Investing</td>
+              <td align="left">Investing in companies promoting resource
+          efficiency and waste reduction</td>
+              <td align="left">Europe, Asia</td>
+              <td align="left">Growing acceptance</td>
+              <td align="left">Can be niche, may require specific
+          expertise</td>
+              <td align="left">Supports sustainable resource use, innovative
+          business models</td>
+            </tr>
+            <tr>
+              <td align="left">SDGs Investing</td>
+              <td align="left">Aligning investments with the UN’s
+          Sustainable Development Goals</td>
+              <td align="left">Global</td>
+              <td align="left">Increasing, especially among impact
+          investors</td>
+              <td align="left">Can be broad, difficult to measure
+          impact</td>
+              <td align="left">Aligns with global development goals, broad
+          impact</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap>
         <caption>
-          <p>Green Finance and Social Finance</p>
+          <p>Overview of Green Finance and Social Finance.</p>
         </caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="media/Appendix2.png"/>
-      </fig>
-      <fig>
+        <table>
+          <colgroup>
+            <col width="7%"/>
+            <col width="29%"/>
+            <col width="4%"/>
+            <col width="19%"/>
+            <col width="17%"/>
+            <col width="25%"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th align="left">Strategy</th>
+              <th align="left">Description</th>
+              <th align="left">Geography</th>
+              <th align="left">Acceptance</th>
+              <th align="left">Weaknesses</th>
+              <th align="left">Strengths</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left">Green Bonds</td>
+              <td align="left">Bonds specifically earmarked to fund projects
+          with positive environmental benefits</td>
+              <td align="left">Global</td>
+              <td align="left">Increasing, especially among institutional
+          investors</td>
+              <td align="left">Can be complex to assess impact</td>
+              <td align="left">Direct funding of environmental projects,
+          transparent use of proceeds</td>
+            </tr>
+            <tr>
+              <td align="left">Sustainability Bonds</td>
+              <td align="left">Bonds that finance both environmental and
+          social projects</td>
+              <td align="left">Global</td>
+              <td align="left">Growing in acceptance</td>
+              <td align="left">Requires clear reporting and impact
+          assessment</td>
+              <td align="left">Flexible funding for multiple sustainability
+          projects</td>
+            </tr>
+            <tr>
+              <td align="left">Climate Bonds</td>
+              <td align="left">Bonds aimed at raising capital for climate
+          change mitigation/adaptation</td>
+              <td align="left">Global</td>
+              <td align="left">High acceptance among climate-focused
+          funds</td>
+              <td align="left">Requires stringent verification</td>
+              <td align="left">Directly supports climate initiatives,
+          transparent objectives</td>
+            </tr>
+            <tr>
+              <td align="left">Social Bonds</td>
+              <td align="left">Bonds issued to raise funds for social
+          projects</td>
+              <td align="left">Global</td>
+              <td align="left">Growing in social impact sectors</td>
+              <td align="left">Requires clear impact measurement</td>
+              <td align="left">Addresses social issues directly, transparent
+          use of funds</td>
+            </tr>
+            <tr>
+              <td align="left">Social Impact Bonds</td>
+              <td align="left">Pay-for-success bonds funding social programs
+          with returns based on outcomes</td>
+              <td align="left">Global</td>
+              <td align="left">Emerging strategy, still developing
+          acceptance</td>
+              <td align="left">Complex to structure, outcome-based
+          risks</td>
+              <td align="left">Aligns financial returns with social
+          outcomes</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap>
         <caption>
-          <p>Governance and Ethical Investing</p>
+          <p>Overview of Governance and Ethical Investing.</p>
         </caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="media/Appendix1.png"/>
-      </fig>
+        <table>
+          <colgroup>
+            <col width="11%"/>
+            <col width="32%"/>
+            <col width="3%"/>
+            <col width="15%"/>
+            <col width="19%"/>
+            <col width="20%"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th align="left">Strategy</th>
+              <th align="left">Description</th>
+              <th align="left">Geography</th>
+              <th align="left">Acceptance</th>
+              <th align="left">Weaknesses</th>
+              <th align="left">Strengths</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left">Active Ownership</td>
+              <td align="left">Using shareholder power to influence
+          corporate behavior through proxy voting and engagement</td>
+              <td align="left">Global</td>
+              <td align="left">Widely accepted in activist circles</td>
+              <td align="left">Resource-intensive, may face resistance from
+          management</td>
+              <td align="left">Can drive significant corporate change,
+          empowers investors</td>
+            </tr>
+            <tr>
+              <td align="left">Corporate Governance Investing</td>
+              <td align="left">Focusing on companies with strong governance
+          practices</td>
+              <td align="left">Global</td>
+              <td align="left">Growing among governance-focused funds</td>
+              <td align="left">May overlook environmental and social
+          factors</td>
+              <td align="left">Enhances corporate governance, reduces
+          governance risks</td>
+            </tr>
+            <tr>
+              <td align="left">Faith-Based Investing</td>
+              <td align="left">Investments guided by religious or ethical
+          beliefs</td>
+              <td align="left">Global</td>
+              <td align="left">Niche market, specific to certain groups</td>
+              <td align="left">Aligns with investor values, ethical
+          alignment</td>
+              <td align="left"/>
+            </tr>
+            <tr>
+              <td align="left">Moral Investing</td>
+              <td align="left">Avoiding investments in industries or
+          companies that contradict moral values</td>
+              <td align="left">Global</td>
+              <td align="left">Niche market, specific to certain
+          beliefs</td>
+              <td align="left">Ensures investments reflect personal
+          values</td>
+              <td align="left"/>
+            </tr>
+            <tr>
+              <td align="left">Venture Philanthropy</td>
+              <td align="left">Combining venture capital principles with
+          philanthropy to maximize social impact</td>
+              <td align="left">Global</td>
+              <td align="left">Emerging, high potential for social
+          impact</td>
+              <td align="left">Higher risk, may involve lower financial
+          returns</td>
+              <td align="left">Maximizes social impact, innovative funding
+          approach</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
     </sec>
   </body>
   <back>
@@ -1969,6 +2349,85 @@ fragmentation and credibility issues.
           <uri>https://www.globalreporting.org/standards</uri>
         </element-citation>
       </ref>
+      <ref id="ref-bundesinitiative_impact_investing_2022">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <string-name>Bundesinitiative Impact Investing</string-name>
+          </person-group>
+          <article-title>Impact investing: A demanding definition for listed and non-listed products</article-title>
+          <year iso-8601-date="2022">2022</year>
+        </element-citation>
+      </ref>
+      <ref id="ref-capitals_coalition_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Capitals Coalition</string-name>
+          </person-group>
+          <article-title>Natural capital protocol</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://capitalscoalition.org/capitals-approach/natural-capital-protocol/?fwp_filter_tabs=guide_supplement</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-giin_2022">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>GIIN</string-name>
+          </person-group>
+          <article-title>What is impact investing?</article-title>
+          <year iso-8601-date="2022">2022</year>
+          <uri>https://thegiin.org/impact-investing/need-to-know/#what-is-impact-investing</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-iris_2022">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>IRIS+</string-name>
+          </person-group>
+          <article-title>IRIS+ THEMATIC TAXONOMY</article-title>
+          <year iso-8601-date="2022">2022</year>
+          <uri>https://s3.amazonaws.com/giin-web-assets/iris/assets/files/guidance/2022-07-19_IRIS-FND_Taxonomy.pdf</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-united_nations_statistics_division_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>United Nations Statistics Division</string-name>
+          </person-group>
+          <article-title>About SEEA</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://seea.un.org/content/about-seea</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-tnfd_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Taskforce on Nature-related Financial Disclosures (TNFD)</string-name>
+          </person-group>
+          <article-title>TNFD global</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://tnfd.global</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-tcfd_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Taskforce on Climate-related Financial Disclosures (TCFD)</string-name>
+          </person-group>
+          <article-title>TCFD hub</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://www.tcfdhub.org</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-ghg_protocol_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>GHG Protocol</string-name>
+          </person-group>
+          <article-title>Standards and guidance</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://ghgprotocol.org/standards-guidance</uri>
+        </element-citation>
+      </ref>
     </ref-list>
     <fn-group>
       <fn id="fn1">
@@ -1987,8 +2446,11 @@ fragmentation and credibility issues.
         <label>3</label>
         <p>Impact investments must have measurable outcomes,
     which should be quantifiable on a qualitative or quantitative basis,
-    and performance must be reported transparently (Bundesinitiative
-    Impact Investing; GIIN, 2022).</p>
+    and performance must be regularly and transparently reported
+    (Bundesinitiative Impact Investing
+    (<xref alt="2022" rid="ref-bundesinitiative_impact_investing_2022" ref-type="bibr">2022</xref>);
+    GIIN
+    (<xref alt="2022" rid="ref-giin_2022" ref-type="bibr">2022</xref>)).</p>
       </fn>
       <fn id="fn4">
         <label>4</label>
@@ -1996,15 +2458,18 @@ fragmentation and credibility issues.
     investment would only have achieved with the specific funding.
     Active investor engagement and sharing best practices are vital for
     attaining additionality and fostering growth in impact investing
-    (Bundesinitiative Impact Investing; GIIN, 2022).</p>
+    (Bundesinitiative Impact Investing
+    (<xref alt="2022" rid="ref-bundesinitiative_impact_investing_2022" ref-type="bibr">2022</xref>);
+    GIIN
+    (<xref alt="2022" rid="ref-giin_2022" ref-type="bibr">2022</xref>)).</p>
       </fn>
       <fn id="fn5">
         <label>5</label>
         <p>Using evidence to substantiate the intended
     impact is essential in impact investing, which involves using data
     and research to guide investment decisions and prove that
-    investments lead to meaningful social or environmental changes
-    (GIIN, 2022).</p>
+    investments lead to meaningful social or environmental changes (GIIN
+    (<xref alt="2022" rid="ref-giin_2022" ref-type="bibr">2022</xref>)).</p>
       </fn>
       <fn id="fn6">
         <label>6</label>
@@ -2013,7 +2478,7 @@ fragmentation and credibility issues.
       </fn>
     </fn-group>
   </back>
-  <sub-article article-type="notebook" id="nb-2-nb-article">
+  <sub-article article-type="notebook" id="nb-4-nb-article">
     <front-stub>
       <title-group>
         <article-title>Measurement and verification of environmental and social
@@ -2023,10 +2488,10 @@ outcomes for a proposed Australian Impact Exchange</article-title>
         <contrib contrib-type="author" corresp="yes">
           <contrib-id contrib-id-type="orcid">0000-0003-1313-3956</contrib-id>
           <name>
-            <surname>Arlette Schram</surname>
+            <surname>Arlette Schramm</surname>
             <given-names>Ben Milligan</given-names>
           </name>
-          <string-name>Arlette Schram, Marianne Feoli, Ben Milligan</string-name>
+          <string-name>Arlette Schramm, Marianne Feoli, Ben Milligan</string-name>
           <email>b.milligan@unsw.edu.au</email>
           <xref ref-type="aff" rid="aff-1-nb-article">a</xref>
           <xref ref-type="corresp" rid="cor-1-nb-article">*</xref>
@@ -2043,22 +2508,23 @@ Reform</institution>
       </author-notes>
       <abstract>
 Impact Exchanges require distinct measurement frameworks across asset
-classes (corporate securities, impact investments, commodities) due to
-fundamental differences in how environmental and social outcomes are
-quantified, verified, and reported within each market segment. We
-propose use of a “meta-standards” approach for incorporating measurement
-of environmental and social outcomes—establishing overarching principles
-for outcome measurement while allowing methodological flexibility -
-supported by a technical committee to ensure market integrity and
-framework interoperability. Short-term market demands for simple metrics
-must be balanced against systemic risks, as evidenced by carbon markets
-where inadequate standardization and verification led to market
-fragmentation and credibility issues.
+classes (equities and corporate debt, commodities, and alternative
+investments) due to fundamental differences in how environmental and
+social outcomes are quantified, verified, and reported within each
+market segment. We propose use of a “meta-standards” approach for
+incorporating measurement of environmental and social
+outcomes—establishing overarching principles for outcome measurement
+while allowing methodological flexibility - supported by a technical
+committee to ensure market integrity and framework interoperability.
+Short-term market demands for simple metrics must be balanced against
+systemic risks, as evidenced by carbon markets where inadequate
+standardization and verification led to market fragmentation and
+credibility issues.
 </abstract>
     </front-stub>
     <body>
-      <sec id="summary-of-key-findings-nb-article">
-        <title>1. Summary of key findings</title>
+      <sec id="key-findings-nb-article">
+        <title>1. Key findings</title>
         <list list-type="bullet">
           <list-item>
             <p>Measurement and verification of environmental and social
@@ -2068,10 +2534,11 @@ fragmentation and credibility issues.
       of diverse financial instruments for diverse asset classes. These
       methods are commonly applied as a subset of overarching frameworks
       and standards implementation—for positive and negative
-      environmental, social and governance (ESG) screening, impact
-      investment, corporate disclosure of impacts and dependencies,
-      sustainability certification or benchmarking, and other topic
-      areas. These frameworks and standards are characterised by highly
+      environmental, social and governance (ESG) screening, integration
+      of ESG factors into investment decisions, impact investment
+      strategies, corporate disclosure of impacts and dependencies,
+      sustainability certification or benchmarking, and other
+      specialized approaches. They are also characterised by highly
       varied degrees of: formal standardisation, public or private
       sector involvement, intellectual property licensing models, and
       transparency.</p>
@@ -2087,18 +2554,22 @@ fragmentation and credibility issues.
             <list list-type="bullet">
               <list-item>
                 <p>corporate securities might be best underpinned by holistic
-          disclosure frameworks such as those maintained by the Capitals
-          Coalition (e.g. the Natural Capital Protocol), or Taskforces
-          for Nature-Related, and Climate-Related Financial Disclosures
-          (TNFD and TCFD respectively).</p>
+          disclosure frameworks for example those maintained by the
+          Capitals Coalition
+          (<xref alt="2024" rid="ref-capitals_coalition_2024-nb-article" ref-type="bibr">2024</xref>),
+          Taskforce on Nature-related Financial Disclosures (TNFD)
+          (<xref alt="2024" rid="ref-tnfd_2024-nb-article" ref-type="bibr">2024</xref>),
+          or Taskforce on Climate-related Financial Disclosures (TCFD)
+          (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>).</p>
               </list-item>
               <list-item>
                 <p>enabling impact investment might be best underpinned by the
           existing dedicated frameworks such as Global Impact Investing
-          Network’s (GIIN) IRIS+, the Social Return on Investment
-          (SROI), the Social Performance Task Force (SPTF), B Impact
-          Assessment (BIA) by B Lab, and the Impact Management Project
-          (IMP).</p>
+          Network’s (GIIN) IRIS+
+          (<xref alt="2022" rid="ref-iris_2022-nb-article" ref-type="bibr">2022</xref>),
+          the Social Return on Investment (SROI), the Social Performance
+          Task Force (SPTF), B Impact Assessment (BIA) by B Lab, and the
+          Impact Management Project (IMP).</p>
               </list-item>
               <list-item>
                 <p>commodities or real property may be well matched with
@@ -2149,14 +2620,16 @@ fragmentation and credibility issues.
                     <p>Transparently document their definitional foundations,
               input data and assessment methods. Low-level definitions
               should be aligned with the System of
-              Environmental-Economic Accounting (SEEA) as appropriate,
-              in particular to avoid confusion between measurement of
-              environmental stocks (e.g. the extent and/or condition of
-              specific ecosystem types aligned to the IUCN Global
-              Ecosystem Typology) and flows of goods and services from
-              the environment to the economy (e.g. carbon sequestration,
-              regulation of waste, flows of raw materials)–see Figure 1
-              below.</p>
+              Environmental-Economic Accounting United Nations
+              Statistics Division
+              (<xref alt="2024" rid="ref-united_nations_statistics_division_2024-nb-article" ref-type="bibr">2024</xref>)
+              as appropriate, in particular to avoid confusion between
+              measurement of environmental stocks (e.g. the extent
+              and/or condition of specific ecosystem types aligned to
+              the IUCN Global Ecosystem Typology) and flows of goods and
+              services from the environment to the economy (e.g. carbon
+              sequestration, regulation of waste, flows of raw
+              materials)–see Figure 1 below.</p>
                   </list-item>
                   <list-item>
                     <p>Clearly document their functional, geographical and
@@ -2265,20 +2738,21 @@ fragmentation and credibility issues.
       and effectiveness. For example, investing in vehicles that employ
       ESG incorporation can encourage best-practice industry leaders by
       integrating ESG factors into financial analysis and investment
-      decisions, aligning with standards like the Taskforce on
-      Nature-related Financial Disclosures (TNFD). At the same time, ESG
-      performance strategies can actively engage companies to improve
-      their practices and continuously track ESG momentum. Impact
-      investing can unlock novel nature-based solutions or encourage
-      capital flow towards the circular economy. Green finance can fund
+      decision. This alignment with frameworks like the Taskforce on
+      Nature-related Financial Disclosures (TNFD)
+      (<xref alt="2024" rid="ref-tnfd_2024-nb-article" ref-type="bibr">2024</xref>)
+      could support investors in addressing nature-related risks and
+      opportunities. At the same time, active ownership and shareholder
+      engagement can incentivize companies to improve their ESG
+      practices and create long-term value. As a distinct approach,
+      impact investing could support nature-based solutions and drive
+      innovation in the circular economy. Green finance can fund
       projects with specific environmental benefits through instruments
       like green and climate bonds, while social finance strategies can
       address pressing social issues through social and impact bonds.
       Governance and ethical strategies, such as active ownership and
       corporate governance investing, can drive corporate change and
-      align investments with personal values. Measuring and verifying
-      impact refers to the positive environmental or social impacts of
-      impact investment.</p>
+      align investments with personal values.</p>
           </list-item>
           <list-item>
             <label>6.</label>
@@ -2296,11 +2770,10 @@ fragmentation and credibility issues.
       additionality<xref ref-type="fn" rid="fn4-nb-article">4</xref> and
       evidence-based<xref ref-type="fn" rid="fn5-nb-article">5</xref>, ensuring
       that investments create positive outcomes that would not occur
-      otherwise. Impact Investments must align with fiduciary duty and
+      otherwise. Impact Investments must align with fiduciary duties and
       social investing, which requires asset managers to act in the best
       interest of beneficiaries and ensure investments align with
-      specified social or environmental objectives (Finance UNEP
-      Initiative, 2020).</p>
+      specified social or environmental objectives.</p>
           </list-item>
         </list>
         <list list-type="order">
@@ -2310,13 +2783,17 @@ fragmentation and credibility issues.
       an organisation’s environmental, social, and governance practices.
       Standards such as the Global Reporting Initiative (GRI),
       Sustainability Accounting Standards Board (SASB), Task Force on
-      Climate-related Financial Disclosures (TCFD), and the Greenhouse
-      Gas Protocol (GHG Protocol) help organisations provide transparent
-      information on their ESG performance, manage related risks, and
-      ensure regulatory compliance. Integrating various strategies
-      within AIX could be beneficial to ensure robust impact measurement
-      and verification, enhancing credibility and effectiveness in
-      driving sustainable development:</p>
+      Climate-related Financial Disclosures (Taskforce on
+      Climate-related Financial Disclosures (TCFD)
+      (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>)),
+      and the Greenhouse Gas Protocol (GHG Protocol
+      (<xref alt="2024" rid="ref-ghg_protocol_2024-nb-article" ref-type="bibr">2024</xref>))
+      help organisations provide structured and transparent information
+      on their ESG performance, manage related risks, and ensure
+      regulatory compliance. Integrating various strategies within AIX
+      could be beneficial to ensure robust impact measurement and
+      verification, enhancing credibility and effectiveness in driving
+      sustainable development:</p>
           </list-item>
         </list>
         <fig>
@@ -2364,11 +2841,17 @@ fragmentation and credibility issues.
       meta-governance structure should integrate the critical aspects of
       commonly used standards tailored to different socially responsible
       investing strategies. For company reporting, frameworks such as
-      the Global Reporting Initiative (GRI), the Taskforce on
-      Nature-related Financial Disclosures (TNFD), the Task Force on
-      Climate-related Financial Disclosures (TCFD), and the
-      Sustainability Accounting Standards Board (SASB) provide essential
-      guidelines for companies to report their ESG performance.</p>
+      the Global Reporting Initiative (Global Reporting Initiative
+      (<xref alt="2021" rid="ref-gri2021-nb-article" ref-type="bibr">2021</xref>)),
+      the Taskforce on Nature-related Financial Disclosures (Taskforce
+      on Nature-related Financial Disclosures (TNFD)
+      (<xref alt="2024" rid="ref-tnfd_2024-nb-article" ref-type="bibr">2024</xref>)),
+      the Task Force on Climate-related Financial Disclosures (Taskforce
+      on Climate-related Financial Disclosures (TCFD)
+      (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>)),
+      and the Sustainability Accounting Standards Board (SASB) provide
+      essential guidelines for companies to report their ESG
+      performance.</p>
           </list-item>
           <list-item>
             <label>12.</label>
@@ -2388,19 +2871,22 @@ fragmentation and credibility issues.
           </list-item>
           <list-item>
             <label>13.</label>
-            <p>Regarding GHG emissions, accounting approaches range from VERRA
-      and Accounting for Nature to the ISO standards and the EU
-      Emissions Trading System (EU ETS). Comprehensive ecosystem
-      assessments can rely on the System of Environmental-Economic
-      Accounting (SEEA), which can build a critical basis for
-      integrating more holistic and comprehensive impact assessments.
-      While IRIS+ is commonly used to quantify or report qualitatively
-      on the impact of impact investments, integrating SEEA can enhance
-      the ability to assess broader ecological impacts systematically
-      and from a more holistic perspective. Incorporating varied
-      frameworks can support the robust and transparent outcome
-      measurement and verification of a digital finance exchange, foster
-      trust, and attract diverse investors.</p>
+            <p>Regarding GHG emissions, accounting approaches range in scope
+      and aims from VERRA and Accounting for Nature to the ISO standards
+      and the EU Emissions Trading System (EU ETS). Comprehensive
+      ecosystem assessments can rely on the System of
+      Environmental-Economic Accounting United Nations Statistics
+      Division
+      (<xref alt="2024" rid="ref-united_nations_statistics_division_2024-nb-article" ref-type="bibr">2024</xref>),
+      which can build a critical basis for integrating more holistic and
+      comprehensive impact assessments. While IRIS+ is commonly used to
+      quantify or report qualitatively on the impact of impact
+      investments, integrating SEEA can enhance the ability to assess
+      broader ecological impacts systematically and from a more holistic
+      perspective. Incorporating varied frameworks can support the
+      robust and transparent outcome measurement and verification of a
+      digital finance exchange, foster trust, and attract diverse
+      investors.</p>
           </list-item>
         </list>
         <sec id="categorisation-of-measurement-and-verification-standards-nb-article">
@@ -2411,8 +2897,10 @@ fragmentation and credibility issues.
               <label>14.</label>
               <p>The current measurement and verification standards landscape
         for institutional investment can be differentiated based on the
-        applied strategy (for example, ESG) or impact dimensions such as
-        climate, ecological health, and social impact. This
+        applied strategy (for example, ESG, Triple Bottom Line),
+        overaching goal (for example risk management, reputation,
+        regulatory compliance) or impact dimensions such as climate,
+        ecological health, and social impact (among others). This
         classification can help identify the relevant standards for each
         dimension, guiding principles, and frameworks. The impact
         dimensions cover the primary areas where impacts occur and are
@@ -2444,7 +2932,7 @@ fragmentation and credibility issues.
               <p>Illustrative tiers of analytical approaches to impact
       and ESG assessment</p>
             </caption>
-            <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%204.jpg"/>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%204.png"/>
           </fig>
           <list list-type="order">
             <list-item>
@@ -2690,7 +3178,7 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
               <p>Role of guiding principles and frameworks for ESG
       investment assessment</p>
             </caption>
-            <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%205.jpg"/>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%205.png"/>
           </fig>
           <list list-type="order">
             <list-item>
@@ -2709,7 +3197,7 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
               <p>Role of guiding principles and frameworks for ESG
       investment assessment</p>
             </caption>
-            <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%206.jpg"/>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%206.png"/>
           </fig>
           <list list-type="order">
             <list-item>
@@ -2755,7 +3243,20 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
         social outcomes, as seen with SROI. Understanding these overlaps
         and gaps is crucial for developing a comprehensive and credible
         impact assessment strategy, ensuring investments align with
-        broader social and environmental goals.</p>
+        broader social and environmental goals. Furthermore, Standards
+        differ in their approach to verification and certification.
+        Some, like ISO standards, require formal verification to certify
+        compliance with specific criteria, ensuring that organizations
+        meet the established standard. Others, such as the Global
+        Reporting Initiative (GRI), are primarily guidelines that
+        companies align with, and verification may depend on regional
+        regulations or organizational preferences—sometimes it is
+        required, other times optional. Verification also varies in
+        scope: standards like GRI verify the accuracy of reported
+        statements, ISO standards verify compliance with detailed
+        requirements, and frameworks like Science-Based Targets
+        initiative (SBTi) assess whether an organization’s efforts
+        genuinely aim to drive meaningful change.</p>
             </list-item>
           </list>
         </sec>
@@ -2790,30 +3291,6 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
         sectors and activities. It provides methodologies for
         calculating emissions from direct (Scope 1), indirect energy
         (Scope 2), and other indirect sources (Scope 3).</p>
-              <list list-type="bullet">
-                <list-item>
-                  <p>ISO 14064 is an international standard developed by the
-            International Organization for Standardization (ISO) that
-            provides guidelines and requirements for greenhouse gas
-            emissions and removals. ISO 14064 is divided into three
-            parts:</p>
-                </list-item>
-                <list-item>
-                  <p>ISO 14064-1: Specifies principles and requirements for
-            quantifying and reporting GHG emissions and removals at the
-            organisation level.</p>
-                </list-item>
-                <list-item>
-                  <p>ISO 14064-2: Guides at the project level for quantifying,
-            monitoring, and reporting GHG emission reductions or removal
-            enhancements.</p>
-                </list-item>
-                <list-item>
-                  <p>ISO 14064-3 Offers guidelines for validating and
-            verifying GHG assertions, ensuring the accuracy and
-            reliability of GHG reports.</p>
-                </list-item>
-              </list>
             </list-item>
             <list-item>
               <label>28.</label>
@@ -2944,7 +3421,7 @@ kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measu
               <p>Standards for measuring ecological health are essential for
         protecting and restoring biodiversity and ecosystem services.
         The frameworks focus on assessing and reporting the condition of
-        natural assets such as soils, vegetation, and fauna. The
+        natural assets such as soils, water, vegetation, and fauna. The
         following paragraphs introduces various ecological health
         standards and compares them, analysing their purpose, scope,
         market acceptance, strengths, and weaknesses to highlight their
@@ -3029,7 +3506,7 @@ kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measu
               <label>35.</label>
               <p>As outlined in the table below, other frameworks for
         nature-related measurement and verification have proliferated in
-        recent years, with heterogenous conceptual foundations and
+        recent years, with heterogeneous conceptual foundations and
         scope.</p>
             </list-item>
           </list>
@@ -3234,10 +3711,10 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
               <thead>
                 <tr>
                   <th align="left">Framework</th>
-                  <th align="left">Purpose.and.Coverage</th>
+                  <th align="left">Purpose.Coverage</th>
                   <th align="left">Average</th>
-                  <th align="left">Measurement.and.Verification.Requirements</th>
-                  <th align="left">Overlap.and.Gaps</th>
+                  <th align="left">MRV.Requirements</th>
+                  <th align="left">Overlap.Gaps</th>
                 </tr>
               </thead>
               <tbody>
@@ -3784,11 +4261,13 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
       Coalition (e.g. the Natural Capital Protocol), or Taskforces for
       Nature-Related, and Climate-Related Financial Disclosures (TNFD
       and TCFD respectively).</p>
-            <p>– enabling impact investment might be best underpinned by the
-      existing dedicated frameworks such as Global Impact Investing
-      Network’s (GIIN) IRIS+, the Social Return on Investment (SROI),
-      the Social Performance Task Force (SPTF), B Impact Assessment
-      (BIA) by B Lab, and the Impact Management Project (IMP).</p>
+            <p>– enabling impact investment might be best underpinned by by
+      existing dedicated tools and frameworks, such as the Global Impact
+      Investing Network’s (GIIN) IRIS+ for standardized metrics, the
+      Social Performance Task Force (SPTF) for social performance
+      management, the B Impact Assessment (BIA) by B Lab for evaluating
+      business impact, and the Impact Management Project (IMP) for
+      aligning impact measurement and management practices.</p>
             <p>– commodities or real property may be well matched with primary
       low-level measurement frameworks such as those developed for
       specific sectoral raw material supply chains (e.g. apparel,
@@ -3878,30 +4357,420 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
       </sec>
       <sec id="appendix-nb-article">
         <title>7. Appendix</title>
-        <fig>
+        <sec specific-use="notebook-content">
+          <code language="css">.small .table {font-size: 10px;}</code>
+        </sec>
+        <code language="r script">data &lt;- read.csv(file = "Figure-7.csv")
+library(knitr)
+kable(data[1:8, ], caption = "Overview of ESG Strategies.")</code>
+        <table-wrap>
           <caption>
-            <p>Overview of ESG Strategies</p>
+            <p>Overview of ESG Strategies.</p>
           </caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="media/Appendix4.png"/>
-        </fig>
-        <fig>
+          <table>
+            <colgroup>
+              <col width="11%"/>
+              <col width="34%"/>
+              <col width="6%"/>
+              <col width="15%"/>
+              <col width="18%"/>
+              <col width="16%"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Strategy</th>
+                <th align="left">Description</th>
+                <th align="left">Geography</th>
+                <th align="left">Acceptance</th>
+                <th align="left">Weaknesses</th>
+                <th align="left">Strengths</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Negative Screening</td>
+                <td align="left">Avoid the worst performers</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted, especially in Europe</td>
+                <td align="left">May exclude potentially profitable
+          investments</td>
+                <td align="left">Simple to implement, reduces reputational
+          risk</td>
+              </tr>
+              <tr>
+                <td align="left">Norms-based Screening</td>
+                <td align="left">Screening based on international norms and
+          standards</td>
+                <td align="left">Global</td>
+                <td align="left">Growing acceptance, especially among
+          institutional investors</td>
+                <td align="left">Can be subjective, may miss new emerging
+          risks</td>
+                <td align="left">Aligns with international standards, enhances
+          ethical alignment</td>
+              </tr>
+              <tr>
+                <td align="left">Best-in-Class Selection / Positive
+          Screening</td>
+                <td align="left">Investing in companies with superior ESG
+          performance within their sector</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted, especially in Europe</td>
+                <td align="left">Requires rigorous data and analysis, may lead
+          to over-diversification</td>
+                <td align="left">Encourages industry leaders, promotes best
+          practices</td>
+              </tr>
+              <tr>
+                <td align="left">ESG Integration</td>
+                <td align="left">Integrating ESG factors into financial
+          analysis and investment decisions</td>
+                <td align="left">Global</td>
+                <td align="left">Highly accepted, becoming standard
+          practice</td>
+                <td align="left">Requires comprehensive data integration</td>
+                <td align="left">Holistic approach, aligns with overall
+          corporate strategy</td>
+              </tr>
+              <tr>
+                <td align="left">Proxy Voting</td>
+                <td align="left">Formally expressing approval or disapproval
+          through voting on resolutions and proposing shareholder
+          resolutions on specific ESG issues.</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted, especially in activist
+          funds</td>
+                <td align="left">Can be resource-intensive, may have slow
+          impact</td>
+                <td align="left">Promotes active ownership, can lead to
+          long-term improvements</td>
+              </tr>
+              <tr>
+                <td align="left">Engagement</td>
+                <td align="left">Engaging with companies to influence their
+          ESG practices</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted, especially in activist
+          funds</td>
+                <td align="left">Can be resource-intensive, may have slow
+          impact</td>
+                <td align="left">Promotes active ownership, can lead to
+          long-term improvements</td>
+              </tr>
+              <tr>
+                <td align="left">ESG Momentum Investing</td>
+                <td align="left">Investing in companies improving their ESG
+          performance</td>
+                <td align="left">Europe, North America</td>
+                <td align="left">Emerging strategy</td>
+                <td align="left">Requires detailed performance tracking</td>
+                <td align="left">Encourages continuous improvement, dynamic
+          approach</td>
+              </tr>
+              <tr>
+                <td align="left">Negative/Positive Tilt</td>
+                <td align="left">Adjusting portfolio weight based on ESG
+          criteria</td>
+                <td align="left">Global</td>
+                <td align="left">Growing among passive and index
+          investors</td>
+                <td align="left">Can lead to sub-optimal diversification</td>
+                <td align="left">Enhances ESG exposure, flexible
+          implementation</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <sec specific-use="notebook-content">
+          <code language="css">.small .table {font-size: 10px;}</code>
+        </sec>
+        <code language="r script">data &lt;- read.csv(file = "Figure-8.csv")
+library(knitr)
+kable(data[1:7, ], caption = "Overview of Impact Investment Strategies.")</code>
+        <table-wrap>
           <caption>
-            <p>Overview of Impact Investment Strategies</p>
+            <p>Overview of Impact Investment Strategies.</p>
           </caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="media/Appendix3.png"/>
-        </fig>
-        <fig>
+          <table>
+            <colgroup>
+              <col width="8%"/>
+              <col width="23%"/>
+              <col width="9%"/>
+              <col width="18%"/>
+              <col width="19%"/>
+              <col width="24%"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Strategy</th>
+                <th align="left">Description</th>
+                <th align="left">Geography</th>
+                <th align="left">Acceptance</th>
+                <th align="left">Weaknesses</th>
+                <th align="left">Strengths</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Sustainability Themed</td>
+                <td align="left">Investing in themes or sectors related to
+          sustainability</td>
+                <td align="left">Europe, Asia, North America</td>
+                <td align="left">High acceptance, especially in thematic
+          funds</td>
+                <td align="left">Can be niche, might limit
+          diversification</td>
+                <td align="left">Targets specific sustainability outcomes,
+          appeals to impact-focused investors</td>
+              </tr>
+              <tr>
+                <td align="left">Impact Investing</td>
+                <td align="left">Investing to generate measurable social or
+          environmental impact</td>
+                <td align="left">Global</td>
+                <td align="left">Growing, especially among social impact
+          funds</td>
+                <td align="left">Often involves higher risk, long time
+          horizons</td>
+                <td align="left">Directly addresses social and environmental
+          issues, measurable impact</td>
+              </tr>
+              <tr>
+                <td align="left">Community Investing</td>
+                <td align="left">Direct investments in community development
+          projects</td>
+                <td align="left">North America, Global</td>
+                <td align="left">Growing in popularity among socially
+          conscious investors</td>
+                <td align="left">Higher risk, often lower returns</td>
+                <td align="left">Supports local communities, social
+          impact</td>
+              </tr>
+              <tr>
+                <td align="left">Transition Investing</td>
+                <td align="left">Supporting companies in transitioning to
+          sustainable practices</td>
+                <td align="left">Europe, Asia</td>
+                <td align="left">Emerging strategy</td>
+                <td align="left">Risk of transition failure, can be capital
+          intensive</td>
+                <td align="left">Facilitates sustainability transitions, can
+          drive significant change</td>
+              </tr>
+              <tr>
+                <td align="left">Climate Change Mitigation</td>
+                <td align="left">Investments aimed at reducing carbon
+          emissions</td>
+                <td align="left">Global</td>
+                <td align="left">High acceptance among climate-focused
+          funds</td>
+                <td align="left">May be narrow in focus, requires thorough
+          impact assessment</td>
+                <td align="left">Addresses climate change directly, supports
+          global goals</td>
+              </tr>
+              <tr>
+                <td align="left">Circular Economy Investing</td>
+                <td align="left">Investing in companies promoting resource
+          efficiency and waste reduction</td>
+                <td align="left">Europe, Asia</td>
+                <td align="left">Growing acceptance</td>
+                <td align="left">Can be niche, may require specific
+          expertise</td>
+                <td align="left">Supports sustainable resource use, innovative
+          business models</td>
+              </tr>
+              <tr>
+                <td align="left">SDGs Investing</td>
+                <td align="left">Aligning investments with the UN’s
+          Sustainable Development Goals</td>
+                <td align="left">Global</td>
+                <td align="left">Increasing, especially among impact
+          investors</td>
+                <td align="left">Can be broad, difficult to measure
+          impact</td>
+                <td align="left">Aligns with global development goals, broad
+          impact</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <sec specific-use="notebook-content">
+          <code language="css">.small .table {font-size: 10px;}</code>
+        </sec>
+        <code language="r script">data &lt;- read.csv(file = "Figure-9.csv")
+library(knitr)
+kable(data[1:5, ], caption = "Overview of Green Finance and Social Finance.")</code>
+        <table-wrap>
           <caption>
-            <p>Green Finance and Social Finance</p>
+            <p>Overview of Green Finance and Social Finance.</p>
           </caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="media/Appendix2.png"/>
-        </fig>
-        <fig>
+          <table>
+            <colgroup>
+              <col width="7%"/>
+              <col width="29%"/>
+              <col width="4%"/>
+              <col width="19%"/>
+              <col width="17%"/>
+              <col width="25%"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Strategy</th>
+                <th align="left">Description</th>
+                <th align="left">Geography</th>
+                <th align="left">Acceptance</th>
+                <th align="left">Weaknesses</th>
+                <th align="left">Strengths</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Green Bonds</td>
+                <td align="left">Bonds specifically earmarked to fund projects
+          with positive environmental benefits</td>
+                <td align="left">Global</td>
+                <td align="left">Increasing, especially among institutional
+          investors</td>
+                <td align="left">Can be complex to assess impact</td>
+                <td align="left">Direct funding of environmental projects,
+          transparent use of proceeds</td>
+              </tr>
+              <tr>
+                <td align="left">Sustainability Bonds</td>
+                <td align="left">Bonds that finance both environmental and
+          social projects</td>
+                <td align="left">Global</td>
+                <td align="left">Growing in acceptance</td>
+                <td align="left">Requires clear reporting and impact
+          assessment</td>
+                <td align="left">Flexible funding for multiple sustainability
+          projects</td>
+              </tr>
+              <tr>
+                <td align="left">Climate Bonds</td>
+                <td align="left">Bonds aimed at raising capital for climate
+          change mitigation/adaptation</td>
+                <td align="left">Global</td>
+                <td align="left">High acceptance among climate-focused
+          funds</td>
+                <td align="left">Requires stringent verification</td>
+                <td align="left">Directly supports climate initiatives,
+          transparent objectives</td>
+              </tr>
+              <tr>
+                <td align="left">Social Bonds</td>
+                <td align="left">Bonds issued to raise funds for social
+          projects</td>
+                <td align="left">Global</td>
+                <td align="left">Growing in social impact sectors</td>
+                <td align="left">Requires clear impact measurement</td>
+                <td align="left">Addresses social issues directly, transparent
+          use of funds</td>
+              </tr>
+              <tr>
+                <td align="left">Social Impact Bonds</td>
+                <td align="left">Pay-for-success bonds funding social programs
+          with returns based on outcomes</td>
+                <td align="left">Global</td>
+                <td align="left">Emerging strategy, still developing
+          acceptance</td>
+                <td align="left">Complex to structure, outcome-based
+          risks</td>
+                <td align="left">Aligns financial returns with social
+          outcomes</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <sec specific-use="notebook-content">
+          <code language="css">.small .table {font-size: 10px;}</code>
+        </sec>
+        <code language="r script">data &lt;- read.csv(file = "Figure-10.csv")
+library(knitr)
+kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</code>
+        <table-wrap>
           <caption>
-            <p>Governance and Ethical Investing</p>
+            <p>Overview of Governance and Ethical Investing.</p>
           </caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="media/Appendix1.png"/>
-        </fig>
+          <table>
+            <colgroup>
+              <col width="11%"/>
+              <col width="32%"/>
+              <col width="3%"/>
+              <col width="15%"/>
+              <col width="19%"/>
+              <col width="20%"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Strategy</th>
+                <th align="left">Description</th>
+                <th align="left">Geography</th>
+                <th align="left">Acceptance</th>
+                <th align="left">Weaknesses</th>
+                <th align="left">Strengths</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Active Ownership</td>
+                <td align="left">Using shareholder power to influence
+          corporate behavior through proxy voting and engagement</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted in activist circles</td>
+                <td align="left">Resource-intensive, may face resistance from
+          management</td>
+                <td align="left">Can drive significant corporate change,
+          empowers investors</td>
+              </tr>
+              <tr>
+                <td align="left">Corporate Governance Investing</td>
+                <td align="left">Focusing on companies with strong governance
+          practices</td>
+                <td align="left">Global</td>
+                <td align="left">Growing among governance-focused funds</td>
+                <td align="left">May overlook environmental and social
+          factors</td>
+                <td align="left">Enhances corporate governance, reduces
+          governance risks</td>
+              </tr>
+              <tr>
+                <td align="left">Faith-Based Investing</td>
+                <td align="left">Investments guided by religious or ethical
+          beliefs</td>
+                <td align="left">Global</td>
+                <td align="left">Niche market, specific to certain groups</td>
+                <td align="left">Aligns with investor values, ethical
+          alignment</td>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Moral Investing</td>
+                <td align="left">Avoiding investments in industries or
+          companies that contradict moral values</td>
+                <td align="left">Global</td>
+                <td align="left">Niche market, specific to certain
+          beliefs</td>
+                <td align="left">Ensures investments reflect personal
+          values</td>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Venture Philanthropy</td>
+                <td align="left">Combining venture capital principles with
+          philanthropy to maximize social impact</td>
+                <td align="left">Global</td>
+                <td align="left">Emerging, high potential for social
+          impact</td>
+                <td align="left">Higher risk, may involve lower financial
+          returns</td>
+                <td align="left">Maximizes social impact, innovative funding
+          approach</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
       </sec>
     </body>
     <back>
@@ -3982,6 +4851,85 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
             <uri>https://www.globalreporting.org/standards</uri>
           </element-citation>
         </ref>
+        <ref id="ref-bundesinitiative_impact_investing_2022-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <string-name>Bundesinitiative Impact Investing</string-name>
+            </person-group>
+            <article-title>Impact investing: A demanding definition for listed and non-listed products</article-title>
+            <year iso-8601-date="2022">2022</year>
+          </element-citation>
+        </ref>
+        <ref id="ref-capitals_coalition_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Capitals Coalition</string-name>
+            </person-group>
+            <article-title>Natural capital protocol</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://capitalscoalition.org/capitals-approach/natural-capital-protocol/?fwp_filter_tabs=guide_supplement</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-giin_2022-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>GIIN</string-name>
+            </person-group>
+            <article-title>What is impact investing?</article-title>
+            <year iso-8601-date="2022">2022</year>
+            <uri>https://thegiin.org/impact-investing/need-to-know/#what-is-impact-investing</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-iris_2022-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>IRIS+</string-name>
+            </person-group>
+            <article-title>IRIS+ THEMATIC TAXONOMY</article-title>
+            <year iso-8601-date="2022">2022</year>
+            <uri>https://s3.amazonaws.com/giin-web-assets/iris/assets/files/guidance/2022-07-19_IRIS-FND_Taxonomy.pdf</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-united_nations_statistics_division_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>United Nations Statistics Division</string-name>
+            </person-group>
+            <article-title>About SEEA</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://seea.un.org/content/about-seea</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-tnfd_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Taskforce on Nature-related Financial Disclosures (TNFD)</string-name>
+            </person-group>
+            <article-title>TNFD global</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://tnfd.global</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-tcfd_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Taskforce on Climate-related Financial Disclosures (TCFD)</string-name>
+            </person-group>
+            <article-title>TCFD hub</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://www.tcfdhub.org</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-ghg_protocol_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>GHG Protocol</string-name>
+            </person-group>
+            <article-title>Standards and guidance</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://ghgprotocol.org/standards-guidance</uri>
+          </element-citation>
+        </ref>
       </ref-list>
       <fn-group>
         <fn id="fn1-nb-article">
@@ -4000,8 +4948,11 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
           <label>3</label>
           <p>Impact investments must have measurable outcomes,
     which should be quantifiable on a qualitative or quantitative basis,
-    and performance must be reported transparently (Bundesinitiative
-    Impact Investing; GIIN, 2022).</p>
+    and performance must be regularly and transparently reported
+    (Bundesinitiative Impact Investing
+    (<xref alt="2022" rid="ref-bundesinitiative_impact_investing_2022-nb-article" ref-type="bibr">2022</xref>);
+    GIIN
+    (<xref alt="2022" rid="ref-giin_2022-nb-article" ref-type="bibr">2022</xref>)).</p>
         </fn>
         <fn id="fn4-nb-article">
           <label>4</label>
@@ -4009,15 +4960,18 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
     investment would only have achieved with the specific funding.
     Active investor engagement and sharing best practices are vital for
     attaining additionality and fostering growth in impact investing
-    (Bundesinitiative Impact Investing; GIIN, 2022).</p>
+    (Bundesinitiative Impact Investing
+    (<xref alt="2022" rid="ref-bundesinitiative_impact_investing_2022-nb-article" ref-type="bibr">2022</xref>);
+    GIIN
+    (<xref alt="2022" rid="ref-giin_2022-nb-article" ref-type="bibr">2022</xref>)).</p>
         </fn>
         <fn id="fn5-nb-article">
           <label>5</label>
           <p>Using evidence to substantiate the intended
     impact is essential in impact investing, which involves using data
     and research to guide investment decisions and prove that
-    investments lead to meaningful social or environmental changes
-    (GIIN, 2022).</p>
+    investments lead to meaningful social or environmental changes (GIIN
+    (<xref alt="2022" rid="ref-giin_2022-nb-article" ref-type="bibr">2022</xref>)).</p>
         </fn>
         <fn id="fn6-nb-article">
           <label>6</label>
