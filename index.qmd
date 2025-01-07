@@ -32,9 +32,9 @@ citation:
 
 -   Establishing public exchanges based on verified environmental and social outcomes (“Impact Exchanges”) involves careful design choices—about the specific measurement and verification methods, frameworks and standards that determine market disclosures. These design choices depend fundamentally on the scope of assets or instruments that can be traded—for example Impact Exchanges focused on:
 
-    -   corporate securities might be best underpinned by holistic disclosure frameworks such as those maintained by the Capitals Coalition (e.g. the Natural Capital Protocol), or Taskforces for Nature-Related, and Climate-Related Financial Disclosures (TNFD and TCFD respectively).
+    -   corporate securities might be best underpinned by holistic disclosure frameworks for example those maintained by the @capitals_coalition_2024, @tnfd_2024, or @tcfd_2024.
 
-    -   enabling impact investment might be best underpinned by the existing dedicated frameworks such as Global Impact Investing Network's (GIIN) IRIS+, the Social Return on Investment (SROI), the Social Performance Task Force (SPTF), B Impact Assessment (BIA) by B Lab, and the Impact Management Project (IMP).
+    -   enabling impact investment might be best underpinned by the existing dedicated frameworks such as Global Impact Investing Network's (GIIN) @iris_2022, the Social Return on Investment (SROI), the Social Performance Task Force (SPTF), B Impact Assessment (BIA) by B Lab, and the Impact Management Project (IMP).
 
     -   commodities or real property may be well matched with primary low-level measurement frameworks such as those developed for specific sectoral raw material supply chains (e.g. apparel, minerals and metals, etc), or environmental characteristics (e.g. pollution levels, in-situ biodiversity).
 
@@ -70,7 +70,7 @@ citation:
 
 4.  Socially responsible investing (SRI) encompasses a variety of strategies that focus on sustainability objectives alongside financial returns. These strategies range from impact investing to ESG incorporation and green/blue finance. Each strategy employs different objectives and can be applied to asset classes such as credits, publicly and privately traded securities, project-level initiatives, alternative investments, or other assets.
 
-5.  Expanding the scope of the AIX from focusing solely on impact investment to include other SRI strategies can enhance its appeal and effectiveness. For example, investing in vehicles that employ ESG incorporation can encourage best-practice industry leaders by integrating ESG factors into financial analysis and investment decision. This alignment with frameworks like the Taskforce on Nature-related Financial Disclosures (TNFD) could support investors in addressing nature-related risks and opportunities. At the same time, active ownership and shareholder engagement can incentivize companies to improve their ESG practices and create long-term value. As a distinct approach, impact investing could support nature-based solutions and drive innovation in the circular economy. Green finance can fund projects with specific environmental benefits through instruments like green and climate bonds, while social finance strategies can address pressing social issues through social and impact bonds. Governance and ethical strategies, such as active ownership and corporate governance investing, can drive corporate change and align investments with personal values.
+5.  Expanding the scope of the AIX from focusing solely on impact investment to include other SRI strategies can enhance its appeal and effectiveness. For example, investing in vehicles that employ ESG incorporation can encourage best-practice industry leaders by integrating ESG factors into financial analysis and investment decision. This alignment with frameworks like the @tnfd_2024 could support investors in addressing nature-related risks and opportunities. At the same time, active ownership and shareholder engagement can incentivize companies to improve their ESG practices and create long-term value. As a distinct approach, impact investing could support nature-based solutions and drive innovation in the circular economy. Green finance can fund projects with specific environmental benefits through instruments like green and climate bonds, while social finance strategies can address pressing social issues through social and impact bonds. Governance and ethical strategies, such as active ownership and corporate governance investing, can drive corporate change and align investments with personal values.
 
 6.  Extending beyond impact investments can broaden the scope of the AIX and create a tailored approach to assessing and driving sustainable development outcomes overall. A comprehensive overview of suitable investment strategies to implement in AIX can be found in the tables in the Appendix.
 
@@ -78,15 +78,15 @@ citation:
 
 [^2]: Intentionality is a fundamental aspect of impact investing; investors must explicitly state their intention to generate social or environmental benefits (GIIN, 2022).
 
-[^3]: Impact investments must have measurable outcomes, which should be quantifiable on a qualitative or quantitative basis, and performance must be regularly and transparently reported (Bundesinitiative Impact Investing; GIIN, 2022).
+[^3]: Impact investments must have measurable outcomes, which should be quantifiable on a qualitative or quantitative basis, and performance must be regularly and transparently reported (@bundesinitiative_impact_investing_2022; @giin_2022).
 
-[^4]: Additionality refers to the unique impact an investment would only have achieved with the specific funding. Active investor engagement and sharing best practices are vital for attaining additionality and fostering growth in impact investing (Bundesinitiative Impact Investing; GIIN, 2022).
+[^4]: Additionality refers to the unique impact an investment would only have achieved with the specific funding. Active investor engagement and sharing best practices are vital for attaining additionality and fostering growth in impact investing (@bundesinitiative_impact_investing_2022; @giin_2022).
 
-[^5]: Using evidence to substantiate the intended impact is essential in impact investing, which involves using data and research to guide investment decisions and prove that investments lead to meaningful social or environmental changes (GIIN, 2022).
+[^5]: Using evidence to substantiate the intended impact is essential in impact investing, which involves using data and research to guide investment decisions and prove that investments lead to meaningful social or environmental changes (@giin_2022).
 
 <!-- -->
 
-8.  In contrast, ESG reporting focuses on the broader disclosure of an organisation's environmental, social, and governance practices. Standards such as the Global Reporting Initiative (GRI), Sustainability Accounting Standards Board (SASB), Task Force on Climate-related Financial Disclosures (TCFD), and the Greenhouse Gas Protocol (GHG Protocol) help organisations provide structured and transparent information on their ESG performance, manage related risks, and ensure regulatory compliance. Integrating various strategies within AIX could be beneficial to ensure robust impact measurement and verification, enhancing credibility and effectiveness in driving sustainable development:
+8.  In contrast, ESG reporting focuses on the broader disclosure of an organisation's environmental, social, and governance practices. Standards such as the Global Reporting Initiative (GRI), Sustainability Accounting Standards Board (SASB), Task Force on Climate-related Financial Disclosures (@tcfd_2024), and the Greenhouse Gas Protocol (@ghg_protocol_2024) help organisations provide structured and transparent information on their ESG performance, manage related risks, and ensure regulatory compliance. Integrating various strategies within AIX could be beneficial to ensure robust impact measurement and verification, enhancing credibility and effectiveness in driving sustainable development:
 
 ![Methodology for market studies on sustainability-related investments. Source: <https://www.eurosif.org/wp-content/uploads/2024/02/2024.02.15-Final-Report-Eurosif-Classification_2024.pdf>](media/Picture%202.png)
 
@@ -96,11 +96,11 @@ citation:
 
 # Current landscape of measurement and verification standards
 
-11. A thorough analysis of the measurement and verification standards landscape ensures that investments within the AIX contribute to social, socio-economic and environmental goals. The meta-governance structure should integrate the critical aspects of commonly used standards tailored to different socially responsible investing strategies. For company reporting, frameworks such as the Global Reporting Initiative (GRI), the Taskforce on Nature-related Financial Disclosures (TNFD), the Task Force on Climate-related Financial Disclosures (TCFD), and the Sustainability Accounting Standards Board (SASB) provide essential guidelines for companies to report their ESG performance.
+11. A thorough analysis of the measurement and verification standards landscape ensures that investments within the AIX contribute to social, socio-economic and environmental goals. The meta-governance structure should integrate the critical aspects of commonly used standards tailored to different socially responsible investing strategies. For company reporting, frameworks such as the Global Reporting Initiative (@gri2021), the Taskforce on Nature-related Financial Disclosures (@tnfd_2024), the Task Force on Climate-related Financial Disclosures (@tcfd_2024), and the Sustainability Accounting Standards Board (SASB) provide essential guidelines for companies to report their ESG performance.
 
 12. These guidelines help generate verified scores that can be used on the AIX to assess ESG score measurement and verification, offering transparency and credibility to investors and helping them understand the efficiency and implementation of an ESG-based investment strategy. For investor reporting, standards like the UN Principles for Responsible Investment (UNPRI), the Global Impact Investing Network (GIIN), and the Impact Management Project (IMP) guide investors in aligning their strategies with responsible investment principles and measuring impact. These standards can be leveraged within the AIX marketplace to provide investors with precise, standardised data, facilitating informed decision-making and ensuring that investments, such as impact investments, meet desired social and environmental criteria.
 
-13. Regarding GHG emissions, accounting approaches range in scope and aims from VERRA and Accounting for Nature to the ISO standards and the EU Emissions Trading System (EU ETS). Comprehensive ecosystem assessments can rely on the System of Environmental-Economic Accounting (SEEA), which can build a critical basis for integrating more holistic and comprehensive impact assessments. While IRIS+ is commonly used to quantify or report qualitatively on the impact of impact investments, integrating SEEA can enhance the ability to assess broader ecological impacts systematically and from a more holistic perspective. Incorporating varied frameworks can support the robust and transparent outcome measurement and verification of a digital finance exchange, foster trust, and attract diverse investors.
+13. Regarding GHG emissions, accounting approaches range in scope and aims from VERRA and Accounting for Nature to the ISO standards and the EU Emissions Trading System (EU ETS). Comprehensive ecosystem assessments can rely on the System of Environmental-Economic Accounting (@united_nations_statistics_division_2024), which can build a critical basis for integrating more holistic and comprehensive impact assessments. While IRIS+ is commonly used to quantify or report qualitatively on the impact of impact investments, integrating SEEA can enhance the ability to assess broader ecological impacts systematically and from a more holistic perspective. Incorporating varied frameworks can support the robust and transparent outcome measurement and verification of a digital finance exchange, foster trust, and attract diverse investors.
 
 ## Categorisation of measurement and verification standards
 
@@ -136,7 +136,7 @@ citation:
 
 20. Within the broad range of Environmental, Social and Governance (ESG) Reporting Standards, Climate-related disclosure and reporting standards, such as the Task Force on Climate-related Financial Disclosures (TCFD) and the Carbon Disclosure Project (CDP), guide companies in presenting environmental and social-related information transparently and comprehensively in their financial reports and other disclosures. These standards are crucial: quantification standards ensure accurate emissions data, while disclosure standards promote transparency and informed decision-making, driving regulatory compliance and market trust. The table below summarises existing and commonly used climate-related disclosure and reporting standards:
 
-::: {.landscape}
+:::: landscape
 ```{=html}
 <!--- This code reads a table from a csv file and displays it at the desired font size. Change the header.tex for PDF output
 -->
@@ -158,7 +158,7 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
 <!--- End of code snippet
 -->
 ```
-:::
+::::
 
 21. The figure below illustrates the role of guiding principles and frameworks for ESG investment assessment from an investor perspective. Their associated indices and assessment support tools are crucial for investors looking to integrate ESG factors into their investment decisions. They help investors assess their portfolio’s sustainability and ethical impacts, driving informed investment strategies.
 
@@ -330,7 +330,7 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 
     – corporate securities might be best underpinned by holistic disclosure frameworks such as those maintained by the Capitals Coalition (e.g. the Natural Capital Protocol), or Taskforces for Nature-Related, and Climate-Related Financial Disclosures (TNFD and TCFD respectively).
 
-    – enabling impact investment might be best underpinned by the existing dedicated frameworks such as Global Impact Investing Network's (GIIN) IRIS+, the Social Return on Investment (SROI), the Social Performance Task Force (SPTF), B Impact Assessment (BIA) by B Lab, and the Impact Management Project (IMP).
+    – enabling impact investment might be best underpinned by by existing dedicated tools and frameworks, such as the Global Impact Investing Network's (GIIN) IRIS+ for standardized metrics, the Social Performance Task Force (SPTF) for social performance management, the B Impact Assessment (BIA) by B Lab for evaluating business impact, and the Impact Management Project (IMP) for aligning impact measurement and management practices.
 
     – commodities or real property may be well matched with primary low-level measurement frameworks such as those developed for specific sectoral raw material supply chains (e.g. apparel, minerals and metals, etc), or environmental characteristics (e.g. pollution levels, in-situ biodiversity).
 
