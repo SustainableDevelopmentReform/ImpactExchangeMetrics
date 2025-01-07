@@ -14,7 +14,7 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
       </publisher>
     </journal-meta>
     <article-meta>
-      <article-id pub-id-type="doi">10.1128/AEM.02591-07</article-id>
+      <article-id pub-id-type="doi">10.1128/AEM.02591-0</article-id>
       <title-group>
         <article-title>Measurement and verification of environmental and social
 outcomes for a proposed Australian Impact Exchange</article-title>
@@ -103,19 +103,28 @@ credibility issues.
           disclosure frameworks for example those maintained by the
           Capitals Coalition
           (<xref alt="2024" rid="ref-capitals_coalition_2024" ref-type="bibr">2024</xref>),
-          Taskforce on Nature-related Financial Disclosures (TNFD)
-          (<xref alt="2024" rid="ref-tnfd_2024" ref-type="bibr">2024</xref>),
-          or Taskforce on Climate-related Financial Disclosures (TCFD)
-          (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>).</p>
+          Taskforce on Nature-related Financial Disclosures
+          (<xref alt="2024" rid="ref-tnfd_2024" ref-type="bibr">2024</xref>)
+          (TNFD), or Taskforce on Climate-related Financial Disclosures
+          (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>)
+          (TCFD).</p>
             </list-item>
             <list-item>
               <p>enabling impact investment might be best underpinned by the
           existing dedicated frameworks such as Global Impact Investing
           Network’s (GIIN) IRIS+
           (<xref alt="2022" rid="ref-iris_2022" ref-type="bibr">2022</xref>),
-          the Social Return on Investment (SROI), the Social Performance
-          Task Force (SPTF), B Impact Assessment (BIA) by B Lab, and the
-          Impact Management Project (IMP).</p>
+          the Social Return on Investment (SROI, Social Value
+          International
+          (<xref alt="2024" rid="ref-sroi_2024" ref-type="bibr">2024</xref>)),
+          the Universal Standards for Social and Environmental
+          Performance Management (Cerise+SPTF
+          (<xref alt="2023" rid="ref-ceriseSPTF" ref-type="bibr">2023</xref>)),
+          B Lab
+          (<xref alt="2024" rid="ref-blab_2024" ref-type="bibr">2024</xref>)
+          (BIA) by B Lab, and the Impact Management Platform
+          (<xref alt="2024" rid="ref-impact_management_platform" ref-type="bibr">2024</xref>)
+          (IMP).</p>
             </list-item>
             <list-item>
               <p>commodities or real property may be well matched with
@@ -166,16 +175,17 @@ credibility issues.
                   <p>Transparently document their definitional foundations,
               input data and assessment methods. Low-level definitions
               should be aligned with the System of
-              Environmental-Economic Accounting United Nations
+              Environmental-Economic Accounting (United Nations
               Statistics Division
-              (<xref alt="2024" rid="ref-united_nations_statistics_division_2024" ref-type="bibr">2024</xref>)
+              (<xref alt="2024" rid="ref-united_nations_statistics_division_2024" ref-type="bibr">2024</xref>))
               as appropriate, in particular to avoid confusion between
               measurement of environmental stocks (e.g. the extent
               and/or condition of specific ecosystem types aligned to
-              the IUCN Global Ecosystem Typology) and flows of goods and
-              services from the environment to the economy (e.g. carbon
-              sequestration, regulation of waste, flows of raw
-              materials)–see Figure 1 below.</p>
+              the IUCN Global Ecosystem
+              Typology<xref ref-type="fn" rid="fn1">1</xref>) and flows
+              of goods and services from the environment to the economy
+              (e.g. carbon sequestration, regulation of waste, flows of
+              raw materials)–see Figure 1 below.</p>
                 </list-item>
                 <list-item>
                   <p>Clearly document their functional, geographical and
@@ -187,6 +197,8 @@ credibility issues.
             </list-item>
           </list>
         </list-item>
+      </list>
+      <list list-type="bullet">
         <list-item>
           <p>We also suggest that a standing technical committee should be
       incorporated into the governance planning for the AIX with a clear
@@ -208,15 +220,15 @@ credibility issues.
       environmental and social outcomes to scale. The fundamental
       structural deficiencies of both voluntary and statutory carbon
       markets identified in recent years offers a pertinent cautionary
-      tale.<xref ref-type="fn" rid="fn1">1</xref></p>
+      tale.<xref ref-type="fn" rid="fn2">2</xref></p>
         </list-item>
       </list>
       <fig>
         <caption>
           <p>Conceptual basis for organising environmental, social
     and economic metrics aligned to international statistical standards.
-    Source:
-    <ext-link ext-link-type="uri" xlink:href="https://seea.un.org/content/about-seea">https://seea.un.org/content/about-seea</ext-link></p>
+    Source: United Nations Statistics Division
+    (<xref alt="2024" rid="ref-united_nations_statistics_division_2024" ref-type="bibr">2024</xref>).</p>
         </caption>
         <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%201.png"/>
       </fig>
@@ -285,7 +297,7 @@ credibility issues.
       ESG incorporation can encourage best-practice industry leaders by
       integrating ESG factors into financial analysis and investment
       decision. This alignment with frameworks like the Taskforce on
-      Nature-related Financial Disclosures (TNFD)
+      Nature-related Financial Disclosures
       (<xref alt="2024" rid="ref-tnfd_2024" ref-type="bibr">2024</xref>)
       could support investors in addressing nature-related risks and
       opportunities. At the same time, active ownership and shareholder
@@ -311,10 +323,10 @@ credibility issues.
         <list-item>
           <label>7.</label>
           <p>Impact investment focuses on key characteristics such as
-      intentionality<xref ref-type="fn" rid="fn2">2</xref>,
-      measurability<xref ref-type="fn" rid="fn3">3</xref>,
-      additionality<xref ref-type="fn" rid="fn4">4</xref> and
-      evidence-based<xref ref-type="fn" rid="fn5">5</xref>, ensuring
+      intentionality<xref ref-type="fn" rid="fn3">3</xref>,
+      measurability<xref ref-type="fn" rid="fn4">4</xref>,
+      additionality<xref ref-type="fn" rid="fn5">5</xref> and
+      evidence-based<xref ref-type="fn" rid="fn6">6</xref>, ensuring
       that investments create positive outcomes that would not occur
       otherwise. Impact Investments must align with fiduciary duties and
       social investing, which requires asset managers to act in the best
@@ -326,14 +338,16 @@ credibility issues.
         <list-item>
           <label>8.</label>
           <p>In contrast, ESG reporting focuses on the broader disclosure of
-      an organisation’s environmental, social, and governance practices.
-      Standards such as the Global Reporting Initiative (GRI),
-      Sustainability Accounting Standards Board (SASB), Task Force on
-      Climate-related Financial Disclosures (Taskforce on
-      Climate-related Financial Disclosures (TCFD)
-      (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>)),
-      and the Greenhouse Gas Protocol (GHG Protocol
-      (<xref alt="2024" rid="ref-ghg_protocol_2024" ref-type="bibr">2024</xref>))
+      organisations’ environmental, social, and governance practices.
+      Standards such as those developed by the Global Reporting
+      Initiative
+      (<xref alt="n.d." rid="ref-gri2021" ref-type="bibr">n.d.</xref>)
+      (GRI), Sustainability Accounting Standards Board (SASB)
+      (<xref alt="2024" rid="ref-sasb_2024" ref-type="bibr">2024</xref>)
+      (SASB), Taskforce on Climate-related Financial Disclosures
+      (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>),
+      and the GHG Protocol
+      (<xref alt="2024" rid="ref-ghg_protocol_2024" ref-type="bibr">2024</xref>)
       help organisations provide structured and transparent information
       on their ESG performance, manage related risks, and ensure
       regulatory compliance. Integrating various strategies within AIX
@@ -345,8 +359,8 @@ credibility issues.
       <fig>
         <caption>
           <p>Methodology for market studies on sustainability-related
-    investments. Source:
-    <ext-link ext-link-type="uri" xlink:href="https://www.eurosif.org/wp-content/uploads/2024/02/2024.02.15-Final-Report-Eurosif-Classification_2024.pdf">https://www.eurosif.org/wp-content/uploads/2024/02/2024.02.15-Final-Report-Eurosif-Classification_2024.pdf</ext-link></p>
+    investments. Source: Eurosif
+    (<xref alt="2024" rid="ref-eurosif_classification_report_2024" ref-type="bibr">2024</xref>).</p>
         </caption>
         <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%202.png"/>
       </fig>
@@ -387,16 +401,15 @@ credibility issues.
       meta-governance structure should integrate the critical aspects of
       commonly used standards tailored to different socially responsible
       investing strategies. For company reporting, frameworks such as
-      the Global Reporting Initiative (Global Reporting Initiative
-      (<xref alt="2021" rid="ref-gri2021" ref-type="bibr">2021</xref>)),
-      the Taskforce on Nature-related Financial Disclosures (Taskforce
-      on Nature-related Financial Disclosures (TNFD)
-      (<xref alt="2024" rid="ref-tnfd_2024" ref-type="bibr">2024</xref>)),
-      the Task Force on Climate-related Financial Disclosures (Taskforce
-      on Climate-related Financial Disclosures (TCFD)
-      (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>)),
-      and the Sustainability Accounting Standards Board (SASB) provide
-      essential guidelines for companies to report their ESG
+      those developed by the Global Reporting Initiative
+      (<xref alt="n.d." rid="ref-gri2021" ref-type="bibr">n.d.</xref>),
+      Taskforce on Nature-related Financial Disclosures
+      (<xref alt="2024" rid="ref-tnfd_2024" ref-type="bibr">2024</xref>),
+      Taskforce on Climate-related Financial Disclosures
+      (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>)
+      and Sustainability Accounting Standards Board (SASB)
+      (<xref alt="2024" rid="ref-sasb_2024" ref-type="bibr">2024</xref>)
+      provide essential guidelines for companies to report their ESG
       performance.</p>
         </list-item>
         <list-item>
@@ -418,12 +431,15 @@ credibility issues.
         <list-item>
           <label>13.</label>
           <p>Regarding GHG emissions, accounting approaches range in scope
-      and aims from VERRA and Accounting for Nature to the ISO standards
-      and the EU Emissions Trading System (EU ETS). Comprehensive
-      ecosystem assessments can rely on the System of
-      Environmental-Economic Accounting United Nations Statistics
-      Division
-      (<xref alt="2024" rid="ref-united_nations_statistics_division_2024" ref-type="bibr">2024</xref>),
+      and aims from VERRA and Accounting for Nature
+      (<xref alt="2024" rid="ref-accountingfornature_2024" ref-type="bibr">2024</xref>)
+      to International Organization for Standardization
+      (<xref alt="2018" rid="ref-iso2018" ref-type="bibr">2018</xref>)
+      (ISO) and the European Commission
+      (<xref alt="2024" rid="ref-eu_ets_2024" ref-type="bibr">2024</xref>)
+      (EU ETS). Comprehensive ecosystem assessments can rely on the SEEA
+      (United Nations Statistics Division
+      (<xref alt="2024" rid="ref-united_nations_statistics_division_2024" ref-type="bibr">2024</xref>)),
       which can build a critical basis for integrating more holistic and
       comprehensive impact assessments. While IRIS+ is commonly used to
       quantify or report qualitatively on the impact of impact
@@ -451,16 +467,16 @@ credibility issues.
         dimension, guiding principles, and frameworks. The impact
         dimensions cover the primary areas where impacts occur and are
         reported on, aligning them with the AIX project’s objectives.
-        The following illustration by the IRIS shows the
-        interconnectedness of IRIS+ impact categories and themes as of
-        May 2021 and can help guide meta governance structures for
-        desired outcomes:</p>
+        The following illustration highlights the interconnectedness of
+        IRIS+ impact categories and themes as of May 2021 and can help
+        guide meta-governance structures for desired outcomes:</p>
           </list-item>
         </list>
         <fig>
           <caption>
             <p>Interconnectedness of IRIS+ Impact Categories and
-      Themes as of May 2021</p>
+      Themes as of May 2021. Source:
+      <ext-link ext-link-type="uri" xlink:href="https://iris.thegiin.org">iris.thegiin.org</ext-link>.</p>
           </caption>
           <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%203.jpg"/>
         </fig>
@@ -496,20 +512,19 @@ credibility issues.
         <list list-type="order">
           <list-item>
             <label>17.</label>
-            <p>The System of Environmental-Economic Accounting (SEEA) is a
-        framework that integrates environmental and economic data to
-        provide a detailed understanding of the interactions between the
-        environment and the economy. SEEA is designed to measure the
-        stocks and flows of natural resources, including water, forests,
-        minerals, and land, as well as the services these resources
-        provide. It offers a standardised approach to capturing the
-        economic value of natural capital and the costs associated with
-        environmental degradation and resource depletion. By linking
-        ecological data with economic accounts, SEEA enables
-        policymakers, researchers, and environmental managers to assess
-        the sustainability of economic activities and make informed
-        decisions about resource management and environmental
-        conservation.</p>
+            <p>The SEEA is a framework that integrates environmental and
+        economic data to provide a detailed understanding of the
+        interactions between the environment and the economy. It is
+        designed to measure the stocks and flows of natural resources,
+        including water, forests, minerals, and land, as well as the
+        services these resources provide. It offers a standardised
+        approach to capturing the economic value of natural capital and
+        the costs associated with environmental degradation and resource
+        depletion. By linking ecological data with economic accounts,
+        SEEA enables policymakers, researchers, and environmental
+        managers to assess the sustainability of economic activities and
+        make informed decisions about resource management and
+        environmental conservation.</p>
           </list-item>
           <list-item>
             <label>18.</label>
@@ -589,19 +604,19 @@ credibility issues.
         <list list-type="order">
           <list-item>
             <label>20.</label>
-            <p>Within the broad range of Environmental, Social and
-        Governance (ESG) Reporting Standards, Climate-related disclosure
-        and reporting standards, such as the Task Force on
-        Climate-related Financial Disclosures (TCFD) and the Carbon
-        Disclosure Project (CDP), guide companies in presenting
-        environmental and social-related information transparently and
-        comprehensively in their financial reports and other
-        disclosures. These standards are crucial: quantification
-        standards ensure accurate emissions data, while disclosure
-        standards promote transparency and informed decision-making,
-        driving regulatory compliance and market trust. The table below
-        summarises existing and commonly used climate-related disclosure
-        and reporting standards:</p>
+            <p>Within the broad range of ESG-related reporting standards,
+        Climate-related disclosure and reporting standards, such as the
+        TCFD and the Carbon Disclosure Project (CDP)
+        (<xref alt="2024" rid="ref-cdp_2024" ref-type="bibr">2024</xref>)
+        (CDP), guide companies in presenting environmental and
+        social-related information transparently and comprehensively in
+        their financial reports and other disclosures. These standards
+        are crucial: quantification standards ensure accurate emissions
+        data, while disclosure standards promote transparency and
+        informed decision-making, driving regulatory compliance and
+        market trust. The table below summarises key existing and
+        commonly used climate-related disclosure and reporting
+        standards:</p>
           </list-item>
         </list>
         <table-wrap>
@@ -725,11 +740,15 @@ credibility issues.
             <label>22.</label>
             <p>Impact investment refers to investments made to generate
         positive, measurable social and environmental benefits alongside
-        a financial return (Godeke &amp; Briaud, 2021; Bundesinitiative
-        Impact Investing; GIIN, 2022). The figure below illustrates the
-        role of key guiding principles and frameworks for assessment of
-        impact investment performance, alongside key measurement and
-        verification approaches.</p>
+        a financial return ( Godeke and Briaud
+        (<xref alt="2021" rid="ref-godeke_briaud_2021" ref-type="bibr">2021</xref>),
+        Bundesinitiative Impact Investing
+        (<xref alt="2022" rid="ref-bundesinitiative_impact_investing_2022" ref-type="bibr">2022</xref>),
+        GIIN
+        (<xref alt="2022" rid="ref-giin_2022" ref-type="bibr">2022</xref>)).
+        The figure below illustrates the role of key guiding principles
+        and frameworks for assessment of impact investment performance,
+        alongside key measurement and verification approaches.</p>
           </list-item>
         </list>
         <fig>
@@ -742,19 +761,24 @@ credibility issues.
         <list list-type="order">
           <list-item>
             <label>23.</label>
-            <p>IRIS+ provides a comprehensive global catalogue of metrics
-        impact investors use to measure social, environmental, and
-        financial performance across sectors such as education,
-        healthcare, and economic development. SROI translates social
-        outcomes into monetary values, offering a method to measure
-        social value created by investments in various sectors,
-        including community development and healthcare. SPTF focuses on
-        assessing social performance in the microfinance sector, while
-        BIA evaluates companies’ social and environmental performance,
-        emphasising governance, workers, community, environment, and
-        customers. IMP provides a consensus on measuring, managing, and
-        reporting impacts on people and the planet, covering multiple
-        sectors and impact themes.</p>
+            <p>IRIS+
+        (<xref alt="2022" rid="ref-iris_2022" ref-type="bibr">2022</xref>)
+        provides a comprehensive global catalogue of metrics impact
+        investors use to measure social, environmental, and financial
+        performance across sectors such as education, healthcare, and
+        economic development. SROI translates social outcomes into
+        monetary values, offering a method to measure social value
+        created by investments in various sectors, including community
+        development and healthcare. SPTF focuses on assessing social
+        performance in the microfinance sector, while BIA evaluates
+        companies’ social and environmental performance, emphasising
+        governance, workers, community, environment, and customers
+        (Cerise+SPTF
+        (<xref alt="2023" rid="ref-ceriseSPTF" ref-type="bibr">2023</xref>)).
+        IMP provides a consensus on measuring, managing, and reporting
+        impacts on people and the planet, covering multiple sectors and
+        impact themes (Impact Management Platform
+        (<xref alt="2024" rid="ref-impact_management_platform" ref-type="bibr">2024</xref>)).</p>
           </list-item>
           <list-item>
             <label>24.</label>
@@ -767,11 +791,15 @@ credibility issues.
         responsibility indicators, with self-reporting and external
         audits. BIA involves a structured questionnaire and
         comprehensive assessment, verified through third-party audits
-        for B Corp certification. The most widely accepted standards
-        include IRIS+, IMP, and BIA, which are highly regarded globally
-        among impact investors and financial institutions. SROI and SPTF
-        are also gaining acceptance, particularly in the non-profit and
-        microfinance sectors.</p>
+        for B Corp certification (B Lab
+        (<xref alt="2024" rid="ref-blab_2024" ref-type="bibr">2024</xref>)).
+        The most widely accepted standards include IRIS+, IMP, and B
+        Impact Assessment (B Lab
+        (<xref alt="2024" rid="ref-blab_2024" ref-type="bibr">2024</xref>)),
+        which are highly regarded globally among impact investors and
+        financial institutions. SROI and SPTF are also gaining
+        acceptance, particularly in the non-profit and microfinance
+        sectors.</p>
           </list-item>
           <list-item>
             <label>25.</label>
@@ -794,9 +822,11 @@ credibility issues.
         required, other times optional. Verification also varies in
         scope: standards like GRI verify the accuracy of reported
         statements, ISO standards verify compliance with detailed
-        requirements, and frameworks like Science-Based Targets
-        initiative (SBTi) assess whether an organization’s efforts
-        genuinely aim to drive meaningful change.</p>
+        requirements, and frameworks like the Science Based Targets
+        initiative (SBTi)
+        (<xref alt="2024" rid="ref-sbti_2024" ref-type="bibr">2024</xref>)
+        (SBTi) assess whether an organization’s efforts genuinely aim to
+        drive meaningful change.</p>
           </list-item>
         </list>
       </sec>
@@ -992,7 +1022,9 @@ credibility issues.
         100, quantify the state of environmental assets. Indicators must
         be scientifically validated, and detailed data collection
         instructions ensure consistency. Reference condition benchmarks
-        represent the asset’s natural or best possible state.
+        represent the asset’s natural or best possible state (Accounting
+        for Nature
+        (<xref alt="2024" rid="ref-accountingfornature_2024" ref-type="bibr">2024</xref>)).
         Verification involves independent audits by accredited experts
         to provide methods and data that meet stringent criteria. The
         framework specifies accuracy levels (95%, 90%, or 80%) to
@@ -1006,7 +1038,7 @@ credibility issues.
           <list-item>
             <label>33.</label>
             <p>The Natural Capital
-        Protocol<xref ref-type="fn" rid="fn6">6</xref> is a framework
+        Protocol<xref ref-type="fn" rid="fn7">7</xref> is a framework
         for assessing and valuing natural capital impacts and
         dependencies. It is divided into four stages: Frame, Scope,
         Measure and Value, and Apply. The Frame stage helps stakeholders
@@ -1168,10 +1200,12 @@ credibility issues.
           </list-item>
           <list-item>
             <label>37.</label>
-            <p>On the other hand, the Natural Capital Protocol is widely
-        accepted, having been developed through collaboration with
-        multiple global organisations. It has been broadly adopted by
-        businesses and industries worldwide, encouraging integration
+            <p>On the other hand, the Natural Capital Protocol (Capitals
+        Coalition
+        (<xref alt="2024" rid="ref-capitals_coalition_2024" ref-type="bibr">2024</xref>))
+        is widely accepted, having been developed through collaboration
+        with multiple global organisations. It has been broadly adopted
+        by businesses and industries worldwide, encouraging integration
         with existing business reporting frameworks such as financial
         and sustainability reporting. This widespread recognition and
         endorsement by international organisations has led to its higher
@@ -1204,10 +1238,12 @@ credibility issues.
         constraints in impact investing, such as diverse definitions of
         impact, the need for internationally comparable data, and
         underdeveloped impact measurement practices. Among the most
-        recognised frameworks are the Global Impact Investing Network’s
-        (GIIN) IRIS+, the Social Return on Investment (SROI), the Social
-        Performance Task Force (SPTF), B Impact Assessment (BIA) by B
-        Lab, and the Impact Management Project (IMP).</p>
+        recognised frameworks are the GIIN IRIS+, SROI, SPTF, B Impact
+        Assessment, and the Impact Management Project (). the Social
+        Return on Investment (SROI), the Social Performance Task Force
+        (SPTF), B Impact Assessment (BIA) by B Lab, and the Impact
+        Management Platform
+        (<xref alt="2024" rid="ref-impact_management_platform" ref-type="bibr">2024</xref>).</p>
           </list-item>
           <list-item>
             <label>40.</label>
@@ -1550,7 +1586,7 @@ credibility issues.
         projects, ensuring that interventions are culturally appropriate
         and have the support of the communities they aim to serve (The
         Economist Group
-        (<xref alt="2022" rid="ref-economist2022" ref-type="bibr">2022</xref>)).</p>
+        (<xref alt="n.d." rid="ref-economist2022" ref-type="bibr">n.d.</xref>)).</p>
           </list-item>
           <list-item>
             <label>48.</label>
@@ -1578,17 +1614,17 @@ credibility issues.
             <label>49.</label>
             <p>The need for a comprehensive and interconnected approach to
         impact assessment has become increasingly critical in recent
-        years. Published reports by the (European Commission
-        (<xref alt="2023" rid="ref-ec2023" ref-type="bibr">2023</xref>))
-        and the United Nations Office for Disaster Risk Reduction (2023)
+        years. Published reports by the European Commission
+        (<xref alt="2023" rid="ref-ec2023" ref-type="bibr">2023</xref>)
+        and United Nations Office for Disaster Risk Reduction
+        (<xref alt="2023" rid="ref-undrr2023naturebased" ref-type="bibr">2023</xref>)
         highlight evolving trends that emphasise integrating a holistic
         ecosystem perspective within national and international nature
         targets. Adopting this approach is essential when addressing
         issues like “impact washing” and enhancing impact measurement
         and verification processes. Accounting frameworks like
-        Accounting for Nature, the Natural Capital Protocol, Taskforce
-        on Nature-related Financial Disclosures (TNFD), and SEEA
-        emphasise a comprehensive view of ecosystems and stress their
+        Accounting for Nature, the Natural Capital Protocol, TNFD, and
+        SEEA emphasise an ecosystem perspective stress their
         interconnectedness, where sustainable development depends on
         multilayered and interrelated aspects. Such frameworks help
         identify synergies and trade-offs within ecosystems, ensuring
@@ -1597,34 +1633,35 @@ credibility issues.
           </list-item>
           <list-item>
             <label>50.</label>
-            <p>Implementing nature-based accounting standards (NCA) is
-        crucial to addressing impact washing. Holistic NCAs utilise
-        detailed measurement standards that capture an aggregate range
-        of environmental impacts. This thorough approach reduces the
+            <p>Implementing nature-based accounting standards is crucial to
+        addressing impact washing. Holistic NCAs utilise detailed
+        measurement standards that capture an aggregate range of
+        environmental impacts. This thorough approach reduces the
         likelihood of overstating or falsely claiming benefits within
         impact investment. Impact washing deals with wrongly depicting
         the effects of investments, often by focusing solely on positive
         outcomes while neglecting negative impacts. As noted by Bendell
-        (2019), we can only ensure we achieve our intended net societal
-        and environmental benefits if we measure and manage both
-        positive and negative outcomes. This requires a comprehensive
-        impact assessment approach, integrating multi-dimensional
-        metrics to provide an honest and accurate evaluation of
-        investments. By adhering to rigorous, science-based frameworks
-        such as NCAs, stakeholders can maintain transparency and
-        accountability, ensuring that investments contribute genuinely
-        to sustainable development goals and avoid the pitfalls of
-        misleading impact claims. The United Nations Office for Disaster
-        Risk Reduction (2023) report emphasises the importance of
-        recognising co-benefits of nature-based solutions, such as
-        biodiversity conservation, climate regulation, and improved
-        human well-being. This aligns with ecosystem accounting
-        principles, which advocate measuring and valuing multiple
-        ecosystem services based on asset condition and extent
-        assessments to inform decision-making. The implication is that
-        impact assessments should focus on more than just single
-        outcomes and capture the interconnected benefits and trade-offs
-        of environmental investments.</p>
+        (<xref alt="2019" rid="ref-bendell2019impact" ref-type="bibr">2019</xref>),
+        we can only ensure we achieve our intended net societal and
+        environmental benefits if we measure and manage both positive
+        and negative outcomes. This requires a comprehensive impact
+        assessment approach, integrating multi-dimensional metrics to
+        provide an honest and accurate evaluation of investments. By
+        adhering to rigorous, science-based frameworks such as NCAs,
+        stakeholders can maintain transparency and accountability,
+        ensuring that investments contribute genuinely to sustainable
+        development goals and avoid the pitfalls of misleading impact
+        claims. The United Nations Office for Disaster Risk Reduction
+        (<xref alt="2023" rid="ref-undrr2023naturebased" ref-type="bibr">2023</xref>)
+        report emphasises the importance of recognising co-benefits of
+        nature-based solutions, such as biodiversity conservation,
+        climate regulation, and improved human well-being. This aligns
+        with ecosystem accounting principles, which advocate measuring
+        and valuing multiple ecosystem services based on asset condition
+        and extent assessments to inform decision-making. The
+        implication is that impact assessments should focus on more than
+        just single outcomes and capture the interconnected benefits and
+        trade-offs of environmental investments.</p>
           </list-item>
           <list-item>
             <label>51.</label>
@@ -1637,31 +1674,34 @@ credibility issues.
         diminish impact returns. Instead, the frameworks can provide
         multi-dimensional views of impact, highlighting both positive
         outcomes and potential negative trade-offs within ecosystems
-        and, therefore, impact outcomes. The report of the European
-        Commission (2023) emphasises that the credibility and accuracy
-        of impact assessments are heavily dependent on the quality and
-        scientific rigour of the metrics used.</p>
+        and, therefore, impact outcomes. A report of the European
+        Commission
+        (<xref alt="2023" rid="ref-ec2023" ref-type="bibr">2023</xref>)
+        Eemphasises that the credibility and accuracy of impact
+        assessments are heavily dependent on the quality and scientific
+        rigour of the metrics used.</p>
           </list-item>
           <list-item>
             <label>52.</label>
-            <p>Finally, the European Commission’s report (2023) emphasises
-        the importance of considering spatial and temporal scales in
-        impact assessments, acknowledging that nature-based solutions
-        can have varying impacts over different geographic areas and
-        timeframes. Additionally, the report highlights the importance
-        of engaging stakeholders and considering the socio-economic
-        context in designing and assessing nature-based solutions. These
-        considerations stress the need for robust natural accounting
-        frameworks that incorporate and promote continuous monitoring
-        and rigorous assessment to ensure accurate and comprehensive
-        evaluations. Integrating spatial, temporal, and socio-economic
-        factors, nature accounting frameworks can help mitigate impact
-        washing by ensuring that investments are transparently and
-        accurately measured, managed and reported. A comprehensive
-        approach enables the alignment of investment capital more
-        closely with sustainable development goals and international
-        standards, reinforcing genuine positive impacts of impact
-        investments.</p>
+            <p>Finally, European Commission
+        (<xref alt="2023" rid="ref-ec2023" ref-type="bibr">2023</xref>)
+        emphasises the importance of considering spatial and temporal
+        scales in impact assessments, acknowledging that nature-based
+        solutions can have varying impacts over different geographic
+        areas and timeframes. Additionally, the report highlights the
+        importance of engaging stakeholders and considering the
+        socio-economic context in designing and assessing nature-based
+        solutions. These considerations stress the need for robust
+        natural accounting frameworks that incorporate and promote
+        continuous monitoring and rigorous assessment to ensure accurate
+        and comprehensive evaluations. Integrating spatial, temporal,
+        and socio-economic factors, nature accounting frameworks can
+        help mitigate impact washing by ensuring that investments are
+        transparently and accurately measured, managed and reported. A
+        comprehensive approach enables the alignment of investment
+        capital more closely with sustainable development goals and
+        international standards, reinforcing genuine positive impacts of
+        impact investments.</p>
           </list-item>
         </list>
       </sec>
@@ -1679,23 +1719,26 @@ credibility issues.
         public health and community well-being. The global increase in
         waste production has driven the need for advanced waste
         management solutions, including recycling technologies and
-        waste-to-energy systems. According to the United Nations
-        Environment Programme (UNEP), these innovations help reduce the
-        environmental footprint and promote resource efficiency (UNEP,
-        2021). Standards and certifications such as Zero Waste to
-        Landfill and tools like LCA (Lifecycle Assessments) are
-        continuously growing in adoption. Similarly, impact investors
-        are increasingly supporting initiatives that tackle other
-        pollution controls, including efforts to reduce air, noise, and
-        water pollution, all linked to severe health issues and
-        environmental degradation (World Health Organization, 2018).
+        waste-to-energy systems. According to United Nations Environment
+        Programme
+        (<xref alt="2021" rid="ref-unep2021waste" ref-type="bibr">2021</xref>)
+        these innovations help reduce the environmental footprint and
+        promote resource efficiency. Standards and certifications such
+        as Zero Waste to Landfill and tools like LCA (Lifecycle
+        Assessments) are continuously growing in adoption. Similarly,
+        impact investors are increasingly supporting initiatives that
+        tackle other pollution controls, including efforts to reduce
+        air, noise, and water pollution, all linked to severe health
+        issues and environmental degradation (World Health Organization
+        (<xref alt="2018" rid="ref-who2018pollution" ref-type="bibr">2018</xref>)).
         Initiatives include those that develop cleaner industrial
         processes, emissions reduction technologies, and sustainable
         agricultural practices, among others. These investments are
         crucial in addressing the adverse effects of pollutants on
         communities, particularly in densely populated urban areas where
         air quality concerns are most acute, and on the oceans
-        (Intergovernmental Panel on Climate Change, 2019).</p>
+        (Intergovernmental Panel on Climate Change
+        (<xref alt="2019" rid="ref-ipcc2019pollutants" ref-type="bibr">2019</xref>)).</p>
           </list-item>
           <list-item>
             <label>54.</label>
@@ -1706,9 +1749,10 @@ credibility issues.
         and developing systems for better water quality monitoring and
         management. These efforts are essential in ensuring access to
         clean and safe water, which is fundamental to public health and
-        economic development (World Resources Institute, 2020). At a
-        corporate scale, frameworks, standards, and even credit schemes
-        such as the Water Footprint, ISO 14046: Environmental
+        economic development (World Resources Institute
+        (<xref alt="2020" rid="ref-wri2020water" ref-type="bibr">2020</xref>)).
+        At a corporate scale, frameworks, standards, and even credit
+        schemes such as the Water Footprint, ISO 14046: Environmental
         Management-Water Footprint, LEED Water Efficiency credits, and
         the Alliance for Water Stewardship (AWS) Standard are also
         growing in demand and requirements as water scarcity becomes a
@@ -1723,19 +1767,23 @@ credibility issues.
         regulatory frameworks and global standards. For instance, the
         European Union’s Green Deal and Circular Economy Action Plan
         promote sustainable production and consumption patterns,
-        encouraging investments that align with these goals. Moreover,
-        international agreements like the Paris Agreement highlight the
-        interconnectedness of environmental health and climate action,
-        underscoring the need for integrated approaches to address these
-        issues (European Commission, 2019; United Nations Framework
-        Convention on Climate Change, 2015). In that sense, as
-        previously mentioned, frameworks such as GRI, ISO 14001, and B
-        Corp Certification promote environmental management practices by
-        helping organizations minimize their environmental footprint,
-        comply with applicable laws and regulations, and continually
-        improve their environmental performance (Global Reporting
-        Initiative
-        (<xref alt="2021" rid="ref-gri2021" ref-type="bibr">2021</xref>)).</p>
+        encouraging investments that align with these goals (European
+        Commission
+        (<xref alt="2019" rid="ref-ec2019" ref-type="bibr">2019</xref>)).
+        Moreover, international agreements like the Paris Agreement on
+        Climate Change highlight the interconnectedness of environmental
+        health and climate action, underscoring the need for integrated
+        approaches to address these issues (European Commission
+        (<xref alt="2019" rid="ref-ec2019" ref-type="bibr">2019</xref>),
+        United Nations Framework Convention on Climate Change
+        (<xref alt="2015" rid="ref-unfccc2015" ref-type="bibr">2015</xref>)).
+        In that sense, as previously mentioned, frameworks such as GRI,
+        ISO 14001, and B Corp Certification promote environmental
+        management practices by helping organizations minimize their
+        environmental footprint, comply with applicable laws and
+        regulations, and continually improve their environmental
+        performance (Global Reporting Initiative
+        (<xref alt="n.d." rid="ref-gri2021" ref-type="bibr">n.d.</xref>)).</p>
           </list-item>
           <list-item>
             <label>56.</label>
@@ -2274,15 +2322,21 @@ credibility issues.
   <back>
     <ref-list>
       <title/>
-      <ref id="ref-ec2023">
-        <element-citation publication-type="report">
+      <ref id="ref-bendell2019impact">
+        <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
-            <string-name>European Commission</string-name>
+            <name>
+              <surname>Bendell</surname>
+              <given-names>Jem</given-names>
+            </name>
           </person-group>
-          <article-title>Impact assessment study to support the development of legally binding EU nature restoration targets: Final report</article-title>
-          <publisher-name>Publications Office of the European Union</publisher-name>
-          <year iso-8601-date="2023">2023</year>
-          <uri>https://op.europa.eu/en/publications</uri>
+          <article-title>Measuring and managing positive and negative outcomes in impact investing</article-title>
+          <source>Journal of Impact Investing</source>
+          <year iso-8601-date="2019">2019</year>
+          <volume>5</volume>
+          <issue>3</issue>
+          <fpage>12</fpage>
+          <lpage>25</lpage>
         </element-citation>
       </ref>
       <ref id="ref-eisenberg2024">
@@ -2317,6 +2371,204 @@ credibility issues.
           <uri>https://horasis.org/the-next-big-trend-asian-impact-investing/</uri>
         </element-citation>
       </ref>
+      <ref id="ref-godeke_briaud_2021">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Godeke</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Briaud</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Impact investing handbook: An implementation guide for practitioners</source>
+          <publisher-name>Rockefeller Philanthropy Advisors</publisher-name>
+          <year iso-8601-date="2021">2021</year>
+          <fpage>1</fpage>
+          <lpage>180</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-accountingfornature_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Accounting for Nature</string-name>
+          </person-group>
+          <article-title>Econd</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://www.accountingfornature.org/econd</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-blab_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>B Lab</string-name>
+          </person-group>
+          <article-title>B impact assessment</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://www.bcorporation.net/en-us/programs-and-tools/b-impact-assessment/</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-capitals_coalition_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Capitals Coalition</string-name>
+          </person-group>
+          <article-title>Natural capital protocol</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://capitalscoalition.org/capitals-approach/natural-capital-protocol/?fwp_filter_tabs=guide_supplement</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-cdp_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Carbon Disclosure Project (CDP)</string-name>
+          </person-group>
+          <article-title>CDP: Driving sustainable economies</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://www.cdp.net/en</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-eu_ets_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>European Commission</string-name>
+          </person-group>
+          <article-title>EU emissions trading system (EU ETS)</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-ghg_protocol_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>GHG Protocol</string-name>
+          </person-group>
+          <article-title>Standards and guidance</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://ghgprotocol.org/standards-guidance</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-giin_2022">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>GIIN</string-name>
+          </person-group>
+          <article-title>What is impact investing?</article-title>
+          <year iso-8601-date="2022">2022</year>
+          <uri>https://thegiin.org/impact-investing/need-to-know/#what-is-impact-investing</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-impact_management_platform">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Impact Management Platform</string-name>
+          </person-group>
+          <article-title>Impact management platform</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://impactmanagementplatform.org</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-iris_2022">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>IRIS+</string-name>
+          </person-group>
+          <article-title>IRIS+ THEMATIC TAXONOMY</article-title>
+          <year iso-8601-date="2022">2022</year>
+          <uri>https://s3.amazonaws.com/giin-web-assets/iris/assets/files/guidance/2022-07-19_IRIS-FND_Taxonomy.pdf</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-iucn_red_list_ecosystems_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>International Union for Conservation of Nature</string-name>
+          </person-group>
+          <article-title>Red list of ecosystems</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://iucnrle.org/</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-sasb_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Sustainability Accounting Standards Board (SASB)</string-name>
+          </person-group>
+          <article-title>SASB standards</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://www.sasb.org/standards/</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-sbti_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Science Based Targets initiative (SBTi)</string-name>
+          </person-group>
+          <article-title>Ambitious corporate climate action</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://sciencebasedtargets.org</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-ceriseSPTF">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Cerise+SPTF</string-name>
+          </person-group>
+          <article-title>Universal standards for social and environmental performance management</article-title>
+          <year iso-8601-date="2023">2023</year>
+          <uri>https://cerise-sptf.org/universal-standards/</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-sroi_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Social Value International</string-name>
+          </person-group>
+          <article-title>Social return on investment (SROI)</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://socialvalueint.org/social-return-on-investment-sroi/</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-tcfd_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Taskforce on Climate-related Financial Disclosures</string-name>
+          </person-group>
+          <article-title>TCFD hub</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://www.tcfdhub.org</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-tnfd_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>Taskforce on Nature-related Financial Disclosures</string-name>
+          </person-group>
+          <article-title>TNFD global</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://tnfd.global</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-united_nations_statistics_division_2024">
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <string-name>United Nations Statistics Division</string-name>
+          </person-group>
+          <article-title>About SEEA</article-title>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://seea.un.org/content/about-seea</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-bundesinitiative_impact_investing_2022">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <string-name>Bundesinitiative Impact Investing</string-name>
+          </person-group>
+          <article-title>Impact investing: A demanding definition for listed and non-listed products</article-title>
+          <year iso-8601-date="2022">2022</year>
+        </element-citation>
+      </ref>
       <ref id="ref-economist2022">
         <element-citation publication-type="report">
           <person-group person-group-type="author">
@@ -2324,7 +2576,95 @@ credibility issues.
           </person-group>
           <article-title>Advancing impact: A road map for social investing in asia</article-title>
           <publisher-name>The Economist</publisher-name>
-          <year iso-8601-date="2022">2022</year>
+        </element-citation>
+      </ref>
+      <ref id="ref-ipcc2019pollutants">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <string-name>Intergovernmental Panel on Climate Change</string-name>
+          </person-group>
+          <article-title>Special report on climate change and pollution: Effects on oceans and communities</article-title>
+          <publisher-name>Intergovernmental Panel on Climate Change</publisher-name>
+          <year iso-8601-date="2019">2019</year>
+          <uri>https://www.ipcc.ch/</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-undrr2023naturebased">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <string-name>United Nations Office for Disaster Risk Reduction</string-name>
+          </person-group>
+          <article-title>Good practices for increasing the application of nature-based solutions and ecosystem-based approaches for disaster risk reduction</article-title>
+          <publisher-name>United Nations Office for Disaster Risk Reduction</publisher-name>
+          <year iso-8601-date="2023">2023</year>
+          <uri>https://www.undrr.org/publication/good-practices-increasing-application-nature-based-solutions-and-ecosystem-based</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-unep2021waste">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <string-name>United Nations Environment Programme</string-name>
+          </person-group>
+          <article-title>Innovations in waste management: Promoting resource efficiency and reducing environmental footprint</article-title>
+          <publisher-name>United Nations Environment Programme</publisher-name>
+          <year iso-8601-date="2021">2021</year>
+          <uri>https://www.unep.org/</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-who2018pollution">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <string-name>World Health Organization</string-name>
+          </person-group>
+          <article-title>Health effects of pollution: Addressing air, noise, and water pollution for sustainable communities</article-title>
+          <publisher-name>World Health Organization</publisher-name>
+          <year iso-8601-date="2018">2018</year>
+          <uri>https://www.who.int/</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-ec2019">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <string-name>European Commission</string-name>
+          </person-group>
+          <article-title>The European Green Deal</article-title>
+          <publisher-name>Publications Office of the European Union</publisher-name>
+          <year iso-8601-date="2019">2019</year>
+          <uri>https://ec.europa.eu/info/publications/communication-european-green-deal_en</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-ec2023">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <string-name>European Commission</string-name>
+          </person-group>
+          <article-title>Impact assessment study to support the development of legally binding EU nature restoration targets: Final report</article-title>
+          <publisher-name>Publications Office of the European Union</publisher-name>
+          <year iso-8601-date="2023">2023</year>
+          <uri>https://op.europa.eu/en/publications</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-eurosif_classification_report_2024">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eurosif</surname>
+            </name>
+          </person-group>
+          <article-title>Final report: Eurosif classification</article-title>
+          <publisher-name>Eurosif</publisher-name>
+          <year iso-8601-date="2024">2024</year>
+          <uri>https://www.eurosif.org/wp-content/uploads/2024/02/2024.02.15-Final-Report-Eurosif-Classification_2024.pdf</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-gri2021">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <string-name>Global Reporting Initiative</string-name>
+          </person-group>
+          <article-title>GRI standards</article-title>
+          <publisher-name>Global Reporting Initiative</publisher-name>
+          <uri>https://www.globalreporting.org/standards</uri>
         </element-citation>
       </ref>
       <ref id="ref-iso2018">
@@ -2338,112 +2678,85 @@ credibility issues.
           <uri>https://www.iso.org/standard/43263.html</uri>
         </element-citation>
       </ref>
-      <ref id="ref-gri2021">
+      <ref id="ref-unfccc2015">
         <element-citation publication-type="report">
           <person-group person-group-type="author">
-            <string-name>Global Reporting Initiative</string-name>
+            <string-name>United Nations Framework Convention on Climate Change</string-name>
           </person-group>
-          <article-title>GRI standards</article-title>
-          <publisher-name>Global Reporting Initiative</publisher-name>
-          <year iso-8601-date="2021">2021</year>
-          <uri>https://www.globalreporting.org/standards</uri>
+          <article-title>The Paris Agreement</article-title>
+          <publisher-name>United Nations Framework Convention on Climate Change</publisher-name>
+          <year iso-8601-date="2015">2015</year>
+          <uri>https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement</uri>
         </element-citation>
       </ref>
-      <ref id="ref-bundesinitiative_impact_investing_2022">
+      <ref id="ref-wri2020water">
         <element-citation publication-type="report">
           <person-group person-group-type="author">
-            <string-name>Bundesinitiative Impact Investing</string-name>
+            <string-name>World Resources Institute</string-name>
           </person-group>
-          <article-title>Impact investing: A demanding definition for listed and non-listed products</article-title>
-          <year iso-8601-date="2022">2022</year>
+          <article-title>Water scarcity and infrastructure development: Solutions for a growing crisis</article-title>
+          <publisher-name>World Resources Institute</publisher-name>
+          <year iso-8601-date="2020">2020</year>
+          <uri>https://www.wri.org/</uri>
         </element-citation>
       </ref>
-      <ref id="ref-capitals_coalition_2024">
-        <element-citation publication-type="webpage">
+      <ref id="ref-nature_credits2024">
+        <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
-            <string-name>Capitals Coalition</string-name>
+            <name>
+              <surname>Swinfield</surname>
+              <given-names>Tom</given-names>
+            </name>
+            <name>
+              <surname>Shrikanth</surname>
+              <given-names>Siddarth</given-names>
+            </name>
+            <name>
+              <surname>Bull</surname>
+              <given-names>Joseph W.</given-names>
+            </name>
+            <name>
+              <surname>Madhavapeddy</surname>
+              <given-names>Anil</given-names>
+            </name>
+            <name>
+              <surname>Ermgassen</surname>
+              <given-names>Sophus O. S. E. zu</given-names>
+            </name>
           </person-group>
-          <article-title>Natural capital protocol</article-title>
+          <article-title>Nature-based credit markets at a crossroads</article-title>
+          <source>Nature Sustainability</source>
           <year iso-8601-date="2024">2024</year>
-          <uri>https://capitalscoalition.org/capitals-approach/natural-capital-protocol/?fwp_filter_tabs=guide_supplement</uri>
-        </element-citation>
-      </ref>
-      <ref id="ref-giin_2022">
-        <element-citation publication-type="webpage">
-          <person-group person-group-type="author">
-            <string-name>GIIN</string-name>
-          </person-group>
-          <article-title>What is impact investing?</article-title>
-          <year iso-8601-date="2022">2022</year>
-          <uri>https://thegiin.org/impact-investing/need-to-know/#what-is-impact-investing</uri>
-        </element-citation>
-      </ref>
-      <ref id="ref-iris_2022">
-        <element-citation publication-type="webpage">
-          <person-group person-group-type="author">
-            <string-name>IRIS+</string-name>
-          </person-group>
-          <article-title>IRIS+ THEMATIC TAXONOMY</article-title>
-          <year iso-8601-date="2022">2022</year>
-          <uri>https://s3.amazonaws.com/giin-web-assets/iris/assets/files/guidance/2022-07-19_IRIS-FND_Taxonomy.pdf</uri>
-        </element-citation>
-      </ref>
-      <ref id="ref-united_nations_statistics_division_2024">
-        <element-citation publication-type="webpage">
-          <person-group person-group-type="author">
-            <string-name>United Nations Statistics Division</string-name>
-          </person-group>
-          <article-title>About SEEA</article-title>
-          <year iso-8601-date="2024">2024</year>
-          <uri>https://seea.un.org/content/about-seea</uri>
-        </element-citation>
-      </ref>
-      <ref id="ref-tnfd_2024">
-        <element-citation publication-type="webpage">
-          <person-group person-group-type="author">
-            <string-name>Taskforce on Nature-related Financial Disclosures (TNFD)</string-name>
-          </person-group>
-          <article-title>TNFD global</article-title>
-          <year iso-8601-date="2024">2024</year>
-          <uri>https://tnfd.global</uri>
-        </element-citation>
-      </ref>
-      <ref id="ref-tcfd_2024">
-        <element-citation publication-type="webpage">
-          <person-group person-group-type="author">
-            <string-name>Taskforce on Climate-related Financial Disclosures (TCFD)</string-name>
-          </person-group>
-          <article-title>TCFD hub</article-title>
-          <year iso-8601-date="2024">2024</year>
-          <uri>https://www.tcfdhub.org</uri>
-        </element-citation>
-      </ref>
-      <ref id="ref-ghg_protocol_2024">
-        <element-citation publication-type="webpage">
-          <person-group person-group-type="author">
-            <string-name>GHG Protocol</string-name>
-          </person-group>
-          <article-title>Standards and guidance</article-title>
-          <year iso-8601-date="2024">2024</year>
-          <uri>https://ghgprotocol.org/standards-guidance</uri>
+          <volume>7</volume>
+          <issue>10</issue>
+          <isbn>2398-9629</isbn>
+          <uri>https://doi.org/10.1038/s41893-024-01403-w</uri>
+          <pub-id pub-id-type="doi">10.1038/s41893-024-01403-w</pub-id>
+          <fpage>1217</fpage>
+          <lpage>1220</lpage>
         </element-citation>
       </ref>
     </ref-list>
     <fn-group>
       <fn id="fn1">
         <label>1</label>
-        <p>See for example: Nature-based credit markets at a
-    crossroads, Nature Sustainability:
-    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/s41893-024-01403-w">https://doi.org/10.1038/s41893-024-01403-w</ext-link></p>
+        <p>See International Union for Conservation of
+    Nature
+    (<xref alt="2024" rid="ref-iucn_red_list_ecosystems_2024" ref-type="bibr">2024</xref>).</p>
       </fn>
       <fn id="fn2">
         <label>2</label>
+        <p>See for example Swinfield et al.
+    (<xref alt="2024" rid="ref-nature_credits2024" ref-type="bibr">2024</xref>).</p>
+      </fn>
+      <fn id="fn3">
+        <label>3</label>
         <p>Intentionality is a fundamental aspect of impact
     investing; investors must explicitly state their intention to
     generate social or environmental benefits (GIIN, 2022).</p>
       </fn>
-      <fn id="fn3">
-        <label>3</label>
+      <fn id="fn4">
+        <label>4</label>
         <p>Impact investments must have measurable outcomes,
     which should be quantifiable on a qualitative or quantitative basis,
     and performance must be regularly and transparently reported
@@ -2452,8 +2765,8 @@ credibility issues.
     GIIN
     (<xref alt="2022" rid="ref-giin_2022" ref-type="bibr">2022</xref>)).</p>
       </fn>
-      <fn id="fn4">
-        <label>4</label>
+      <fn id="fn5">
+        <label>5</label>
         <p>Additionality refers to the unique impact an
     investment would only have achieved with the specific funding.
     Active investor engagement and sharing best practices are vital for
@@ -2463,22 +2776,22 @@ credibility issues.
     GIIN
     (<xref alt="2022" rid="ref-giin_2022" ref-type="bibr">2022</xref>)).</p>
       </fn>
-      <fn id="fn5">
-        <label>5</label>
+      <fn id="fn6">
+        <label>6</label>
         <p>Using evidence to substantiate the intended
     impact is essential in impact investing, which involves using data
     and research to guide investment decisions and prove that
     investments lead to meaningful social or environmental changes (GIIN
     (<xref alt="2022" rid="ref-giin_2022" ref-type="bibr">2022</xref>)).</p>
       </fn>
-      <fn id="fn6">
-        <label>6</label>
+      <fn id="fn7">
+        <label>7</label>
         <p>See:
     <ext-link ext-link-type="uri" xlink:href="https://capitalscoalition.org/wp-content/uploads/2021/01/NCC_Protocol.pdf">https://capitalscoalition.org/wp-content/uploads/2021/01/NCC_Protocol.pdf</ext-link></p>
       </fn>
     </fn-group>
   </back>
-  <sub-article article-type="notebook" id="nb-2-nb-article">
+  <sub-article article-type="notebook" id="nb-4-nb-article">
     <front-stub>
       <title-group>
         <article-title>Measurement and verification of environmental and social
@@ -2557,19 +2870,28 @@ credibility issues.
           disclosure frameworks for example those maintained by the
           Capitals Coalition
           (<xref alt="2024" rid="ref-capitals_coalition_2024-nb-article" ref-type="bibr">2024</xref>),
-          Taskforce on Nature-related Financial Disclosures (TNFD)
-          (<xref alt="2024" rid="ref-tnfd_2024-nb-article" ref-type="bibr">2024</xref>),
-          or Taskforce on Climate-related Financial Disclosures (TCFD)
-          (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>).</p>
+          Taskforce on Nature-related Financial Disclosures
+          (<xref alt="2024" rid="ref-tnfd_2024-nb-article" ref-type="bibr">2024</xref>)
+          (TNFD), or Taskforce on Climate-related Financial Disclosures
+          (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>)
+          (TCFD).</p>
               </list-item>
               <list-item>
                 <p>enabling impact investment might be best underpinned by the
           existing dedicated frameworks such as Global Impact Investing
           Network’s (GIIN) IRIS+
           (<xref alt="2022" rid="ref-iris_2022-nb-article" ref-type="bibr">2022</xref>),
-          the Social Return on Investment (SROI), the Social Performance
-          Task Force (SPTF), B Impact Assessment (BIA) by B Lab, and the
-          Impact Management Project (IMP).</p>
+          the Social Return on Investment (SROI, Social Value
+          International
+          (<xref alt="2024" rid="ref-sroi_2024-nb-article" ref-type="bibr">2024</xref>)),
+          the Universal Standards for Social and Environmental
+          Performance Management (Cerise+SPTF
+          (<xref alt="2023" rid="ref-ceriseSPTF-nb-article" ref-type="bibr">2023</xref>)),
+          B Lab
+          (<xref alt="2024" rid="ref-blab_2024-nb-article" ref-type="bibr">2024</xref>)
+          (BIA) by B Lab, and the Impact Management Platform
+          (<xref alt="2024" rid="ref-impact_management_platform-nb-article" ref-type="bibr">2024</xref>)
+          (IMP).</p>
               </list-item>
               <list-item>
                 <p>commodities or real property may be well matched with
@@ -2620,16 +2942,17 @@ credibility issues.
                     <p>Transparently document their definitional foundations,
               input data and assessment methods. Low-level definitions
               should be aligned with the System of
-              Environmental-Economic Accounting United Nations
+              Environmental-Economic Accounting (United Nations
               Statistics Division
-              (<xref alt="2024" rid="ref-united_nations_statistics_division_2024-nb-article" ref-type="bibr">2024</xref>)
+              (<xref alt="2024" rid="ref-united_nations_statistics_division_2024-nb-article" ref-type="bibr">2024</xref>))
               as appropriate, in particular to avoid confusion between
               measurement of environmental stocks (e.g. the extent
               and/or condition of specific ecosystem types aligned to
-              the IUCN Global Ecosystem Typology) and flows of goods and
-              services from the environment to the economy (e.g. carbon
-              sequestration, regulation of waste, flows of raw
-              materials)–see Figure 1 below.</p>
+              the IUCN Global Ecosystem
+              Typology<xref ref-type="fn" rid="fn1-nb-article">1</xref>) and flows
+              of goods and services from the environment to the economy
+              (e.g. carbon sequestration, regulation of waste, flows of
+              raw materials)–see Figure 1 below.</p>
                   </list-item>
                   <list-item>
                     <p>Clearly document their functional, geographical and
@@ -2641,6 +2964,8 @@ credibility issues.
               </list-item>
             </list>
           </list-item>
+        </list>
+        <list list-type="bullet">
           <list-item>
             <p>We also suggest that a standing technical committee should be
       incorporated into the governance planning for the AIX with a clear
@@ -2662,15 +2987,15 @@ credibility issues.
       environmental and social outcomes to scale. The fundamental
       structural deficiencies of both voluntary and statutory carbon
       markets identified in recent years offers a pertinent cautionary
-      tale.<xref ref-type="fn" rid="fn1-nb-article">1</xref></p>
+      tale.<xref ref-type="fn" rid="fn2-nb-article">2</xref></p>
           </list-item>
         </list>
         <fig>
           <caption>
             <p>Conceptual basis for organising environmental, social
     and economic metrics aligned to international statistical standards.
-    Source:
-    <ext-link ext-link-type="uri" xlink:href="https://seea.un.org/content/about-seea">https://seea.un.org/content/about-seea</ext-link></p>
+    Source: United Nations Statistics Division
+    (<xref alt="2024" rid="ref-united_nations_statistics_division_2024-nb-article" ref-type="bibr">2024</xref>).</p>
           </caption>
           <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%201.png"/>
         </fig>
@@ -2739,7 +3064,7 @@ credibility issues.
       ESG incorporation can encourage best-practice industry leaders by
       integrating ESG factors into financial analysis and investment
       decision. This alignment with frameworks like the Taskforce on
-      Nature-related Financial Disclosures (TNFD)
+      Nature-related Financial Disclosures
       (<xref alt="2024" rid="ref-tnfd_2024-nb-article" ref-type="bibr">2024</xref>)
       could support investors in addressing nature-related risks and
       opportunities. At the same time, active ownership and shareholder
@@ -2765,10 +3090,10 @@ credibility issues.
           <list-item>
             <label>7.</label>
             <p>Impact investment focuses on key characteristics such as
-      intentionality<xref ref-type="fn" rid="fn2-nb-article">2</xref>,
-      measurability<xref ref-type="fn" rid="fn3-nb-article">3</xref>,
-      additionality<xref ref-type="fn" rid="fn4-nb-article">4</xref> and
-      evidence-based<xref ref-type="fn" rid="fn5-nb-article">5</xref>, ensuring
+      intentionality<xref ref-type="fn" rid="fn3-nb-article">3</xref>,
+      measurability<xref ref-type="fn" rid="fn4-nb-article">4</xref>,
+      additionality<xref ref-type="fn" rid="fn5-nb-article">5</xref> and
+      evidence-based<xref ref-type="fn" rid="fn6-nb-article">6</xref>, ensuring
       that investments create positive outcomes that would not occur
       otherwise. Impact Investments must align with fiduciary duties and
       social investing, which requires asset managers to act in the best
@@ -2780,14 +3105,16 @@ credibility issues.
           <list-item>
             <label>8.</label>
             <p>In contrast, ESG reporting focuses on the broader disclosure of
-      an organisation’s environmental, social, and governance practices.
-      Standards such as the Global Reporting Initiative (GRI),
-      Sustainability Accounting Standards Board (SASB), Task Force on
-      Climate-related Financial Disclosures (Taskforce on
-      Climate-related Financial Disclosures (TCFD)
-      (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>)),
-      and the Greenhouse Gas Protocol (GHG Protocol
-      (<xref alt="2024" rid="ref-ghg_protocol_2024-nb-article" ref-type="bibr">2024</xref>))
+      organisations’ environmental, social, and governance practices.
+      Standards such as those developed by the Global Reporting
+      Initiative
+      (<xref alt="n.d." rid="ref-gri2021-nb-article" ref-type="bibr">n.d.</xref>)
+      (GRI), Sustainability Accounting Standards Board (SASB)
+      (<xref alt="2024" rid="ref-sasb_2024-nb-article" ref-type="bibr">2024</xref>)
+      (SASB), Taskforce on Climate-related Financial Disclosures
+      (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>),
+      and the GHG Protocol
+      (<xref alt="2024" rid="ref-ghg_protocol_2024-nb-article" ref-type="bibr">2024</xref>)
       help organisations provide structured and transparent information
       on their ESG performance, manage related risks, and ensure
       regulatory compliance. Integrating various strategies within AIX
@@ -2799,8 +3126,8 @@ credibility issues.
         <fig>
           <caption>
             <p>Methodology for market studies on sustainability-related
-    investments. Source:
-    <ext-link ext-link-type="uri" xlink:href="https://www.eurosif.org/wp-content/uploads/2024/02/2024.02.15-Final-Report-Eurosif-Classification_2024.pdf">https://www.eurosif.org/wp-content/uploads/2024/02/2024.02.15-Final-Report-Eurosif-Classification_2024.pdf</ext-link></p>
+    investments. Source: Eurosif
+    (<xref alt="2024" rid="ref-eurosif_classification_report_2024-nb-article" ref-type="bibr">2024</xref>).</p>
           </caption>
           <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%202.png"/>
         </fig>
@@ -2841,16 +3168,15 @@ credibility issues.
       meta-governance structure should integrate the critical aspects of
       commonly used standards tailored to different socially responsible
       investing strategies. For company reporting, frameworks such as
-      the Global Reporting Initiative (Global Reporting Initiative
-      (<xref alt="2021" rid="ref-gri2021-nb-article" ref-type="bibr">2021</xref>)),
-      the Taskforce on Nature-related Financial Disclosures (Taskforce
-      on Nature-related Financial Disclosures (TNFD)
-      (<xref alt="2024" rid="ref-tnfd_2024-nb-article" ref-type="bibr">2024</xref>)),
-      the Task Force on Climate-related Financial Disclosures (Taskforce
-      on Climate-related Financial Disclosures (TCFD)
-      (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>)),
-      and the Sustainability Accounting Standards Board (SASB) provide
-      essential guidelines for companies to report their ESG
+      those developed by the Global Reporting Initiative
+      (<xref alt="n.d." rid="ref-gri2021-nb-article" ref-type="bibr">n.d.</xref>),
+      Taskforce on Nature-related Financial Disclosures
+      (<xref alt="2024" rid="ref-tnfd_2024-nb-article" ref-type="bibr">2024</xref>),
+      Taskforce on Climate-related Financial Disclosures
+      (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>)
+      and Sustainability Accounting Standards Board (SASB)
+      (<xref alt="2024" rid="ref-sasb_2024-nb-article" ref-type="bibr">2024</xref>)
+      provide essential guidelines for companies to report their ESG
       performance.</p>
           </list-item>
           <list-item>
@@ -2872,12 +3198,15 @@ credibility issues.
           <list-item>
             <label>13.</label>
             <p>Regarding GHG emissions, accounting approaches range in scope
-      and aims from VERRA and Accounting for Nature to the ISO standards
-      and the EU Emissions Trading System (EU ETS). Comprehensive
-      ecosystem assessments can rely on the System of
-      Environmental-Economic Accounting United Nations Statistics
-      Division
-      (<xref alt="2024" rid="ref-united_nations_statistics_division_2024-nb-article" ref-type="bibr">2024</xref>),
+      and aims from VERRA and Accounting for Nature
+      (<xref alt="2024" rid="ref-accountingfornature_2024-nb-article" ref-type="bibr">2024</xref>)
+      to International Organization for Standardization
+      (<xref alt="2018" rid="ref-iso2018-nb-article" ref-type="bibr">2018</xref>)
+      (ISO) and the European Commission
+      (<xref alt="2024" rid="ref-eu_ets_2024-nb-article" ref-type="bibr">2024</xref>)
+      (EU ETS). Comprehensive ecosystem assessments can rely on the SEEA
+      (United Nations Statistics Division
+      (<xref alt="2024" rid="ref-united_nations_statistics_division_2024-nb-article" ref-type="bibr">2024</xref>)),
       which can build a critical basis for integrating more holistic and
       comprehensive impact assessments. While IRIS+ is commonly used to
       quantify or report qualitatively on the impact of impact
@@ -2905,16 +3234,16 @@ credibility issues.
         dimension, guiding principles, and frameworks. The impact
         dimensions cover the primary areas where impacts occur and are
         reported on, aligning them with the AIX project’s objectives.
-        The following illustration by the IRIS shows the
-        interconnectedness of IRIS+ impact categories and themes as of
-        May 2021 and can help guide meta governance structures for
-        desired outcomes:</p>
+        The following illustration highlights the interconnectedness of
+        IRIS+ impact categories and themes as of May 2021 and can help
+        guide meta-governance structures for desired outcomes:</p>
             </list-item>
           </list>
           <fig>
             <caption>
               <p>Interconnectedness of IRIS+ Impact Categories and
-      Themes as of May 2021</p>
+      Themes as of May 2021. Source:
+      <ext-link ext-link-type="uri" xlink:href="https://iris.thegiin.org">iris.thegiin.org</ext-link>.</p>
             </caption>
             <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%203.jpg"/>
           </fig>
@@ -2950,20 +3279,19 @@ credibility issues.
           <list list-type="order">
             <list-item>
               <label>17.</label>
-              <p>The System of Environmental-Economic Accounting (SEEA) is a
-        framework that integrates environmental and economic data to
-        provide a detailed understanding of the interactions between the
-        environment and the economy. SEEA is designed to measure the
-        stocks and flows of natural resources, including water, forests,
-        minerals, and land, as well as the services these resources
-        provide. It offers a standardised approach to capturing the
-        economic value of natural capital and the costs associated with
-        environmental degradation and resource depletion. By linking
-        ecological data with economic accounts, SEEA enables
-        policymakers, researchers, and environmental managers to assess
-        the sustainability of economic activities and make informed
-        decisions about resource management and environmental
-        conservation.</p>
+              <p>The SEEA is a framework that integrates environmental and
+        economic data to provide a detailed understanding of the
+        interactions between the environment and the economy. It is
+        designed to measure the stocks and flows of natural resources,
+        including water, forests, minerals, and land, as well as the
+        services these resources provide. It offers a standardised
+        approach to capturing the economic value of natural capital and
+        the costs associated with environmental degradation and resource
+        depletion. By linking ecological data with economic accounts,
+        SEEA enables policymakers, researchers, and environmental
+        managers to assess the sustainability of economic activities and
+        make informed decisions about resource management and
+        environmental conservation.</p>
             </list-item>
             <list-item>
               <label>18.</label>
@@ -3043,19 +3371,19 @@ credibility issues.
           <list list-type="order">
             <list-item>
               <label>20.</label>
-              <p>Within the broad range of Environmental, Social and
-        Governance (ESG) Reporting Standards, Climate-related disclosure
-        and reporting standards, such as the Task Force on
-        Climate-related Financial Disclosures (TCFD) and the Carbon
-        Disclosure Project (CDP), guide companies in presenting
-        environmental and social-related information transparently and
-        comprehensively in their financial reports and other
-        disclosures. These standards are crucial: quantification
-        standards ensure accurate emissions data, while disclosure
-        standards promote transparency and informed decision-making,
-        driving regulatory compliance and market trust. The table below
-        summarises existing and commonly used climate-related disclosure
-        and reporting standards:</p>
+              <p>Within the broad range of ESG-related reporting standards,
+        Climate-related disclosure and reporting standards, such as the
+        TCFD and the Carbon Disclosure Project (CDP)
+        (<xref alt="2024" rid="ref-cdp_2024-nb-article" ref-type="bibr">2024</xref>)
+        (CDP), guide companies in presenting environmental and
+        social-related information transparently and comprehensively in
+        their financial reports and other disclosures. These standards
+        are crucial: quantification standards ensure accurate emissions
+        data, while disclosure standards promote transparency and
+        informed decision-making, driving regulatory compliance and
+        market trust. The table below summarises key existing and
+        commonly used climate-related disclosure and reporting
+        standards:</p>
             </list-item>
           </list>
           <sec specific-use="notebook-content">
@@ -3185,11 +3513,15 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
               <label>22.</label>
               <p>Impact investment refers to investments made to generate
         positive, measurable social and environmental benefits alongside
-        a financial return (Godeke &amp; Briaud, 2021; Bundesinitiative
-        Impact Investing; GIIN, 2022). The figure below illustrates the
-        role of key guiding principles and frameworks for assessment of
-        impact investment performance, alongside key measurement and
-        verification approaches.</p>
+        a financial return ( Godeke and Briaud
+        (<xref alt="2021" rid="ref-godeke_briaud_2021-nb-article" ref-type="bibr">2021</xref>),
+        Bundesinitiative Impact Investing
+        (<xref alt="2022" rid="ref-bundesinitiative_impact_investing_2022-nb-article" ref-type="bibr">2022</xref>),
+        GIIN
+        (<xref alt="2022" rid="ref-giin_2022-nb-article" ref-type="bibr">2022</xref>)).
+        The figure below illustrates the role of key guiding principles
+        and frameworks for assessment of impact investment performance,
+        alongside key measurement and verification approaches.</p>
             </list-item>
           </list>
           <fig>
@@ -3202,19 +3534,24 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
           <list list-type="order">
             <list-item>
               <label>23.</label>
-              <p>IRIS+ provides a comprehensive global catalogue of metrics
-        impact investors use to measure social, environmental, and
-        financial performance across sectors such as education,
-        healthcare, and economic development. SROI translates social
-        outcomes into monetary values, offering a method to measure
-        social value created by investments in various sectors,
-        including community development and healthcare. SPTF focuses on
-        assessing social performance in the microfinance sector, while
-        BIA evaluates companies’ social and environmental performance,
-        emphasising governance, workers, community, environment, and
-        customers. IMP provides a consensus on measuring, managing, and
-        reporting impacts on people and the planet, covering multiple
-        sectors and impact themes.</p>
+              <p>IRIS+
+        (<xref alt="2022" rid="ref-iris_2022-nb-article" ref-type="bibr">2022</xref>)
+        provides a comprehensive global catalogue of metrics impact
+        investors use to measure social, environmental, and financial
+        performance across sectors such as education, healthcare, and
+        economic development. SROI translates social outcomes into
+        monetary values, offering a method to measure social value
+        created by investments in various sectors, including community
+        development and healthcare. SPTF focuses on assessing social
+        performance in the microfinance sector, while BIA evaluates
+        companies’ social and environmental performance, emphasising
+        governance, workers, community, environment, and customers
+        (Cerise+SPTF
+        (<xref alt="2023" rid="ref-ceriseSPTF-nb-article" ref-type="bibr">2023</xref>)).
+        IMP provides a consensus on measuring, managing, and reporting
+        impacts on people and the planet, covering multiple sectors and
+        impact themes (Impact Management Platform
+        (<xref alt="2024" rid="ref-impact_management_platform-nb-article" ref-type="bibr">2024</xref>)).</p>
             </list-item>
             <list-item>
               <label>24.</label>
@@ -3227,11 +3564,15 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
         responsibility indicators, with self-reporting and external
         audits. BIA involves a structured questionnaire and
         comprehensive assessment, verified through third-party audits
-        for B Corp certification. The most widely accepted standards
-        include IRIS+, IMP, and BIA, which are highly regarded globally
-        among impact investors and financial institutions. SROI and SPTF
-        are also gaining acceptance, particularly in the non-profit and
-        microfinance sectors.</p>
+        for B Corp certification (B Lab
+        (<xref alt="2024" rid="ref-blab_2024-nb-article" ref-type="bibr">2024</xref>)).
+        The most widely accepted standards include IRIS+, IMP, and B
+        Impact Assessment (B Lab
+        (<xref alt="2024" rid="ref-blab_2024-nb-article" ref-type="bibr">2024</xref>)),
+        which are highly regarded globally among impact investors and
+        financial institutions. SROI and SPTF are also gaining
+        acceptance, particularly in the non-profit and microfinance
+        sectors.</p>
             </list-item>
             <list-item>
               <label>25.</label>
@@ -3254,9 +3595,11 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
         required, other times optional. Verification also varies in
         scope: standards like GRI verify the accuracy of reported
         statements, ISO standards verify compliance with detailed
-        requirements, and frameworks like Science-Based Targets
-        initiative (SBTi) assess whether an organization’s efforts
-        genuinely aim to drive meaningful change.</p>
+        requirements, and frameworks like the Science Based Targets
+        initiative (SBTi)
+        (<xref alt="2024" rid="ref-sbti_2024-nb-article" ref-type="bibr">2024</xref>)
+        (SBTi) assess whether an organization’s efforts genuinely aim to
+        drive meaningful change.</p>
             </list-item>
           </list>
         </sec>
@@ -3458,7 +3801,9 @@ kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measu
         100, quantify the state of environmental assets. Indicators must
         be scientifically validated, and detailed data collection
         instructions ensure consistency. Reference condition benchmarks
-        represent the asset’s natural or best possible state.
+        represent the asset’s natural or best possible state (Accounting
+        for Nature
+        (<xref alt="2024" rid="ref-accountingfornature_2024-nb-article" ref-type="bibr">2024</xref>)).
         Verification involves independent audits by accredited experts
         to provide methods and data that meet stringent criteria. The
         framework specifies accuracy levels (95%, 90%, or 80%) to
@@ -3472,7 +3817,7 @@ kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measu
             <list-item>
               <label>33.</label>
               <p>The Natural Capital
-        Protocol<xref ref-type="fn" rid="fn6-nb-article">6</xref> is a framework
+        Protocol<xref ref-type="fn" rid="fn7-nb-article">7</xref> is a framework
         for assessing and valuing natural capital impacts and
         dependencies. It is divided into four stages: Frame, Scope,
         Measure and Value, and Apply. The Frame stage helps stakeholders
@@ -3640,10 +3985,12 @@ kable(data[1:7, ], caption = "Overview of Measurement and Verification Framework
             </list-item>
             <list-item>
               <label>37.</label>
-              <p>On the other hand, the Natural Capital Protocol is widely
-        accepted, having been developed through collaboration with
-        multiple global organisations. It has been broadly adopted by
-        businesses and industries worldwide, encouraging integration
+              <p>On the other hand, the Natural Capital Protocol (Capitals
+        Coalition
+        (<xref alt="2024" rid="ref-capitals_coalition_2024-nb-article" ref-type="bibr">2024</xref>))
+        is widely accepted, having been developed through collaboration
+        with multiple global organisations. It has been broadly adopted
+        by businesses and industries worldwide, encouraging integration
         with existing business reporting frameworks such as financial
         and sustainability reporting. This widespread recognition and
         endorsement by international organisations has led to its higher
@@ -3676,10 +4023,12 @@ kable(data[1:7, ], caption = "Overview of Measurement and Verification Framework
         constraints in impact investing, such as diverse definitions of
         impact, the need for internationally comparable data, and
         underdeveloped impact measurement practices. Among the most
-        recognised frameworks are the Global Impact Investing Network’s
-        (GIIN) IRIS+, the Social Return on Investment (SROI), the Social
-        Performance Task Force (SPTF), B Impact Assessment (BIA) by B
-        Lab, and the Impact Management Project (IMP).</p>
+        recognised frameworks are the GIIN IRIS+, SROI, SPTF, B Impact
+        Assessment, and the Impact Management Project (). the Social
+        Return on Investment (SROI), the Social Performance Task Force
+        (SPTF), B Impact Assessment (BIA) by B Lab, and the Impact
+        Management Platform
+        (<xref alt="2024" rid="ref-impact_management_platform-nb-article" ref-type="bibr">2024</xref>).</p>
             </list-item>
             <list-item>
               <label>40.</label>
@@ -4028,7 +4377,7 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
         projects, ensuring that interventions are culturally appropriate
         and have the support of the communities they aim to serve (The
         Economist Group
-        (<xref alt="2022" rid="ref-economist2022-nb-article" ref-type="bibr">2022</xref>)).</p>
+        (<xref alt="n.d." rid="ref-economist2022-nb-article" ref-type="bibr">n.d.</xref>)).</p>
             </list-item>
             <list-item>
               <label>48.</label>
@@ -4056,17 +4405,17 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
               <label>49.</label>
               <p>The need for a comprehensive and interconnected approach to
         impact assessment has become increasingly critical in recent
-        years. Published reports by the (European Commission
-        (<xref alt="2023" rid="ref-ec2023-nb-article" ref-type="bibr">2023</xref>))
-        and the United Nations Office for Disaster Risk Reduction (2023)
+        years. Published reports by the European Commission
+        (<xref alt="2023" rid="ref-ec2023-nb-article" ref-type="bibr">2023</xref>)
+        and United Nations Office for Disaster Risk Reduction
+        (<xref alt="2023" rid="ref-undrr2023naturebased-nb-article" ref-type="bibr">2023</xref>)
         highlight evolving trends that emphasise integrating a holistic
         ecosystem perspective within national and international nature
         targets. Adopting this approach is essential when addressing
         issues like “impact washing” and enhancing impact measurement
         and verification processes. Accounting frameworks like
-        Accounting for Nature, the Natural Capital Protocol, Taskforce
-        on Nature-related Financial Disclosures (TNFD), and SEEA
-        emphasise a comprehensive view of ecosystems and stress their
+        Accounting for Nature, the Natural Capital Protocol, TNFD, and
+        SEEA emphasise an ecosystem perspective stress their
         interconnectedness, where sustainable development depends on
         multilayered and interrelated aspects. Such frameworks help
         identify synergies and trade-offs within ecosystems, ensuring
@@ -4075,34 +4424,35 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
             </list-item>
             <list-item>
               <label>50.</label>
-              <p>Implementing nature-based accounting standards (NCA) is
-        crucial to addressing impact washing. Holistic NCAs utilise
-        detailed measurement standards that capture an aggregate range
-        of environmental impacts. This thorough approach reduces the
+              <p>Implementing nature-based accounting standards is crucial to
+        addressing impact washing. Holistic NCAs utilise detailed
+        measurement standards that capture an aggregate range of
+        environmental impacts. This thorough approach reduces the
         likelihood of overstating or falsely claiming benefits within
         impact investment. Impact washing deals with wrongly depicting
         the effects of investments, often by focusing solely on positive
         outcomes while neglecting negative impacts. As noted by Bendell
-        (2019), we can only ensure we achieve our intended net societal
-        and environmental benefits if we measure and manage both
-        positive and negative outcomes. This requires a comprehensive
-        impact assessment approach, integrating multi-dimensional
-        metrics to provide an honest and accurate evaluation of
-        investments. By adhering to rigorous, science-based frameworks
-        such as NCAs, stakeholders can maintain transparency and
-        accountability, ensuring that investments contribute genuinely
-        to sustainable development goals and avoid the pitfalls of
-        misleading impact claims. The United Nations Office for Disaster
-        Risk Reduction (2023) report emphasises the importance of
-        recognising co-benefits of nature-based solutions, such as
-        biodiversity conservation, climate regulation, and improved
-        human well-being. This aligns with ecosystem accounting
-        principles, which advocate measuring and valuing multiple
-        ecosystem services based on asset condition and extent
-        assessments to inform decision-making. The implication is that
-        impact assessments should focus on more than just single
-        outcomes and capture the interconnected benefits and trade-offs
-        of environmental investments.</p>
+        (<xref alt="2019" rid="ref-bendell2019impact-nb-article" ref-type="bibr">2019</xref>),
+        we can only ensure we achieve our intended net societal and
+        environmental benefits if we measure and manage both positive
+        and negative outcomes. This requires a comprehensive impact
+        assessment approach, integrating multi-dimensional metrics to
+        provide an honest and accurate evaluation of investments. By
+        adhering to rigorous, science-based frameworks such as NCAs,
+        stakeholders can maintain transparency and accountability,
+        ensuring that investments contribute genuinely to sustainable
+        development goals and avoid the pitfalls of misleading impact
+        claims. The United Nations Office for Disaster Risk Reduction
+        (<xref alt="2023" rid="ref-undrr2023naturebased-nb-article" ref-type="bibr">2023</xref>)
+        report emphasises the importance of recognising co-benefits of
+        nature-based solutions, such as biodiversity conservation,
+        climate regulation, and improved human well-being. This aligns
+        with ecosystem accounting principles, which advocate measuring
+        and valuing multiple ecosystem services based on asset condition
+        and extent assessments to inform decision-making. The
+        implication is that impact assessments should focus on more than
+        just single outcomes and capture the interconnected benefits and
+        trade-offs of environmental investments.</p>
             </list-item>
             <list-item>
               <label>51.</label>
@@ -4115,31 +4465,34 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
         diminish impact returns. Instead, the frameworks can provide
         multi-dimensional views of impact, highlighting both positive
         outcomes and potential negative trade-offs within ecosystems
-        and, therefore, impact outcomes. The report of the European
-        Commission (2023) emphasises that the credibility and accuracy
-        of impact assessments are heavily dependent on the quality and
-        scientific rigour of the metrics used.</p>
+        and, therefore, impact outcomes. A report of the European
+        Commission
+        (<xref alt="2023" rid="ref-ec2023-nb-article" ref-type="bibr">2023</xref>)
+        Eemphasises that the credibility and accuracy of impact
+        assessments are heavily dependent on the quality and scientific
+        rigour of the metrics used.</p>
             </list-item>
             <list-item>
               <label>52.</label>
-              <p>Finally, the European Commission’s report (2023) emphasises
-        the importance of considering spatial and temporal scales in
-        impact assessments, acknowledging that nature-based solutions
-        can have varying impacts over different geographic areas and
-        timeframes. Additionally, the report highlights the importance
-        of engaging stakeholders and considering the socio-economic
-        context in designing and assessing nature-based solutions. These
-        considerations stress the need for robust natural accounting
-        frameworks that incorporate and promote continuous monitoring
-        and rigorous assessment to ensure accurate and comprehensive
-        evaluations. Integrating spatial, temporal, and socio-economic
-        factors, nature accounting frameworks can help mitigate impact
-        washing by ensuring that investments are transparently and
-        accurately measured, managed and reported. A comprehensive
-        approach enables the alignment of investment capital more
-        closely with sustainable development goals and international
-        standards, reinforcing genuine positive impacts of impact
-        investments.</p>
+              <p>Finally, European Commission
+        (<xref alt="2023" rid="ref-ec2023-nb-article" ref-type="bibr">2023</xref>)
+        emphasises the importance of considering spatial and temporal
+        scales in impact assessments, acknowledging that nature-based
+        solutions can have varying impacts over different geographic
+        areas and timeframes. Additionally, the report highlights the
+        importance of engaging stakeholders and considering the
+        socio-economic context in designing and assessing nature-based
+        solutions. These considerations stress the need for robust
+        natural accounting frameworks that incorporate and promote
+        continuous monitoring and rigorous assessment to ensure accurate
+        and comprehensive evaluations. Integrating spatial, temporal,
+        and socio-economic factors, nature accounting frameworks can
+        help mitigate impact washing by ensuring that investments are
+        transparently and accurately measured, managed and reported. A
+        comprehensive approach enables the alignment of investment
+        capital more closely with sustainable development goals and
+        international standards, reinforcing genuine positive impacts of
+        impact investments.</p>
             </list-item>
           </list>
         </sec>
@@ -4157,23 +4510,26 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
         public health and community well-being. The global increase in
         waste production has driven the need for advanced waste
         management solutions, including recycling technologies and
-        waste-to-energy systems. According to the United Nations
-        Environment Programme (UNEP), these innovations help reduce the
-        environmental footprint and promote resource efficiency (UNEP,
-        2021). Standards and certifications such as Zero Waste to
-        Landfill and tools like LCA (Lifecycle Assessments) are
-        continuously growing in adoption. Similarly, impact investors
-        are increasingly supporting initiatives that tackle other
-        pollution controls, including efforts to reduce air, noise, and
-        water pollution, all linked to severe health issues and
-        environmental degradation (World Health Organization, 2018).
+        waste-to-energy systems. According to United Nations Environment
+        Programme
+        (<xref alt="2021" rid="ref-unep2021waste-nb-article" ref-type="bibr">2021</xref>)
+        these innovations help reduce the environmental footprint and
+        promote resource efficiency. Standards and certifications such
+        as Zero Waste to Landfill and tools like LCA (Lifecycle
+        Assessments) are continuously growing in adoption. Similarly,
+        impact investors are increasingly supporting initiatives that
+        tackle other pollution controls, including efforts to reduce
+        air, noise, and water pollution, all linked to severe health
+        issues and environmental degradation (World Health Organization
+        (<xref alt="2018" rid="ref-who2018pollution-nb-article" ref-type="bibr">2018</xref>)).
         Initiatives include those that develop cleaner industrial
         processes, emissions reduction technologies, and sustainable
         agricultural practices, among others. These investments are
         crucial in addressing the adverse effects of pollutants on
         communities, particularly in densely populated urban areas where
         air quality concerns are most acute, and on the oceans
-        (Intergovernmental Panel on Climate Change, 2019).</p>
+        (Intergovernmental Panel on Climate Change
+        (<xref alt="2019" rid="ref-ipcc2019pollutants-nb-article" ref-type="bibr">2019</xref>)).</p>
             </list-item>
             <list-item>
               <label>54.</label>
@@ -4184,9 +4540,10 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
         and developing systems for better water quality monitoring and
         management. These efforts are essential in ensuring access to
         clean and safe water, which is fundamental to public health and
-        economic development (World Resources Institute, 2020). At a
-        corporate scale, frameworks, standards, and even credit schemes
-        such as the Water Footprint, ISO 14046: Environmental
+        economic development (World Resources Institute
+        (<xref alt="2020" rid="ref-wri2020water-nb-article" ref-type="bibr">2020</xref>)).
+        At a corporate scale, frameworks, standards, and even credit
+        schemes such as the Water Footprint, ISO 14046: Environmental
         Management-Water Footprint, LEED Water Efficiency credits, and
         the Alliance for Water Stewardship (AWS) Standard are also
         growing in demand and requirements as water scarcity becomes a
@@ -4201,19 +4558,23 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
         regulatory frameworks and global standards. For instance, the
         European Union’s Green Deal and Circular Economy Action Plan
         promote sustainable production and consumption patterns,
-        encouraging investments that align with these goals. Moreover,
-        international agreements like the Paris Agreement highlight the
-        interconnectedness of environmental health and climate action,
-        underscoring the need for integrated approaches to address these
-        issues (European Commission, 2019; United Nations Framework
-        Convention on Climate Change, 2015). In that sense, as
-        previously mentioned, frameworks such as GRI, ISO 14001, and B
-        Corp Certification promote environmental management practices by
-        helping organizations minimize their environmental footprint,
-        comply with applicable laws and regulations, and continually
-        improve their environmental performance (Global Reporting
-        Initiative
-        (<xref alt="2021" rid="ref-gri2021-nb-article" ref-type="bibr">2021</xref>)).</p>
+        encouraging investments that align with these goals (European
+        Commission
+        (<xref alt="2019" rid="ref-ec2019-nb-article" ref-type="bibr">2019</xref>)).
+        Moreover, international agreements like the Paris Agreement on
+        Climate Change highlight the interconnectedness of environmental
+        health and climate action, underscoring the need for integrated
+        approaches to address these issues (European Commission
+        (<xref alt="2019" rid="ref-ec2019-nb-article" ref-type="bibr">2019</xref>),
+        United Nations Framework Convention on Climate Change
+        (<xref alt="2015" rid="ref-unfccc2015-nb-article" ref-type="bibr">2015</xref>)).
+        In that sense, as previously mentioned, frameworks such as GRI,
+        ISO 14001, and B Corp Certification promote environmental
+        management practices by helping organizations minimize their
+        environmental footprint, comply with applicable laws and
+        regulations, and continually improve their environmental
+        performance (Global Reporting Initiative
+        (<xref alt="n.d." rid="ref-gri2021-nb-article" ref-type="bibr">n.d.</xref>)).</p>
             </list-item>
             <list-item>
               <label>56.</label>
@@ -4776,15 +5137,21 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
     <back>
       <ref-list>
         <title/>
-        <ref id="ref-ec2023-nb-article">
-          <element-citation publication-type="report">
+        <ref id="ref-bendell2019impact-nb-article">
+          <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
-              <string-name>European Commission</string-name>
+              <name>
+                <surname>Bendell</surname>
+                <given-names>Jem</given-names>
+              </name>
             </person-group>
-            <article-title>Impact assessment study to support the development of legally binding EU nature restoration targets: Final report</article-title>
-            <publisher-name>Publications Office of the European Union</publisher-name>
-            <year iso-8601-date="2023">2023</year>
-            <uri>https://op.europa.eu/en/publications</uri>
+            <article-title>Measuring and managing positive and negative outcomes in impact investing</article-title>
+            <source>Journal of Impact Investing</source>
+            <year iso-8601-date="2019">2019</year>
+            <volume>5</volume>
+            <issue>3</issue>
+            <fpage>12</fpage>
+            <lpage>25</lpage>
           </element-citation>
         </ref>
         <ref id="ref-eisenberg2024-nb-article">
@@ -4819,6 +5186,204 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
             <uri>https://horasis.org/the-next-big-trend-asian-impact-investing/</uri>
           </element-citation>
         </ref>
+        <ref id="ref-godeke_briaud_2021-nb-article">
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Godeke</surname>
+                <given-names>S.</given-names>
+              </name>
+              <name>
+                <surname>Briaud</surname>
+                <given-names>P.</given-names>
+              </name>
+            </person-group>
+            <source>Impact investing handbook: An implementation guide for practitioners</source>
+            <publisher-name>Rockefeller Philanthropy Advisors</publisher-name>
+            <year iso-8601-date="2021">2021</year>
+            <fpage>1</fpage>
+            <lpage>180</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-accountingfornature_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Accounting for Nature</string-name>
+            </person-group>
+            <article-title>Econd</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://www.accountingfornature.org/econd</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-blab_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>B Lab</string-name>
+            </person-group>
+            <article-title>B impact assessment</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://www.bcorporation.net/en-us/programs-and-tools/b-impact-assessment/</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-capitals_coalition_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Capitals Coalition</string-name>
+            </person-group>
+            <article-title>Natural capital protocol</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://capitalscoalition.org/capitals-approach/natural-capital-protocol/?fwp_filter_tabs=guide_supplement</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-cdp_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Carbon Disclosure Project (CDP)</string-name>
+            </person-group>
+            <article-title>CDP: Driving sustainable economies</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://www.cdp.net/en</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-eu_ets_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>European Commission</string-name>
+            </person-group>
+            <article-title>EU emissions trading system (EU ETS)</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-ghg_protocol_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>GHG Protocol</string-name>
+            </person-group>
+            <article-title>Standards and guidance</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://ghgprotocol.org/standards-guidance</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-giin_2022-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>GIIN</string-name>
+            </person-group>
+            <article-title>What is impact investing?</article-title>
+            <year iso-8601-date="2022">2022</year>
+            <uri>https://thegiin.org/impact-investing/need-to-know/#what-is-impact-investing</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-impact_management_platform-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Impact Management Platform</string-name>
+            </person-group>
+            <article-title>Impact management platform</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://impactmanagementplatform.org</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-iris_2022-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>IRIS+</string-name>
+            </person-group>
+            <article-title>IRIS+ THEMATIC TAXONOMY</article-title>
+            <year iso-8601-date="2022">2022</year>
+            <uri>https://s3.amazonaws.com/giin-web-assets/iris/assets/files/guidance/2022-07-19_IRIS-FND_Taxonomy.pdf</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-iucn_red_list_ecosystems_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>International Union for Conservation of Nature</string-name>
+            </person-group>
+            <article-title>Red list of ecosystems</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://iucnrle.org/</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-sasb_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Sustainability Accounting Standards Board (SASB)</string-name>
+            </person-group>
+            <article-title>SASB standards</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://www.sasb.org/standards/</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-sbti_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Science Based Targets initiative (SBTi)</string-name>
+            </person-group>
+            <article-title>Ambitious corporate climate action</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://sciencebasedtargets.org</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-ceriseSPTF-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Cerise+SPTF</string-name>
+            </person-group>
+            <article-title>Universal standards for social and environmental performance management</article-title>
+            <year iso-8601-date="2023">2023</year>
+            <uri>https://cerise-sptf.org/universal-standards/</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-sroi_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Social Value International</string-name>
+            </person-group>
+            <article-title>Social return on investment (SROI)</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://socialvalueint.org/social-return-on-investment-sroi/</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-tcfd_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Taskforce on Climate-related Financial Disclosures</string-name>
+            </person-group>
+            <article-title>TCFD hub</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://www.tcfdhub.org</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-tnfd_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>Taskforce on Nature-related Financial Disclosures</string-name>
+            </person-group>
+            <article-title>TNFD global</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://tnfd.global</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-united_nations_statistics_division_2024-nb-article">
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <string-name>United Nations Statistics Division</string-name>
+            </person-group>
+            <article-title>About SEEA</article-title>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://seea.un.org/content/about-seea</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-bundesinitiative_impact_investing_2022-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <string-name>Bundesinitiative Impact Investing</string-name>
+            </person-group>
+            <article-title>Impact investing: A demanding definition for listed and non-listed products</article-title>
+            <year iso-8601-date="2022">2022</year>
+          </element-citation>
+        </ref>
         <ref id="ref-economist2022-nb-article">
           <element-citation publication-type="report">
             <person-group person-group-type="author">
@@ -4826,7 +5391,95 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
             </person-group>
             <article-title>Advancing impact: A road map for social investing in asia</article-title>
             <publisher-name>The Economist</publisher-name>
-            <year iso-8601-date="2022">2022</year>
+          </element-citation>
+        </ref>
+        <ref id="ref-ipcc2019pollutants-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <string-name>Intergovernmental Panel on Climate Change</string-name>
+            </person-group>
+            <article-title>Special report on climate change and pollution: Effects on oceans and communities</article-title>
+            <publisher-name>Intergovernmental Panel on Climate Change</publisher-name>
+            <year iso-8601-date="2019">2019</year>
+            <uri>https://www.ipcc.ch/</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-undrr2023naturebased-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <string-name>United Nations Office for Disaster Risk Reduction</string-name>
+            </person-group>
+            <article-title>Good practices for increasing the application of nature-based solutions and ecosystem-based approaches for disaster risk reduction</article-title>
+            <publisher-name>United Nations Office for Disaster Risk Reduction</publisher-name>
+            <year iso-8601-date="2023">2023</year>
+            <uri>https://www.undrr.org/publication/good-practices-increasing-application-nature-based-solutions-and-ecosystem-based</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-unep2021waste-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <string-name>United Nations Environment Programme</string-name>
+            </person-group>
+            <article-title>Innovations in waste management: Promoting resource efficiency and reducing environmental footprint</article-title>
+            <publisher-name>United Nations Environment Programme</publisher-name>
+            <year iso-8601-date="2021">2021</year>
+            <uri>https://www.unep.org/</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-who2018pollution-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <string-name>World Health Organization</string-name>
+            </person-group>
+            <article-title>Health effects of pollution: Addressing air, noise, and water pollution for sustainable communities</article-title>
+            <publisher-name>World Health Organization</publisher-name>
+            <year iso-8601-date="2018">2018</year>
+            <uri>https://www.who.int/</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-ec2019-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <string-name>European Commission</string-name>
+            </person-group>
+            <article-title>The European Green Deal</article-title>
+            <publisher-name>Publications Office of the European Union</publisher-name>
+            <year iso-8601-date="2019">2019</year>
+            <uri>https://ec.europa.eu/info/publications/communication-european-green-deal_en</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-ec2023-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <string-name>European Commission</string-name>
+            </person-group>
+            <article-title>Impact assessment study to support the development of legally binding EU nature restoration targets: Final report</article-title>
+            <publisher-name>Publications Office of the European Union</publisher-name>
+            <year iso-8601-date="2023">2023</year>
+            <uri>https://op.europa.eu/en/publications</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-eurosif_classification_report_2024-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Eurosif</surname>
+              </name>
+            </person-group>
+            <article-title>Final report: Eurosif classification</article-title>
+            <publisher-name>Eurosif</publisher-name>
+            <year iso-8601-date="2024">2024</year>
+            <uri>https://www.eurosif.org/wp-content/uploads/2024/02/2024.02.15-Final-Report-Eurosif-Classification_2024.pdf</uri>
+          </element-citation>
+        </ref>
+        <ref id="ref-gri2021-nb-article">
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <string-name>Global Reporting Initiative</string-name>
+            </person-group>
+            <article-title>GRI standards</article-title>
+            <publisher-name>Global Reporting Initiative</publisher-name>
+            <uri>https://www.globalreporting.org/standards</uri>
           </element-citation>
         </ref>
         <ref id="ref-iso2018-nb-article">
@@ -4840,112 +5493,85 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
             <uri>https://www.iso.org/standard/43263.html</uri>
           </element-citation>
         </ref>
-        <ref id="ref-gri2021-nb-article">
+        <ref id="ref-unfccc2015-nb-article">
           <element-citation publication-type="report">
             <person-group person-group-type="author">
-              <string-name>Global Reporting Initiative</string-name>
+              <string-name>United Nations Framework Convention on Climate Change</string-name>
             </person-group>
-            <article-title>GRI standards</article-title>
-            <publisher-name>Global Reporting Initiative</publisher-name>
-            <year iso-8601-date="2021">2021</year>
-            <uri>https://www.globalreporting.org/standards</uri>
+            <article-title>The Paris Agreement</article-title>
+            <publisher-name>United Nations Framework Convention on Climate Change</publisher-name>
+            <year iso-8601-date="2015">2015</year>
+            <uri>https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement</uri>
           </element-citation>
         </ref>
-        <ref id="ref-bundesinitiative_impact_investing_2022-nb-article">
+        <ref id="ref-wri2020water-nb-article">
           <element-citation publication-type="report">
             <person-group person-group-type="author">
-              <string-name>Bundesinitiative Impact Investing</string-name>
+              <string-name>World Resources Institute</string-name>
             </person-group>
-            <article-title>Impact investing: A demanding definition for listed and non-listed products</article-title>
-            <year iso-8601-date="2022">2022</year>
+            <article-title>Water scarcity and infrastructure development: Solutions for a growing crisis</article-title>
+            <publisher-name>World Resources Institute</publisher-name>
+            <year iso-8601-date="2020">2020</year>
+            <uri>https://www.wri.org/</uri>
           </element-citation>
         </ref>
-        <ref id="ref-capitals_coalition_2024-nb-article">
-          <element-citation publication-type="webpage">
+        <ref id="ref-nature_credits2024-nb-article">
+          <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
-              <string-name>Capitals Coalition</string-name>
+              <name>
+                <surname>Swinfield</surname>
+                <given-names>Tom</given-names>
+              </name>
+              <name>
+                <surname>Shrikanth</surname>
+                <given-names>Siddarth</given-names>
+              </name>
+              <name>
+                <surname>Bull</surname>
+                <given-names>Joseph W.</given-names>
+              </name>
+              <name>
+                <surname>Madhavapeddy</surname>
+                <given-names>Anil</given-names>
+              </name>
+              <name>
+                <surname>Ermgassen</surname>
+                <given-names>Sophus O. S. E. zu</given-names>
+              </name>
             </person-group>
-            <article-title>Natural capital protocol</article-title>
+            <article-title>Nature-based credit markets at a crossroads</article-title>
+            <source>Nature Sustainability</source>
             <year iso-8601-date="2024">2024</year>
-            <uri>https://capitalscoalition.org/capitals-approach/natural-capital-protocol/?fwp_filter_tabs=guide_supplement</uri>
-          </element-citation>
-        </ref>
-        <ref id="ref-giin_2022-nb-article">
-          <element-citation publication-type="webpage">
-            <person-group person-group-type="author">
-              <string-name>GIIN</string-name>
-            </person-group>
-            <article-title>What is impact investing?</article-title>
-            <year iso-8601-date="2022">2022</year>
-            <uri>https://thegiin.org/impact-investing/need-to-know/#what-is-impact-investing</uri>
-          </element-citation>
-        </ref>
-        <ref id="ref-iris_2022-nb-article">
-          <element-citation publication-type="webpage">
-            <person-group person-group-type="author">
-              <string-name>IRIS+</string-name>
-            </person-group>
-            <article-title>IRIS+ THEMATIC TAXONOMY</article-title>
-            <year iso-8601-date="2022">2022</year>
-            <uri>https://s3.amazonaws.com/giin-web-assets/iris/assets/files/guidance/2022-07-19_IRIS-FND_Taxonomy.pdf</uri>
-          </element-citation>
-        </ref>
-        <ref id="ref-united_nations_statistics_division_2024-nb-article">
-          <element-citation publication-type="webpage">
-            <person-group person-group-type="author">
-              <string-name>United Nations Statistics Division</string-name>
-            </person-group>
-            <article-title>About SEEA</article-title>
-            <year iso-8601-date="2024">2024</year>
-            <uri>https://seea.un.org/content/about-seea</uri>
-          </element-citation>
-        </ref>
-        <ref id="ref-tnfd_2024-nb-article">
-          <element-citation publication-type="webpage">
-            <person-group person-group-type="author">
-              <string-name>Taskforce on Nature-related Financial Disclosures (TNFD)</string-name>
-            </person-group>
-            <article-title>TNFD global</article-title>
-            <year iso-8601-date="2024">2024</year>
-            <uri>https://tnfd.global</uri>
-          </element-citation>
-        </ref>
-        <ref id="ref-tcfd_2024-nb-article">
-          <element-citation publication-type="webpage">
-            <person-group person-group-type="author">
-              <string-name>Taskforce on Climate-related Financial Disclosures (TCFD)</string-name>
-            </person-group>
-            <article-title>TCFD hub</article-title>
-            <year iso-8601-date="2024">2024</year>
-            <uri>https://www.tcfdhub.org</uri>
-          </element-citation>
-        </ref>
-        <ref id="ref-ghg_protocol_2024-nb-article">
-          <element-citation publication-type="webpage">
-            <person-group person-group-type="author">
-              <string-name>GHG Protocol</string-name>
-            </person-group>
-            <article-title>Standards and guidance</article-title>
-            <year iso-8601-date="2024">2024</year>
-            <uri>https://ghgprotocol.org/standards-guidance</uri>
+            <volume>7</volume>
+            <issue>10</issue>
+            <isbn>2398-9629</isbn>
+            <uri>https://doi.org/10.1038/s41893-024-01403-w</uri>
+            <pub-id pub-id-type="doi">10.1038/s41893-024-01403-w</pub-id>
+            <fpage>1217</fpage>
+            <lpage>1220</lpage>
           </element-citation>
         </ref>
       </ref-list>
       <fn-group>
         <fn id="fn1-nb-article">
           <label>1</label>
-          <p>See for example: Nature-based credit markets at a
-    crossroads, Nature Sustainability:
-    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/s41893-024-01403-w">https://doi.org/10.1038/s41893-024-01403-w</ext-link></p>
+          <p>See International Union for Conservation of
+    Nature
+    (<xref alt="2024" rid="ref-iucn_red_list_ecosystems_2024-nb-article" ref-type="bibr">2024</xref>).</p>
         </fn>
         <fn id="fn2-nb-article">
           <label>2</label>
+          <p>See for example Swinfield et al.
+    (<xref alt="2024" rid="ref-nature_credits2024-nb-article" ref-type="bibr">2024</xref>).</p>
+        </fn>
+        <fn id="fn3-nb-article">
+          <label>3</label>
           <p>Intentionality is a fundamental aspect of impact
     investing; investors must explicitly state their intention to
     generate social or environmental benefits (GIIN, 2022).</p>
         </fn>
-        <fn id="fn3-nb-article">
-          <label>3</label>
+        <fn id="fn4-nb-article">
+          <label>4</label>
           <p>Impact investments must have measurable outcomes,
     which should be quantifiable on a qualitative or quantitative basis,
     and performance must be regularly and transparently reported
@@ -4954,8 +5580,8 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
     GIIN
     (<xref alt="2022" rid="ref-giin_2022-nb-article" ref-type="bibr">2022</xref>)).</p>
         </fn>
-        <fn id="fn4-nb-article">
-          <label>4</label>
+        <fn id="fn5-nb-article">
+          <label>5</label>
           <p>Additionality refers to the unique impact an
     investment would only have achieved with the specific funding.
     Active investor engagement and sharing best practices are vital for
@@ -4965,16 +5591,16 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
     GIIN
     (<xref alt="2022" rid="ref-giin_2022-nb-article" ref-type="bibr">2022</xref>)).</p>
         </fn>
-        <fn id="fn5-nb-article">
-          <label>5</label>
+        <fn id="fn6-nb-article">
+          <label>6</label>
           <p>Using evidence to substantiate the intended
     impact is essential in impact investing, which involves using data
     and research to guide investment decisions and prove that
     investments lead to meaningful social or environmental changes (GIIN
     (<xref alt="2022" rid="ref-giin_2022-nb-article" ref-type="bibr">2022</xref>)).</p>
         </fn>
-        <fn id="fn6-nb-article">
-          <label>6</label>
+        <fn id="fn7-nb-article">
+          <label>7</label>
           <p>See:
     <ext-link ext-link-type="uri" xlink:href="https://capitalscoalition.org/wp-content/uploads/2021/01/NCC_Protocol.pdf">https://capitalscoalition.org/wp-content/uploads/2021/01/NCC_Protocol.pdf</ext-link></p>
         </fn>
