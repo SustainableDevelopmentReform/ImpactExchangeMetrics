@@ -3,7 +3,11 @@ title: Measurement and verification of environmental and social outcomes for a p
 shorttitle: Research Brief 24.08 (private draft)
 shortauthors: UNSW CSDR
 authors:
-  - name: Arlette Schramm, Marianne Feoli, Ben Milligan
+  - name: Arlette Schramm
+    affiliations:
+      - UNSW Centre for Sustainable Development Reform
+  - name: Marianne Feoli
+  - name: Ben Milligan
     orcid: 0000-0003-1313-3956
     corresponding: true
     email: b.milligan@unsw.edu.au
@@ -21,7 +25,7 @@ bibliography: references.bib
 citation: 
   title: Measurement and verification of environmental and social outcomes for a proposed Australian Impact Exchange
   type: report
-  container-title: CSDR Discussion Papers
+  container-title: Digital Finance Cooperative Research Centre Research Paper
   issued: last-modified
   doi: 10.1128/AEM.02591-0
 ---
@@ -174,7 +178,7 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
 
 23. @iris_2022 provides a comprehensive global catalogue of metrics impact investors use to measure social, environmental, and financial performance across sectors such as education, healthcare, and economic development. SROI translates social outcomes into monetary values, offering a method to measure social value created by investments in various sectors, including community development and healthcare. SPTF focuses on assessing social performance in the microfinance sector, while BIA evaluates companies' social and environmental performance, emphasising governance, workers, community, environment, and customers (@ceriseSPTF). IMP provides a consensus on measuring, managing, and reporting impacts on people and the planet, covering multiple sectors and impact themes (@impact_management_platform).
 
-24. Each framework has specific requirements for measurement and verification. IRIS+ and IMP emphasise standardised metrics and consistent data collection, with third-party audits often used for verification. SROI requires detailed data on inputs, outputs, and financial proxies, with stakeholder engagement and third-party validation. SPTF uses outreach and social responsibility indicators, with self-reporting and external audits. BIA involves a structured questionnaire and comprehensive assessment, verified through third-party audits for B Corp certification (@blab_2024). The most widely accepted standards include IRIS+, IMP, and B Impact Assessment (@blab_2024), which are highly regarded globally among impact investors and financial institutions. SROI and SPTF are also gaining acceptance, particularly in the non-profit and microfinance sectors.
+24. Each framework has specific requirements for measurement and verification. IRIS+ and IMP emphasise standardised metrics and consistent data collection, with third-party audits often used for verification. SROI requires detailed data on inputs, outputs, and financial proxies, with stakeholder engagement and third-party validation. SPTF uses outreach and social responsibility indicators, with self-reporting and external audits. BIA involves a structured questionnaire and comprehensive assessment, verified through third-party audits for B Corp certification. The most widely accepted standards include IRIS+, IMP, and B Impact Assessment (@blab_2024), which are highly regarded globally among impact investors and financial institutions. SROI and SPTF are also gaining acceptance, particularly in the non-profit and microfinance sectors.
 
 25. Despite their wide acceptance, these frameworks often overlap in their methodologies and objectives. For example, IRIS+ and IMP share common elements in defining and standardising impact metrics. However, gaps remain in sector-specific metrics for niche areas and challenges in assigning monetary values to all social outcomes, as seen with SROI. Understanding these overlaps and gaps is crucial for developing a comprehensive and credible impact assessment strategy, ensuring investments align with broader social and environmental goals. Furthermore, Standards differ in their approach to verification and certification. Some, like ISO standards, require formal verification to certify compliance with specific criteria, ensuring that organizations meet the established standard. Others, such as the Global Reporting Initiative (GRI), are primarily guidelines that companies align with, and verification may depend on regional regulations or organizational preferences—sometimes it is required, other times optional. Verification also varies in scope: standards like GRI verify the accuracy of reported statements, ISO standards verify compliance with detailed requirements, and frameworks like the @sbti_2024 (SBTi) assess whether an organization's efforts genuinely aim to drive meaningful change.
 
@@ -222,7 +226,7 @@ kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measu
 
 34. The Measure and Value stage quantifies and values the identified impacts and dependencies using qualitative, quantitative, and monetary methods. This involves collecting data, applying appropriate valuation techniques, and calculating the overall impact on natural capital. Both biophysical measurement and economic valuation are used to provide a comprehensive assessment. The Apply stage interprets the results, validates their accuracy, and integrates them into decision-making processes. This involves analysing the results, assessing the financial and environmental implications, and communicating the findings to stakeholders.
 
-[^7]: See: <https://capitalscoalition.org/wp-content/uploads/2021/01/NCC_Protocol.pdf>
+[^7]: See: @capitals_coalition_2024.
 
 <!-- -->
 

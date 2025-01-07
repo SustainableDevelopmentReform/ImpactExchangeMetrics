@@ -6,7 +6,8 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
     <journal-meta>
       <journal-id/>
       <journal-title-group>
-        <journal-title>CSDR Discussion Papers</journal-title>
+        <journal-title>Digital Finance Cooperative Research Centre Research
+Paper</journal-title>
       </journal-title-group>
       <issn/>
       <publisher>
@@ -20,16 +21,31 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 outcomes for a proposed Australian Impact Exchange</article-title>
       </title-group>
       <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schramm</surname>
+            <given-names>Arlette</given-names>
+          </name>
+          <string-name>Arlette Schramm</string-name>
+          <xref ref-type="aff" rid="aff-1">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Feoli</surname>
+            <given-names>Marianne</given-names>
+          </name>
+          <string-name>Marianne Feoli</string-name>
+        </contrib>
         <contrib contrib-type="author" corresp="yes">
           <contrib-id contrib-id-type="orcid">0000-0003-1313-3956</contrib-id>
           <name>
-            <surname>Arlette Schramm</surname>
-            <given-names>Ben Milligan</given-names>
+            <surname>Milligan</surname>
+            <given-names>Ben</given-names>
           </name>
-          <string-name>Arlette Schramm, Marianne Feoli, Ben Milligan</string-name>
+          <string-name>Ben Milligan</string-name>
           <email>b.milligan@unsw.edu.au</email>
           <xref ref-type="aff" rid="aff-1">a</xref>
-          <xref ref-type="corresp" rid="cor-1">*</xref>
+          <xref ref-type="corresp" rid="cor-3">*</xref>
         </contrib>
       </contrib-group>
       <aff id="aff-1">
@@ -39,7 +55,7 @@ Reform</institution>
         </institution-wrap>
       </aff>
       <author-notes>
-        <corresp id="cor-1">b.milligan@unsw.edu.au</corresp>
+        <corresp id="cor-3">b.milligan@unsw.edu.au</corresp>
       </author-notes>
       <pub-date date-type="pub" publication-format="electronic" iso-8601-date="Invalid Date">
         <year>.nan</year>
@@ -342,7 +358,7 @@ credibility issues.
       Standards such as those developed by the Global Reporting
       Initiative
       (<xref alt="n.d." rid="ref-gri2021" ref-type="bibr">n.d.</xref>)
-      (GRI), Sustainability Accounting Standards Board (SASB)
+      (GRI), Sustainability Accounting Standards Board
       (<xref alt="2024" rid="ref-sasb_2024" ref-type="bibr">2024</xref>)
       (SASB), Taskforce on Climate-related Financial Disclosures
       (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>),
@@ -407,7 +423,7 @@ credibility issues.
       (<xref alt="2024" rid="ref-tnfd_2024" ref-type="bibr">2024</xref>),
       Taskforce on Climate-related Financial Disclosures
       (<xref alt="2024" rid="ref-tcfd_2024" ref-type="bibr">2024</xref>)
-      and Sustainability Accounting Standards Board (SASB)
+      and Sustainability Accounting Standards Board
       (<xref alt="2024" rid="ref-sasb_2024" ref-type="bibr">2024</xref>)
       provide essential guidelines for companies to report their ESG
       performance.</p>
@@ -606,7 +622,7 @@ credibility issues.
             <label>20.</label>
             <p>Within the broad range of ESG-related reporting standards,
         Climate-related disclosure and reporting standards, such as the
-        TCFD and the Carbon Disclosure Project (CDP)
+        TCFD and the Carbon Disclosure Project
         (<xref alt="2024" rid="ref-cdp_2024" ref-type="bibr">2024</xref>)
         (CDP), guide companies in presenting environmental and
         social-related information transparently and comprehensively in
@@ -791,10 +807,8 @@ credibility issues.
         responsibility indicators, with self-reporting and external
         audits. BIA involves a structured questionnaire and
         comprehensive assessment, verified through third-party audits
-        for B Corp certification (B Lab
-        (<xref alt="2024" rid="ref-blab_2024" ref-type="bibr">2024</xref>)).
-        The most widely accepted standards include IRIS+, IMP, and B
-        Impact Assessment (B Lab
+        for B Corp certification. The most widely accepted standards
+        include IRIS+, IMP, and B Impact Assessment (B Lab
         (<xref alt="2024" rid="ref-blab_2024" ref-type="bibr">2024</xref>)),
         which are highly regarded globally among impact investors and
         financial institutions. SROI and SPTF are also gaining
@@ -823,7 +837,7 @@ credibility issues.
         scope: standards like GRI verify the accuracy of reported
         statements, ISO standards verify compliance with detailed
         requirements, and frameworks like the Science Based Targets
-        initiative (SBTi)
+        initiative
         (<xref alt="2024" rid="ref-sbti_2024" ref-type="bibr">2024</xref>)
         (SBTi) assess whether an organization’s efforts genuinely aim to
         drive meaningful change.</p>
@@ -2423,7 +2437,7 @@ credibility issues.
       <ref id="ref-cdp_2024">
         <element-citation publication-type="webpage">
           <person-group person-group-type="author">
-            <string-name>Carbon Disclosure Project (CDP)</string-name>
+            <string-name>Carbon Disclosure Project</string-name>
           </person-group>
           <article-title>CDP: Driving sustainable economies</article-title>
           <year iso-8601-date="2024">2024</year>
@@ -2435,7 +2449,7 @@ credibility issues.
           <person-group person-group-type="author">
             <string-name>European Commission</string-name>
           </person-group>
-          <article-title>EU emissions trading system (EU ETS)</article-title>
+          <article-title>EU emissions trading system</article-title>
           <year iso-8601-date="2024">2024</year>
           <uri>https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en</uri>
         </element-citation>
@@ -2493,7 +2507,7 @@ credibility issues.
       <ref id="ref-sasb_2024">
         <element-citation publication-type="webpage">
           <person-group person-group-type="author">
-            <string-name>Sustainability Accounting Standards Board (SASB)</string-name>
+            <string-name>Sustainability Accounting Standards Board</string-name>
           </person-group>
           <article-title>SASB standards</article-title>
           <year iso-8601-date="2024">2024</year>
@@ -2503,7 +2517,7 @@ credibility issues.
       <ref id="ref-sbti_2024">
         <element-citation publication-type="webpage">
           <person-group person-group-type="author">
-            <string-name>Science Based Targets initiative (SBTi)</string-name>
+            <string-name>Science Based Targets initiative</string-name>
           </person-group>
           <article-title>Ambitious corporate climate action</article-title>
           <year iso-8601-date="2024">2024</year>
@@ -2786,8 +2800,8 @@ credibility issues.
       </fn>
       <fn id="fn7">
         <label>7</label>
-        <p>See:
-    <ext-link ext-link-type="uri" xlink:href="https://capitalscoalition.org/wp-content/uploads/2021/01/NCC_Protocol.pdf">https://capitalscoalition.org/wp-content/uploads/2021/01/NCC_Protocol.pdf</ext-link></p>
+        <p>See: Capitals Coalition
+    (<xref alt="2024" rid="ref-capitals_coalition_2024" ref-type="bibr">2024</xref>).</p>
       </fn>
     </fn-group>
   </back>
@@ -2798,16 +2812,31 @@ credibility issues.
 outcomes for a proposed Australian Impact Exchange</article-title>
       </title-group>
       <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schramm</surname>
+            <given-names>Arlette</given-names>
+          </name>
+          <string-name>Arlette Schramm</string-name>
+          <xref ref-type="aff" rid="aff-1-nb-article">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Feoli</surname>
+            <given-names>Marianne</given-names>
+          </name>
+          <string-name>Marianne Feoli</string-name>
+        </contrib>
         <contrib contrib-type="author" corresp="yes">
           <contrib-id contrib-id-type="orcid">0000-0003-1313-3956</contrib-id>
           <name>
-            <surname>Arlette Schramm</surname>
-            <given-names>Ben Milligan</given-names>
+            <surname>Milligan</surname>
+            <given-names>Ben</given-names>
           </name>
-          <string-name>Arlette Schramm, Marianne Feoli, Ben Milligan</string-name>
+          <string-name>Ben Milligan</string-name>
           <email>b.milligan@unsw.edu.au</email>
           <xref ref-type="aff" rid="aff-1-nb-article">a</xref>
-          <xref ref-type="corresp" rid="cor-1-nb-article">*</xref>
+          <xref ref-type="corresp" rid="cor-3-nb-article">*</xref>
         </contrib>
       </contrib-group>
       <aff id="aff-1-nb-article">
@@ -2817,7 +2846,7 @@ Reform</institution>
         </institution-wrap>
       </aff>
       <author-notes>
-        <corresp id="cor-1-nb-article">b.milligan@unsw.edu.au</corresp>
+        <corresp id="cor-3-nb-article">b.milligan@unsw.edu.au</corresp>
       </author-notes>
       <abstract>
 Impact Exchanges require distinct measurement frameworks across asset
@@ -3109,7 +3138,7 @@ credibility issues.
       Standards such as those developed by the Global Reporting
       Initiative
       (<xref alt="n.d." rid="ref-gri2021-nb-article" ref-type="bibr">n.d.</xref>)
-      (GRI), Sustainability Accounting Standards Board (SASB)
+      (GRI), Sustainability Accounting Standards Board
       (<xref alt="2024" rid="ref-sasb_2024-nb-article" ref-type="bibr">2024</xref>)
       (SASB), Taskforce on Climate-related Financial Disclosures
       (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>),
@@ -3174,7 +3203,7 @@ credibility issues.
       (<xref alt="2024" rid="ref-tnfd_2024-nb-article" ref-type="bibr">2024</xref>),
       Taskforce on Climate-related Financial Disclosures
       (<xref alt="2024" rid="ref-tcfd_2024-nb-article" ref-type="bibr">2024</xref>)
-      and Sustainability Accounting Standards Board (SASB)
+      and Sustainability Accounting Standards Board
       (<xref alt="2024" rid="ref-sasb_2024-nb-article" ref-type="bibr">2024</xref>)
       provide essential guidelines for companies to report their ESG
       performance.</p>
@@ -3373,7 +3402,7 @@ credibility issues.
               <label>20.</label>
               <p>Within the broad range of ESG-related reporting standards,
         Climate-related disclosure and reporting standards, such as the
-        TCFD and the Carbon Disclosure Project (CDP)
+        TCFD and the Carbon Disclosure Project
         (<xref alt="2024" rid="ref-cdp_2024-nb-article" ref-type="bibr">2024</xref>)
         (CDP), guide companies in presenting environmental and
         social-related information transparently and comprehensively in
@@ -3564,10 +3593,8 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
         responsibility indicators, with self-reporting and external
         audits. BIA involves a structured questionnaire and
         comprehensive assessment, verified through third-party audits
-        for B Corp certification (B Lab
-        (<xref alt="2024" rid="ref-blab_2024-nb-article" ref-type="bibr">2024</xref>)).
-        The most widely accepted standards include IRIS+, IMP, and B
-        Impact Assessment (B Lab
+        for B Corp certification. The most widely accepted standards
+        include IRIS+, IMP, and B Impact Assessment (B Lab
         (<xref alt="2024" rid="ref-blab_2024-nb-article" ref-type="bibr">2024</xref>)),
         which are highly regarded globally among impact investors and
         financial institutions. SROI and SPTF are also gaining
@@ -3596,7 +3623,7 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
         scope: standards like GRI verify the accuracy of reported
         statements, ISO standards verify compliance with detailed
         requirements, and frameworks like the Science Based Targets
-        initiative (SBTi)
+        initiative
         (<xref alt="2024" rid="ref-sbti_2024-nb-article" ref-type="bibr">2024</xref>)
         (SBTi) assess whether an organization’s efforts genuinely aim to
         drive meaningful change.</p>
@@ -5238,7 +5265,7 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
         <ref id="ref-cdp_2024-nb-article">
           <element-citation publication-type="webpage">
             <person-group person-group-type="author">
-              <string-name>Carbon Disclosure Project (CDP)</string-name>
+              <string-name>Carbon Disclosure Project</string-name>
             </person-group>
             <article-title>CDP: Driving sustainable economies</article-title>
             <year iso-8601-date="2024">2024</year>
@@ -5250,7 +5277,7 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
             <person-group person-group-type="author">
               <string-name>European Commission</string-name>
             </person-group>
-            <article-title>EU emissions trading system (EU ETS)</article-title>
+            <article-title>EU emissions trading system</article-title>
             <year iso-8601-date="2024">2024</year>
             <uri>https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en</uri>
           </element-citation>
@@ -5308,7 +5335,7 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
         <ref id="ref-sasb_2024-nb-article">
           <element-citation publication-type="webpage">
             <person-group person-group-type="author">
-              <string-name>Sustainability Accounting Standards Board (SASB)</string-name>
+              <string-name>Sustainability Accounting Standards Board</string-name>
             </person-group>
             <article-title>SASB standards</article-title>
             <year iso-8601-date="2024">2024</year>
@@ -5318,7 +5345,7 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
         <ref id="ref-sbti_2024-nb-article">
           <element-citation publication-type="webpage">
             <person-group person-group-type="author">
-              <string-name>Science Based Targets initiative (SBTi)</string-name>
+              <string-name>Science Based Targets initiative</string-name>
             </person-group>
             <article-title>Ambitious corporate climate action</article-title>
             <year iso-8601-date="2024">2024</year>
@@ -5601,8 +5628,8 @@ kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</c
         </fn>
         <fn id="fn7-nb-article">
           <label>7</label>
-          <p>See:
-    <ext-link ext-link-type="uri" xlink:href="https://capitalscoalition.org/wp-content/uploads/2021/01/NCC_Protocol.pdf">https://capitalscoalition.org/wp-content/uploads/2021/01/NCC_Protocol.pdf</ext-link></p>
+          <p>See: Capitals Coalition
+    (<xref alt="2024" rid="ref-capitals_coalition_2024-nb-article" ref-type="bibr">2024</xref>).</p>
         </fn>
       </fn-group>
     </back>
