@@ -29,7 +29,7 @@ citation:
   type: report
   container-title: Digital Finance Cooperative Research Centre Research Paper
   issued: last-modified
-  doi: 10.1128/AEM.02591-0
+  doi: 10.5281/zenodo.14607743
 ---
 # Key findings
 
