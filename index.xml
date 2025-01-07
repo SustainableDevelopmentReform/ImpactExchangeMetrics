@@ -77,7 +77,7 @@ social outcomes are quantified, verified, and reported within each
 market segment. We propose use of a “meta-standards” approach for
 incorporating measurement of environmental and social
 outcomes—establishing overarching principles for outcome measurement
-while allowing methodological flexibility - supported by a technical
+while allowing methodological flexibility—supported by a technical
 committee to ensure market integrity and framework interoperability.
 Short-term market demands for simple metrics must be balanced against
 systemic risks, as evidenced by carbon markets where inadequate
@@ -647,14 +647,6 @@ credibility issues.
         Standards.</p>
           </caption>
           <table>
-            <colgroup>
-              <col width="2%"/>
-              <col width="18%"/>
-              <col width="16%"/>
-              <col width="18%"/>
-              <col width="28%"/>
-              <col width="17%"/>
-            </colgroup>
             <thead>
               <tr>
                 <th align="left">Region</th>
@@ -662,7 +654,7 @@ credibility issues.
                 <th align="left">Scope</th>
                 <th align="left">Coverage</th>
                 <th align="left">Purpose</th>
-                <th align="left">Market.Acceptance</th>
+                <th align="left">Uptake</th>
               </tr>
             </thead>
             <tbody>
@@ -894,14 +886,6 @@ credibility issues.
         Verification Frameworks.</p>
           </caption>
           <table>
-            <colgroup>
-              <col width="5%"/>
-              <col width="18%"/>
-              <col width="23%"/>
-              <col width="10%"/>
-              <col width="27%"/>
-              <col width="17%"/>
-            </colgroup>
             <thead>
               <tr>
                 <th align="left">Region</th>
@@ -909,7 +893,7 @@ credibility issues.
                 <th align="left">Scope</th>
                 <th align="left">Coverage</th>
                 <th align="left">Purpose</th>
-                <th align="left">Market.Acceptance</th>
+                <th align="left">Uptake</th>
               </tr>
             </thead>
             <tbody>
@@ -1102,20 +1086,12 @@ credibility issues.
         on Ecological Health.</p>
           </caption>
           <table>
-            <colgroup>
-              <col width="10%"/>
-              <col width="18%"/>
-              <col width="19%"/>
-              <col width="15%"/>
-              <col width="19%"/>
-              <col width="18%"/>
-            </colgroup>
             <thead>
               <tr>
                 <th align="left">Framework</th>
                 <th align="left">Purpose</th>
                 <th align="left">Scope</th>
-                <th align="left">Market.acceptance</th>
+                <th align="left">Uptake</th>
                 <th align="left">Strengths</th>
                 <th align="left">Weaknesses</th>
               </tr>
@@ -1279,19 +1255,12 @@ credibility issues.
         Social Impact.</p>
           </caption>
           <table>
-            <colgroup>
-              <col width="6%"/>
-              <col width="34%"/>
-              <col width="21%"/>
-              <col width="18%"/>
-              <col width="20%"/>
-            </colgroup>
             <thead>
               <tr>
                 <th align="left">Framework</th>
-                <th align="left">Purpose.Coverage</th>
+                <th align="left">Focus</th>
                 <th align="left">Average</th>
-                <th align="left">MRV.Requirements</th>
+                <th align="left">MRV</th>
                 <th align="left">Overlap.Gaps</th>
               </tr>
             </thead>
@@ -1949,17 +1918,9 @@ credibility issues.
       <title>7. Appendix</title>
       <table-wrap>
         <caption>
-          <p>Overview of ESG Strategies.</p>
+          <p>Overview of ESG Strategies</p>
         </caption>
         <table>
-          <colgroup>
-            <col width="11%"/>
-            <col width="34%"/>
-            <col width="6%"/>
-            <col width="15%"/>
-            <col width="18%"/>
-            <col width="16%"/>
-          </colgroup>
           <thead>
             <tr>
               <th align="left">Strategy</th>
@@ -2067,17 +2028,9 @@ credibility issues.
       </table-wrap>
       <table-wrap>
         <caption>
-          <p>Overview of Impact Investment Strategies.</p>
+          <p>Overview of Impact Investment Strategies</p>
         </caption>
         <table>
-          <colgroup>
-            <col width="8%"/>
-            <col width="23%"/>
-            <col width="9%"/>
-            <col width="18%"/>
-            <col width="19%"/>
-            <col width="24%"/>
-          </colgroup>
           <thead>
             <tr>
               <th align="left">Strategy</th>
@@ -2175,17 +2128,9 @@ credibility issues.
       </table-wrap>
       <table-wrap>
         <caption>
-          <p>Overview of Green Finance and Social Finance.</p>
+          <p>Overview of Green Finance and Social Finance</p>
         </caption>
         <table>
-          <colgroup>
-            <col width="7%"/>
-            <col width="29%"/>
-            <col width="4%"/>
-            <col width="19%"/>
-            <col width="17%"/>
-            <col width="25%"/>
-          </colgroup>
           <thead>
             <tr>
               <th align="left">Strategy</th>
@@ -2260,14 +2205,6 @@ credibility issues.
           <p>Overview of Governance and Ethical Investing.</p>
         </caption>
         <table>
-          <colgroup>
-            <col width="11%"/>
-            <col width="32%"/>
-            <col width="3%"/>
-            <col width="15%"/>
-            <col width="19%"/>
-            <col width="20%"/>
-          </colgroup>
           <thead>
             <tr>
               <th align="left">Strategy</th>
@@ -2868,7 +2805,7 @@ social outcomes are quantified, verified, and reported within each
 market segment. We propose use of a “meta-standards” approach for
 incorporating measurement of environmental and social
 outcomes—establishing overarching principles for outcome measurement
-while allowing methodological flexibility - supported by a technical
+while allowing methodological flexibility—supported by a technical
 committee to ensure market integrity and framework interoperability.
 Short-term market demands for simple metrics must be balanced against
 systemic risks, as evidenced by carbon markets where inadequate
@@ -3432,21 +3369,17 @@ credibility issues.
           </sec>
           <code language="r script">data &lt;- read.csv(file = "sustainability-standards.csv")
 library(knitr)
-kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporting Standards.")</code>
+kable(data[1:7, ], 
+      caption = "Overview of Climate-related Disclosure and Reporting Standards.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')</code>
           <table-wrap>
             <caption>
               <p>Overview of Climate-related Disclosure and Reporting
         Standards.</p>
             </caption>
             <table>
-              <colgroup>
-                <col width="2%"/>
-                <col width="18%"/>
-                <col width="16%"/>
-                <col width="18%"/>
-                <col width="28%"/>
-                <col width="17%"/>
-              </colgroup>
               <thead>
                 <tr>
                   <th align="left">Region</th>
@@ -3454,7 +3387,7 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
                   <th align="left">Scope</th>
                   <th align="left">Coverage</th>
                   <th align="left">Purpose</th>
-                  <th align="left">Market.Acceptance</th>
+                  <th align="left">Uptake</th>
                 </tr>
               </thead>
               <tbody>
@@ -3685,21 +3618,17 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
           </sec>
           <code language="r script">data &lt;- read.csv(file = "emissions-standards.csv")
 library(knitr)
-kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks.")</code>
+kable(data[1:8, ], 
+      caption = "Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')</code>
           <table-wrap>
             <caption>
               <p>Overview of Climate Change and GHG Emissions Measurement and
         Verification Frameworks.</p>
             </caption>
             <table>
-              <colgroup>
-                <col width="5%"/>
-                <col width="18%"/>
-                <col width="23%"/>
-                <col width="10%"/>
-                <col width="27%"/>
-                <col width="17%"/>
-              </colgroup>
               <thead>
                 <tr>
                   <th align="left">Region</th>
@@ -3707,7 +3636,7 @@ kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measu
                   <th align="left">Scope</th>
                   <th align="left">Coverage</th>
                   <th align="left">Purpose</th>
-                  <th align="left">Market.Acceptance</th>
+                  <th align="left">Uptake</th>
                 </tr>
               </thead>
               <tbody>
@@ -3899,27 +3828,23 @@ kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measu
           </sec>
           <code language="r script">data &lt;- read.csv(file = "mrv-frameworks.csv")
 library(knitr)
-kable(data[1:7, ], caption = "Overview of Measurement and Verification Frameworks focused on Ecological Health.")</code>
+kable(data[1:7, ], 
+      caption = "Overview of Measurement and Verification Frameworks focused on Ecological Health.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')</code>
           <table-wrap>
             <caption>
               <p>Overview of Measurement and Verification Frameworks focused
         on Ecological Health.</p>
             </caption>
             <table>
-              <colgroup>
-                <col width="10%"/>
-                <col width="18%"/>
-                <col width="19%"/>
-                <col width="15%"/>
-                <col width="19%"/>
-                <col width="18%"/>
-              </colgroup>
               <thead>
                 <tr>
                   <th align="left">Framework</th>
                   <th align="left">Purpose</th>
                   <th align="left">Scope</th>
-                  <th align="left">Market.acceptance</th>
+                  <th align="left">Uptake</th>
                   <th align="left">Strengths</th>
                   <th align="left">Weaknesses</th>
                 </tr>
@@ -4082,26 +4007,23 @@ kable(data[1:7, ], caption = "Overview of Measurement and Verification Framework
           </sec>
           <code language="r script">data &lt;- read.csv(file = "social-frameworks.csv")
 library(knitr)
-kable(data[1:10, ], caption = "Overview of Measurement and Verification Frameworks for Social Impact.")</code>
+kable(data[1:10, ], 
+      caption = "Overview of Measurement and Verification Frameworks for Social Impact.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')</code>
           <table-wrap>
             <caption>
               <p>Overview of Measurement and Verification Frameworks for
         Social Impact.</p>
             </caption>
             <table>
-              <colgroup>
-                <col width="6%"/>
-                <col width="34%"/>
-                <col width="21%"/>
-                <col width="18%"/>
-                <col width="20%"/>
-              </colgroup>
               <thead>
                 <tr>
                   <th align="left">Framework</th>
-                  <th align="left">Purpose.Coverage</th>
+                  <th align="left">Focus</th>
                   <th align="left">Average</th>
-                  <th align="left">MRV.Requirements</th>
+                  <th align="left">MRV</th>
                   <th align="left">Overlap.Gaps</th>
                 </tr>
               </thead>
@@ -4762,20 +4684,16 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
         </sec>
         <code language="r script">data &lt;- read.csv(file = "Figure-7.csv")
 library(knitr)
-kable(data[1:8, ], caption = "Overview of ESG Strategies.")</code>
+kable(data[1:8, ], 
+      caption = "Overview of ESG Strategies",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')</code>
         <table-wrap>
           <caption>
-            <p>Overview of ESG Strategies.</p>
+            <p>Overview of ESG Strategies</p>
           </caption>
           <table>
-            <colgroup>
-              <col width="11%"/>
-              <col width="34%"/>
-              <col width="6%"/>
-              <col width="15%"/>
-              <col width="18%"/>
-              <col width="16%"/>
-            </colgroup>
             <thead>
               <tr>
                 <th align="left">Strategy</th>
@@ -4886,20 +4804,16 @@ kable(data[1:8, ], caption = "Overview of ESG Strategies.")</code>
         </sec>
         <code language="r script">data &lt;- read.csv(file = "Figure-8.csv")
 library(knitr)
-kable(data[1:7, ], caption = "Overview of Impact Investment Strategies.")</code>
+kable(data[1:7, ], 
+      caption = "Overview of Impact Investment Strategies",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')</code>
         <table-wrap>
           <caption>
-            <p>Overview of Impact Investment Strategies.</p>
+            <p>Overview of Impact Investment Strategies</p>
           </caption>
           <table>
-            <colgroup>
-              <col width="8%"/>
-              <col width="23%"/>
-              <col width="9%"/>
-              <col width="18%"/>
-              <col width="19%"/>
-              <col width="24%"/>
-            </colgroup>
             <thead>
               <tr>
                 <th align="left">Strategy</th>
@@ -5000,20 +4914,16 @@ kable(data[1:7, ], caption = "Overview of Impact Investment Strategies.")</code>
         </sec>
         <code language="r script">data &lt;- read.csv(file = "Figure-9.csv")
 library(knitr)
-kable(data[1:5, ], caption = "Overview of Green Finance and Social Finance.")</code>
+kable(data[1:5, ], 
+      caption = "Overview of Green Finance and Social Finance",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')</code>
         <table-wrap>
           <caption>
-            <p>Overview of Green Finance and Social Finance.</p>
+            <p>Overview of Green Finance and Social Finance</p>
           </caption>
           <table>
-            <colgroup>
-              <col width="7%"/>
-              <col width="29%"/>
-              <col width="4%"/>
-              <col width="19%"/>
-              <col width="17%"/>
-              <col width="25%"/>
-            </colgroup>
             <thead>
               <tr>
                 <th align="left">Strategy</th>
@@ -5088,20 +4998,16 @@ kable(data[1:5, ], caption = "Overview of Green Finance and Social Finance.")</c
         </sec>
         <code language="r script">data &lt;- read.csv(file = "Figure-10.csv")
 library(knitr)
-kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")</code>
+kable(data[1:5, ], 
+      caption = "Overview of Governance and Ethical Investing.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')</code>
         <table-wrap>
           <caption>
             <p>Overview of Governance and Ethical Investing.</p>
           </caption>
           <table>
-            <colgroup>
-              <col width="11%"/>
-              <col width="32%"/>
-              <col width="3%"/>
-              <col width="15%"/>
-              <col width="19%"/>
-              <col width="20%"/>
-            </colgroup>
             <thead>
               <tr>
                 <th align="left">Strategy</th>

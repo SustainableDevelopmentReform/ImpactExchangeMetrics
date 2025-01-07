@@ -19,7 +19,7 @@ keywords:
   - Sustainability Metrics
   - Market Exchanges
 abstract-title: Summary.
-abstract: Impact Exchanges require distinct measurement frameworks across asset classes (equities and corporate debt, commodities, and alternative investments) due to fundamental differences in how environmental and social outcomes are quantified, verified, and reported within each market segment. We propose use of a "meta-standards" approach for incorporating measurement of environmental and social outcomes—establishing overarching principles for outcome measurement while allowing methodological flexibility - supported by a technical committee to ensure market integrity and framework interoperability. Short-term market demands for simple metrics must be balanced against systemic risks, as evidenced by carbon markets where inadequate standardization and verification led to market fragmentation and credibility issues.
+abstract: Impact Exchanges require distinct measurement frameworks across asset classes (equities and corporate debt, commodities, and alternative investments) due to fundamental differences in how environmental and social outcomes are quantified, verified, and reported within each market segment. We propose use of a "meta-standards" approach for incorporating measurement of environmental and social outcomes—establishing overarching principles for outcome measurement while allowing methodological flexibility—supported by a technical committee to ensure market integrity and framework interoperability. Short-term market demands for simple metrics must be balanced against systemic risks, as evidenced by carbon markets where inadequate standardization and verification led to market fragmentation and credibility issues.
 date: last-modified
 number-sections: true
 section-numbering: 1.1.1
@@ -158,7 +158,11 @@ citation:
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "sustainability-standards.csv")
 library(knitr)
-kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporting Standards.")
+kable(data[1:7, ], 
+      caption = "Overview of Climate-related Disclosure and Reporting Standards.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')
 ```
 :::
 
@@ -202,7 +206,11 @@ kable(data[1:7, ], caption = "Overview of Climate-related Disclosure and Reporti
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "emissions-standards.csv")
 library(knitr)
-kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks.")
+kable(data[1:8, ], 
+      caption = "Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')
 ```
 :::
 
@@ -244,7 +252,11 @@ kable(data[1:8, ], caption = "Overview of Climate Change and GHG Emissions Measu
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "mrv-frameworks.csv")
 library(knitr)
-kable(data[1:7, ], caption = "Overview of Measurement and Verification Frameworks focused on Ecological Health.")
+kable(data[1:7, ], 
+      caption = "Overview of Measurement and Verification Frameworks focused on Ecological Health.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')
 ```
 :::
 
@@ -278,7 +290,12 @@ kable(data[1:7, ], caption = "Overview of Measurement and Verification Framework
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "social-frameworks.csv")
 library(knitr)
-kable(data[1:10, ], caption = "Overview of Measurement and Verification Frameworks for Social Impact.")
+kable(data[1:10, ], 
+      caption = "Overview of Measurement and Verification Frameworks for Social Impact.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')
+
 ```
 :::
 
@@ -372,7 +389,11 @@ kable(data[1:10, ], caption = "Overview of Measurement and Verification Framewor
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "Figure-7.csv")
 library(knitr)
-kable(data[1:8, ], caption = "Overview of ESG Strategies.")
+kable(data[1:8, ], 
+      caption = "Overview of ESG Strategies",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')
 ```
 :::
 
@@ -394,7 +415,11 @@ kable(data[1:8, ], caption = "Overview of ESG Strategies.")
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "Figure-8.csv")
 library(knitr)
-kable(data[1:7, ], caption = "Overview of Impact Investment Strategies.")
+kable(data[1:7, ], 
+      caption = "Overview of Impact Investment Strategies",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')
 ```
 :::
 
@@ -416,7 +441,11 @@ kable(data[1:7, ], caption = "Overview of Impact Investment Strategies.")
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "Figure-9.csv")
 library(knitr)
-kable(data[1:5, ], caption = "Overview of Green Finance and Social Finance.")
+kable(data[1:5, ], 
+      caption = "Overview of Green Finance and Social Finance",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')
 ```
 :::
 
@@ -438,7 +467,11 @@ kable(data[1:5, ], caption = "Overview of Green Finance and Social Finance.")
 ```{r echo = FALSE, results = 'asis'}
 data <- read.csv(file = "Figure-10.csv")
 library(knitr)
-kable(data[1:5, ], caption = "Overview of Governance and Ethical Investing.")
+kable(data[1:5, ], 
+      caption = "Overview of Governance and Ethical Investing.",
+      format = "simple",
+      booktabs = TRUE,
+      align = 'l')
 ```
 :::
 

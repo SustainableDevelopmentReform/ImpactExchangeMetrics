@@ -183,7 +183,7 @@
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
      
       <meta name="citation_title" content="Measurement and verification of environmental and social outcomes for a proposed Australian Impact Exchange">
-<meta name="citation_abstract" content="Impact Exchanges require distinct measurement frameworks across asset classes (equities and corporate debt, commodities, and alternative investments) due to fundamental differences in how environmental and social outcomes are quantified, verified, and reported within each market segment. We propose use of a &amp;amp;quot;meta-standards&quot; approach for incorporating measurement of environmental and social outcomes—establishing overarching principles for outcome measurement while allowing methodological flexibility - supported by a technical committee to ensure market integrity and framework interoperability. Short-term market demands for simple metrics must be balanced against systemic risks, as evidenced by carbon markets where inadequate standardization and verification led to market fragmentation and credibility issues.">
+<meta name="citation_abstract" content="Impact Exchanges require distinct measurement frameworks across asset classes (equities and corporate debt, commodities, and alternative investments) due to fundamental differences in how environmental and social outcomes are quantified, verified, and reported within each market segment. We propose use of a &amp;amp;quot;meta-standards&quot; approach for incorporating measurement of environmental and social outcomes—establishing overarching principles for outcome measurement while allowing methodological flexibility—supported by a technical committee to ensure market integrity and framework interoperability. Short-term market demands for simple metrics must be balanced against systemic risks, as evidenced by carbon markets where inadequate standardization and verification led to market fragmentation and credibility issues.">
 <meta name="citation_keywords" content="Sustainability Metrics,Market Exchanges">
 <meta name="citation_author" content="Arlette Schramm">
 <meta name="citation_author" content="Marianne Feoli">
@@ -313,7 +313,7 @@
     <div>
       <div class="abstract">
         <div class="block-title">Summary.</div>
-        Impact Exchanges require distinct measurement frameworks across asset classes (equities and corporate debt, commodities, and alternative investments) due to fundamental differences in how environmental and social outcomes are quantified, verified, and reported within each market segment. We propose use of a “meta-standards” approach for incorporating measurement of environmental and social outcomes—establishing overarching principles for outcome measurement while allowing methodological flexibility - supported by a technical committee to ensure market integrity and framework interoperability. Short-term market demands for simple metrics must be balanced against systemic risks, as evidenced by carbon markets where inadequate standardization and verification led to market fragmentation and credibility issues.
+        Impact Exchanges require distinct measurement frameworks across asset classes (equities and corporate debt, commodities, and alternative investments) due to fundamental differences in how environmental and social outcomes are quantified, verified, and reported within each market segment. We propose use of a “meta-standards” approach for incorporating measurement of environmental and social outcomes—establishing overarching principles for outcome measurement while allowing methodological flexibility—supported by a technical committee to ensure market integrity and framework interoperability. Short-term market demands for simple metrics must be balanced against systemic risks, as evidenced by carbon markets where inadequate standardization and verification led to market fragmentation and credibility issues.
       </div>
     </div>
 
@@ -486,17 +486,13 @@
 <div class="small">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(<span class="at">file =</span> <span class="st">"sustainability-standards.csv"</span>)</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">7</span>, ], <span class="at">caption =</span> <span class="st">"Overview of Climate-related Disclosure and Reporting Standards."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">7</span>, ], </span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>      <span class="at">caption =</span> <span class="st">"Overview of Climate-related Disclosure and Reporting Standards."</span>,</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>      <span class="at">format =</span> <span class="st">"simple"</span>,</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>      <span class="at">booktabs =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>      <span class="at">align =</span> <span class="st">'l'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <table class="caption-top table">
 <caption>Overview of Climate-related Disclosure and Reporting Standards.</caption>
-<colgroup>
-<col style="width: 2%">
-<col style="width: 18%">
-<col style="width: 16%">
-<col style="width: 17%">
-<col style="width: 27%">
-<col style="width: 17%">
-</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Region</th>
@@ -504,7 +500,7 @@
 <th style="text-align: left;">Scope</th>
 <th style="text-align: left;">Coverage</th>
 <th style="text-align: left;">Purpose</th>
-<th style="text-align: left;">Market.Acceptance</th>
+<th style="text-align: left;">Uptake</th>
 </tr>
 </thead>
 <tbody>
@@ -611,17 +607,13 @@
 <div class="small">
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(<span class="at">file =</span> <span class="st">"emissions-standards.csv"</span>)</span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">8</span>, ], <span class="at">caption =</span> <span class="st">"Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">8</span>, ], </span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>      <span class="at">caption =</span> <span class="st">"Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks."</span>,</span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>      <span class="at">format =</span> <span class="st">"simple"</span>,</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>      <span class="at">booktabs =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>      <span class="at">align =</span> <span class="st">'l'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <table class="caption-top table">
 <caption>Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks.</caption>
-<colgroup>
-<col style="width: 4%">
-<col style="width: 18%">
-<col style="width: 22%">
-<col style="width: 9%">
-<col style="width: 26%">
-<col style="width: 17%">
-</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Region</th>
@@ -629,7 +621,7 @@
 <th style="text-align: left;">Scope</th>
 <th style="text-align: left;">Coverage</th>
 <th style="text-align: left;">Purpose</th>
-<th style="text-align: left;">Market.Acceptance</th>
+<th style="text-align: left;">Uptake</th>
 </tr>
 </thead>
 <tbody>
@@ -728,23 +720,19 @@
 <div class="small">
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(<span class="at">file =</span> <span class="st">"mrv-frameworks.csv"</span>)</span>
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
-<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">7</span>, ], <span class="at">caption =</span> <span class="st">"Overview of Measurement and Verification Frameworks focused on Ecological Health."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">7</span>, ], </span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>      <span class="at">caption =</span> <span class="st">"Overview of Measurement and Verification Frameworks focused on Ecological Health."</span>,</span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>      <span class="at">format =</span> <span class="st">"simple"</span>,</span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a>      <span class="at">booktabs =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>      <span class="at">align =</span> <span class="st">'l'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <table class="caption-top table">
 <caption>Overview of Measurement and Verification Frameworks focused on Ecological Health.</caption>
-<colgroup>
-<col style="width: 10%">
-<col style="width: 17%">
-<col style="width: 19%">
-<col style="width: 15%">
-<col style="width: 18%">
-<col style="width: 18%">
-</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Framework</th>
 <th style="text-align: left;">Purpose</th>
 <th style="text-align: left;">Scope</th>
-<th style="text-align: left;">Market.acceptance</th>
+<th style="text-align: left;">Uptake</th>
 <th style="text-align: left;">Strengths</th>
 <th style="text-align: left;">Weaknesses</th>
 </tr>
@@ -834,22 +822,19 @@
 <div class="small">
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(<span class="at">file =</span> <span class="st">"social-frameworks.csv"</span>)</span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
-<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">10</span>, ], <span class="at">caption =</span> <span class="st">"Overview of Measurement and Verification Frameworks for Social Impact."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">10</span>, ], </span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>      <span class="at">caption =</span> <span class="st">"Overview of Measurement and Verification Frameworks for Social Impact."</span>,</span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>      <span class="at">format =</span> <span class="st">"simple"</span>,</span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>      <span class="at">booktabs =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>      <span class="at">align =</span> <span class="st">'l'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <table class="caption-top table">
 <caption>Overview of Measurement and Verification Frameworks for Social Impact.</caption>
-<colgroup>
-<col style="width: 6%">
-<col style="width: 33%">
-<col style="width: 21%">
-<col style="width: 18%">
-<col style="width: 20%">
-</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Framework</th>
-<th style="text-align: left;">Purpose.Coverage</th>
+<th style="text-align: left;">Focus</th>
 <th style="text-align: left;">Average</th>
-<th style="text-align: left;">MRV.Requirements</th>
+<th style="text-align: left;">MRV</th>
 <th style="text-align: left;">Overlap.Gaps</th>
 </tr>
 </thead>
@@ -1007,17 +992,13 @@
 <div class="small">
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(<span class="at">file =</span> <span class="st">"Figure-7.csv"</span>)</span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
-<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">8</span>, ], <span class="at">caption =</span> <span class="st">"Overview of ESG Strategies."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">8</span>, ], </span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a>      <span class="at">caption =</span> <span class="st">"Overview of ESG Strategies"</span>,</span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a>      <span class="at">format =</span> <span class="st">"simple"</span>,</span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>      <span class="at">booktabs =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>      <span class="at">align =</span> <span class="st">'l'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <table class="caption-top table">
-<caption>Overview of ESG Strategies.</caption>
-<colgroup>
-<col style="width: 11%">
-<col style="width: 34%">
-<col style="width: 5%">
-<col style="width: 15%">
-<col style="width: 17%">
-<col style="width: 16%">
-</colgroup>
+<caption>Overview of ESG Strategies</caption>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Strategy</th>
@@ -1109,17 +1090,13 @@
 <div class="small">
 <div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(<span class="at">file =</span> <span class="st">"Figure-8.csv"</span>)</span>
 <span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
-<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">7</span>, ], <span class="at">caption =</span> <span class="st">"Overview of Impact Investment Strategies."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">7</span>, ], </span>
+<span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a>      <span class="at">caption =</span> <span class="st">"Overview of Impact Investment Strategies"</span>,</span>
+<span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a>      <span class="at">format =</span> <span class="st">"simple"</span>,</span>
+<span id="cb12-6"><a href="#cb12-6" aria-hidden="true" tabindex="-1"></a>      <span class="at">booktabs =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb12-7"><a href="#cb12-7" aria-hidden="true" tabindex="-1"></a>      <span class="at">align =</span> <span class="st">'l'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <table class="caption-top table">
-<caption>Overview of Impact Investment Strategies.</caption>
-<colgroup>
-<col style="width: 8%">
-<col style="width: 22%">
-<col style="width: 8%">
-<col style="width: 17%">
-<col style="width: 18%">
-<col style="width: 24%">
-</colgroup>
+<caption>Overview of Impact Investment Strategies</caption>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Strategy</th>
@@ -1203,17 +1180,13 @@
 <div class="small">
 <div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(<span class="at">file =</span> <span class="st">"Figure-9.csv"</span>)</span>
 <span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
-<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>, ], <span class="at">caption =</span> <span class="st">"Overview of Green Finance and Social Finance."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>, ], </span>
+<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>      <span class="at">caption =</span> <span class="st">"Overview of Green Finance and Social Finance"</span>,</span>
+<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a>      <span class="at">format =</span> <span class="st">"simple"</span>,</span>
+<span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a>      <span class="at">booktabs =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb14-7"><a href="#cb14-7" aria-hidden="true" tabindex="-1"></a>      <span class="at">align =</span> <span class="st">'l'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <table class="caption-top table">
-<caption>Overview of Green Finance and Social Finance.</caption>
-<colgroup>
-<col style="width: 7%">
-<col style="width: 29%">
-<col style="width: 3%">
-<col style="width: 18%">
-<col style="width: 16%">
-<col style="width: 24%">
-</colgroup>
+<caption>Overview of Green Finance and Social Finance</caption>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Strategy</th>
@@ -1281,17 +1254,13 @@
 <div class="small">
 <div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(<span class="at">file =</span> <span class="st">"Figure-10.csv"</span>)</span>
 <span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
-<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>, ], <span class="at">caption =</span> <span class="st">"Overview of Governance and Ethical Investing."</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a><span class="fu">kable</span>(data[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>, ], </span>
+<span id="cb16-4"><a href="#cb16-4" aria-hidden="true" tabindex="-1"></a>      <span class="at">caption =</span> <span class="st">"Overview of Governance and Ethical Investing."</span>,</span>
+<span id="cb16-5"><a href="#cb16-5" aria-hidden="true" tabindex="-1"></a>      <span class="at">format =</span> <span class="st">"simple"</span>,</span>
+<span id="cb16-6"><a href="#cb16-6" aria-hidden="true" tabindex="-1"></a>      <span class="at">booktabs =</span> <span class="cn">TRUE</span>,</span>
+<span id="cb16-7"><a href="#cb16-7" aria-hidden="true" tabindex="-1"></a>      <span class="at">align =</span> <span class="st">'l'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <table class="caption-top table">
 <caption>Overview of Governance and Ethical Investing.</caption>
-<colgroup>
-<col style="width: 10%">
-<col style="width: 31%">
-<col style="width: 3%">
-<col style="width: 14%">
-<col style="width: 19%">
-<col style="width: 20%">
-</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Strategy</th>
