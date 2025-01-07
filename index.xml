@@ -35,7 +35,7 @@ outcomes for a proposed Australian Impact Exchange</article-title>
             <given-names>Marianne</given-names>
           </name>
           <string-name>Marianne Feoli</string-name>
-          <xref ref-type="aff" rid="aff-2">b</xref>
+          <xref ref-type="aff" rid="aff-1">a</xref>
         </contrib>
         <contrib contrib-type="author" corresp="yes">
           <contrib-id contrib-id-type="orcid">0000-0003-1313-3956</contrib-id>
@@ -45,19 +45,14 @@ outcomes for a proposed Australian Impact Exchange</article-title>
           </name>
           <string-name>Ben Milligan</string-name>
           <email>b.milligan@unsw.edu.au</email>
-          <xref ref-type="aff" rid="aff-2">b</xref>
+          <xref ref-type="aff" rid="aff-1">a</xref>
           <xref ref-type="corresp" rid="cor-3">*</xref>
         </contrib>
       </contrib-group>
       <aff id="aff-1">
         <institution-wrap>
-          <institution>Centre for Sustainable Development Reform, University of
-New South Wales (UNSW-CSDR)</institution>
-        </institution-wrap>
-      </aff>
-      <aff id="aff-2">
-        <institution-wrap>
-          <institution>UNSW-CSDR</institution>
+          <institution>UNSW Centre for Sustainable Development
+Reform</institution>
         </institution-wrap>
       </aff>
       <author-notes>
@@ -245,11 +240,11 @@ credibility issues.
       tale.<xref ref-type="fn" rid="fn2">2</xref></p>
         </list-item>
       </list>
-      <fig>
+      <fig id="fig-SEEA">
         <caption>
-          <p>Conceptual basis for organising environmental, social
-    and economic metrics aligned to international statistical standards.
-    Source: United Nations Statistics Division
+          <p>Figure 1: Conceptual basis for organising environmental,
+    social and economic metrics aligned to international statistical
+    standards. Source: United Nations Statistics Division
     (<xref alt="2024" rid="ref-united_nations_statistics_division_2024" ref-type="bibr">2024</xref>).</p>
         </caption>
         <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%201.png"/>
@@ -378,10 +373,10 @@ credibility issues.
       sustainable development:</p>
         </list-item>
       </list>
-      <fig>
+      <fig id="fig-market">
         <caption>
-          <p>Methodology for market studies on sustainability-related
-    investments. Source: Eurosif
+          <p>Figure 2: Methodology for market studies on
+    sustainability-related investments. Source: Eurosif
     (<xref alt="2024" rid="ref-eurosif_classification_report_2024" ref-type="bibr">2024</xref>).</p>
         </caption>
         <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%202.png"/>
@@ -494,10 +489,10 @@ credibility issues.
         guide meta-governance structures for desired outcomes:</p>
           </list-item>
         </list>
-        <fig>
+        <fig id="fig-iris">
           <caption>
-            <p>Interconnectedness of IRIS+ Impact Categories and
-      Themes as of May 2021. Source:
+            <p>Figure 3: Interconnectedness of IRIS+ Impact
+      Categories and Themes as of May 2021. Source:
       <ext-link ext-link-type="uri" xlink:href="https://iris.thegiin.org">iris.thegiin.org</ext-link>.</p>
           </caption>
           <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%203.jpg"/>
@@ -511,10 +506,10 @@ credibility issues.
         general tiers:</p>
           </list-item>
         </list>
-        <fig>
+        <fig id="fig-approaches">
           <caption>
-            <p>Illustrative tiers of analytical approaches to impact
-      and ESG assessment</p>
+            <p>Figure 4: Illustrative tiers of analytical approaches
+      to impact and ESG assessment</p>
           </caption>
           <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%204.png"/>
         </fig>
@@ -641,95 +636,99 @@ credibility issues.
         standards:</p>
           </list-item>
         </list>
-        <table-wrap>
+        <fig id="tbl-standards">
           <caption>
-            <p>Overview of Climate-related Disclosure and Reporting
-        Standards.</p>
+            <p>Table 1: Overview of Climate-related Disclosure and
+      Reporting Standards</p>
           </caption>
-          <table>
-            <thead>
-              <tr>
-                <th align="left">Region</th>
-                <th align="left">Standard</th>
-                <th align="left">Scope</th>
-                <th align="left">Coverage</th>
-                <th align="left">Purpose</th>
-                <th align="left">Uptake</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="left">Global</td>
-                <td align="left">Taskforce on Climate-related Financial
-            Disclosures</td>
-                <td align="left">Climate-related financial disclosures</td>
-                <td align="left">Climate risk and opportunities</td>
-                <td align="left">Provide recommendations for diclosing
-            climate-related risks and opportunities</td>
-                <td align="left">Wide adopted espectially in finance</td>
-              </tr>
-              <tr>
-                <td align="left">Global</td>
-                <td align="left">Carbon Disclosure Project</td>
-                <td align="left">Climate and environmental reporting</td>
-                <td align="left">Climate change, water, security,
-            deforestation</td>
-                <td align="left">Enable compnaies to measure and manage
-            their environmental impacts</td>
-                <td align="left">Widely used globally</td>
-              </tr>
-              <tr>
-                <td align="left">Global</td>
-                <td align="left">Integrated Reporting</td>
-                <td align="left">Financial, social and environmental
-            reporting</td>
-                <td align="left">Financial performance, ecological, social
-            metrics</td>
-                <td align="left">Promote transparency and holistic
-            reporting</td>
-                <td align="left">Increasingly adopted by companies</td>
-              </tr>
-              <tr>
-                <td align="left">Global</td>
-                <td align="left">Science-based Targets Initiative</td>
-                <td align="left">Set science-based climate targets</td>
-                <td align="left">Corporate GHG emissions</td>
-                <td align="left">Help companies set GHG reduction targets in
-            line with climate science</td>
-                <td align="left">Widely recognised especially in corporate
-            sector</td>
-              </tr>
-              <tr>
-                <td align="left">USA</td>
-                <td align="left">Sustainability Accounting Standards
-            Board</td>
-                <td align="left">Industry-specific standards</td>
-                <td align="left">Environmental, social, governance</td>
-                <td align="left">Provide industry-specific standards</td>
-                <td align="left">Growing adoption particularly in the
-            US</td>
-              </tr>
-              <tr>
-                <td align="left">Global</td>
-                <td align="left">Climate Disclosure Standards Board</td>
-                <td align="left">Climate-related financial disclosures</td>
-                <td align="left">Environmental information</td>
-                <td align="left">Integrate climate-related information into
-            mainstream financial reporting</td>
-                <td align="left">Increasingly recognised globally</td>
-              </tr>
-              <tr>
-                <td align="left">Global</td>
-                <td align="left">Global Reporting Initiative</td>
-                <td align="left">Sustainability reporting standards</td>
-                <td align="left">environmental, social, governance</td>
-                <td align="left">Provide comprehensive sustainability
-            reporting guidelines</td>
-                <td align="left">Widely used globally</td>
-              </tr>
-            </tbody>
-          </table>
-        </table-wrap>
+          <table-wrap>
+            <table>
+              <thead>
+                <tr>
+                  <th align="left">Region</th>
+                  <th align="left">Standard</th>
+                  <th align="left">Scope</th>
+                  <th align="left">Coverage</th>
+                  <th align="left">Purpose</th>
+                  <th align="left">Uptake</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Global</td>
+                  <td align="left">Taskforce on Climate-related Financial
+              Disclosures</td>
+                  <td align="left">Climate-related financial
+              disclosures</td>
+                  <td align="left">Climate risk and opportunities</td>
+                  <td align="left">Provide recommendations for diclosing
+              climate-related risks and opportunities</td>
+                  <td align="left">Wide adopted espectially in finance</td>
+                </tr>
+                <tr>
+                  <td align="left">Global</td>
+                  <td align="left">Carbon Disclosure Project</td>
+                  <td align="left">Climate and environmental reporting</td>
+                  <td align="left">Climate change, water, security,
+              deforestation</td>
+                  <td align="left">Enable compnaies to measure and manage
+              their environmental impacts</td>
+                  <td align="left">Widely used globally</td>
+                </tr>
+                <tr>
+                  <td align="left">Global</td>
+                  <td align="left">Integrated Reporting</td>
+                  <td align="left">Financial, social and environmental
+              reporting</td>
+                  <td align="left">Financial performance, ecological, social
+              metrics</td>
+                  <td align="left">Promote transparency and holistic
+              reporting</td>
+                  <td align="left">Increasingly adopted by companies</td>
+                </tr>
+                <tr>
+                  <td align="left">Global</td>
+                  <td align="left">Science-based Targets Initiative</td>
+                  <td align="left">Set science-based climate targets</td>
+                  <td align="left">Corporate GHG emissions</td>
+                  <td align="left">Help companies set GHG reduction targets
+              in line with climate science</td>
+                  <td align="left">Widely recognised especially in corporate
+              sector</td>
+                </tr>
+                <tr>
+                  <td align="left">USA</td>
+                  <td align="left">Sustainability Accounting Standards
+              Board</td>
+                  <td align="left">Industry-specific standards</td>
+                  <td align="left">Environmental, social, governance</td>
+                  <td align="left">Provide industry-specific standards</td>
+                  <td align="left">Growing adoption particularly in the
+              US</td>
+                </tr>
+                <tr>
+                  <td align="left">Global</td>
+                  <td align="left">Climate Disclosure Standards Board</td>
+                  <td align="left">Climate-related financial
+              disclosures</td>
+                  <td align="left">Environmental information</td>
+                  <td align="left">Integrate climate-related information
+              into mainstream financial reporting</td>
+                  <td align="left">Increasingly recognised globally</td>
+                </tr>
+                <tr>
+                  <td align="left">Global</td>
+                  <td align="left">Global Reporting Initiative</td>
+                  <td align="left">Sustainability reporting standards</td>
+                  <td align="left">environmental, social, governance</td>
+                  <td align="left">Provide comprehensive sustainability
+              reporting guidelines</td>
+                  <td align="left">Widely used globally</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </fig>
         <list list-type="order">
           <list-item>
             <label>21.</label>
@@ -742,10 +741,10 @@ credibility issues.
         informed investment strategies.</p>
           </list-item>
         </list>
-        <fig>
+        <fig id="fig-ESG">
           <caption>
-            <p>Role of guiding principles and frameworks for ESG
-      investment assessment</p>
+            <p>Figure 5: Role of guiding principles and frameworks
+      for ESG investment assessment</p>
           </caption>
           <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%205.png"/>
         </fig>
@@ -765,10 +764,10 @@ credibility issues.
         alongside key measurement and verification approaches.</p>
           </list-item>
         </list>
-        <fig>
+        <fig id="fig-impact">
           <caption>
-            <p>Role of guiding principles and frameworks for ESG
-      investment assessment</p>
+            <p>Figure 6: Role of guiding principles and frameworks
+      for impact investment assessment</p>
           </caption>
           <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%206.png"/>
         </fig>
@@ -880,106 +879,109 @@ credibility issues.
         emissions are outlined below:</p>
           </list-item>
         </list>
-        <table-wrap>
+        <fig id="tbl-emissions">
           <caption>
-            <p>Overview of Climate Change and GHG Emissions Measurement and
-        Verification Frameworks.</p>
+            <p>Table 2: Overview of Climate Change and GHG Emissions
+      Measurement and Verification Frameworks</p>
           </caption>
-          <table>
-            <thead>
-              <tr>
-                <th align="left">Region</th>
-                <th align="left">Standard</th>
-                <th align="left">Scope</th>
-                <th align="left">Coverage</th>
-                <th align="left">Purpose</th>
-                <th align="left">Uptake</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="left">Global</td>
-                <td align="left">Greenhouse Gas Protocol (GHG Protocol)</td>
-                <td align="left">Corporate, Project, Value Chain (Scope 1,
-            2, 3)</td>
-                <td align="left">Global</td>
-                <td align="left">Provide standardized approach for GHG
-            accounting transparency consistency</td>
-                <td align="left">Widely adopted by businesses, governments,
-            NGOs</td>
-              </tr>
-              <tr>
-                <td align="left">Global</td>
-                <td align="left">ISO 14064</td>
-                <td align="left">Organization (Part 1), Project (Part 2),
-            Verification (Part 3)</td>
-                <td align="left">Global</td>
-                <td align="left">Guidelines for quantifying, reporting, and
-            verifying GHG emissions</td>
-                <td align="left">Widely recognized and implemented
-            globally</td>
-              </tr>
-              <tr>
-                <td align="left">Europe</td>
-                <td align="left">EU Emissions Trading System (EU ETS)</td>
-                <td align="left">Cap-and-trade system for power, industry,
-            aviation</td>
-                <td align="left">Europe</td>
-                <td align="left">Regulate and reduce GHG emissions through a
-            cap-and-trade system</td>
-                <td align="left">Major compliance tool in Europe</td>
-              </tr>
-              <tr>
-                <td align="left">Africa</td>
-                <td align="left">African Regional Standard (ARS 902)</td>
-                <td align="left">GHG emissions inventory</td>
-                <td align="left">Africa</td>
-                <td align="left">Standardized approach for GHG emissions
-            inventory</td>
-                <td align="left">Increasing adoption across African
-            countries</td>
-              </tr>
-              <tr>
-                <td align="left">Africa</td>
-                <td align="left">South Africa’s NGER Regulations</td>
-                <td align="left">Mandatory GHG reporting</td>
-                <td align="left">South Africa</td>
-                <td align="left">Regulatory compliance and GHG
-            management</td>
-                <td align="left">Key regulation in South Africa</td>
-              </tr>
-              <tr>
-                <td align="left">Americas</td>
-                <td align="left">California Cap-and-Trade Program</td>
-                <td align="left">Cap-and-trade system for emissions</td>
-                <td align="left">United States (California)</td>
-                <td align="left">Regulate and reduce GHG emissions through a
-            cap-and-trade system</td>
-                <td align="left">Major compliance tool in California</td>
-              </tr>
-              <tr>
-                <td align="left">Americas</td>
-                <td align="left">Climate Registry General Reporting Protocol
-            (GRP)</td>
-                <td align="left">Voluntary GHG reporting</td>
-                <td align="left">Americas</td>
-                <td align="left">Standardize GHG emissions reporting for
-            voluntary programs</td>
-                <td align="left">Widely used in North America</td>
-              </tr>
-              <tr>
-                <td align="left">Asia Pacific</td>
-                <td align="left">Japan’s GHG Accounting and Reporting
-            System</td>
-                <td align="left">Mandatory GHG reporting</td>
-                <td align="left">Japan</td>
-                <td align="left">Regulatory compliance and GHG
-            management</td>
-                <td align="left">Major regulation in Japan</td>
-              </tr>
-            </tbody>
-          </table>
-        </table-wrap>
+          <table-wrap>
+            <table>
+              <thead>
+                <tr>
+                  <th align="left">Region</th>
+                  <th align="left">Standard</th>
+                  <th align="left">Scope</th>
+                  <th align="left">Coverage</th>
+                  <th align="left">Purpose</th>
+                  <th align="left">Uptake</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Global</td>
+                  <td align="left">Greenhouse Gas Protocol (GHG
+              Protocol)</td>
+                  <td align="left">Corporate, Project, Value Chain (Scope 1,
+              2, 3)</td>
+                  <td align="left">Global</td>
+                  <td align="left">Provide standardized approach for GHG
+              accounting transparency consistency</td>
+                  <td align="left">Widely adopted by businesses,
+              governments, NGOs</td>
+                </tr>
+                <tr>
+                  <td align="left">Global</td>
+                  <td align="left">ISO 14064</td>
+                  <td align="left">Organization (Part 1), Project (Part 2),
+              Verification (Part 3)</td>
+                  <td align="left">Global</td>
+                  <td align="left">Guidelines for quantifying, reporting,
+              and verifying GHG emissions</td>
+                  <td align="left">Widely recognized and implemented
+              globally</td>
+                </tr>
+                <tr>
+                  <td align="left">Europe</td>
+                  <td align="left">EU Emissions Trading System (EU ETS)</td>
+                  <td align="left">Cap-and-trade system for power, industry,
+              aviation</td>
+                  <td align="left">Europe</td>
+                  <td align="left">Regulate and reduce GHG emissions through
+              a cap-and-trade system</td>
+                  <td align="left">Major compliance tool in Europe</td>
+                </tr>
+                <tr>
+                  <td align="left">Africa</td>
+                  <td align="left">African Regional Standard (ARS 902)</td>
+                  <td align="left">GHG emissions inventory</td>
+                  <td align="left">Africa</td>
+                  <td align="left">Standardized approach for GHG emissions
+              inventory</td>
+                  <td align="left">Increasing adoption across African
+              countries</td>
+                </tr>
+                <tr>
+                  <td align="left">Africa</td>
+                  <td align="left">South Africa’s NGER Regulations</td>
+                  <td align="left">Mandatory GHG reporting</td>
+                  <td align="left">South Africa</td>
+                  <td align="left">Regulatory compliance and GHG
+              management</td>
+                  <td align="left">Key regulation in South Africa</td>
+                </tr>
+                <tr>
+                  <td align="left">Americas</td>
+                  <td align="left">California Cap-and-Trade Program</td>
+                  <td align="left">Cap-and-trade system for emissions</td>
+                  <td align="left">United States (California)</td>
+                  <td align="left">Regulate and reduce GHG emissions through
+              a cap-and-trade system</td>
+                  <td align="left">Major compliance tool in California</td>
+                </tr>
+                <tr>
+                  <td align="left">Americas</td>
+                  <td align="left">Climate Registry General Reporting
+              Protocol (GRP)</td>
+                  <td align="left">Voluntary GHG reporting</td>
+                  <td align="left">Americas</td>
+                  <td align="left">Standardize GHG emissions reporting for
+              voluntary programs</td>
+                  <td align="left">Widely used in North America</td>
+                </tr>
+                <tr>
+                  <td align="left">Asia Pacific</td>
+                  <td align="left">Japan’s GHG Accounting and Reporting
+              System</td>
+                  <td align="left">Mandatory GHG reporting</td>
+                  <td align="left">Japan</td>
+                  <td align="left">Regulatory compliance and GHG
+              management</td>
+                  <td align="left">Major regulation in Japan</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </fig>
       </sec>
       <sec id="measurement-and-verification-of-ecological-health">
         <title>4.5 Measurement and verification of ecological health</title>
@@ -1080,106 +1082,110 @@ credibility issues.
         scope.</p>
           </list-item>
         </list>
-        <table-wrap>
+        <fig id="tbl-health">
           <caption>
-            <p>Overview of Measurement and Verification Frameworks focused
-        on Ecological Health.</p>
+            <p>Table 3: Overview of Measurement and Verification
+      Frameworks focused on Ecological Health</p>
           </caption>
-          <table>
-            <thead>
-              <tr>
-                <th align="left">Framework</th>
-                <th align="left">Purpose</th>
-                <th align="left">Scope</th>
-                <th align="left">Uptake</th>
-                <th align="left">Strengths</th>
-                <th align="left">Weaknesses</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="left">UN CBD Indicators</td>
-                <td align="left">Measures and monitors biodiversity</td>
-                <td align="left">Species populations, habitat extent,
-            ecosystem health</td>
-                <td align="left">High; used globally for biodiversity
-            targets</td>
-                <td align="left">Provides broad biodiversity indicators</td>
-                <td align="left">May lack specificity for detailed ecosystem
-            health assessments</td>
-              </tr>
-              <tr>
-                <td align="left">IUCN Red List of Ecosystems</td>
-                <td align="left">Assesses conservation status of
-            ecosystems</td>
-                <td align="left">Risk of ecosystem collapse</td>
-                <td align="left">High; recognized globally</td>
-                <td align="left">Standardized risk assessment for
-            ecosystems</td>
-                <td align="left">Primarily focused on risk, not
-            comprehensive health metrics</td>
-              </tr>
-              <tr>
-                <td align="left">Living Planet Index (LPI)</td>
-                <td align="left">Tracks changes in global vertebrate species
-            populations</td>
-                <td align="left">Population trends of vertebrate
-            species</td>
-                <td align="left">High; widely used by conservation
-            organizations</td>
-                <td align="left">Provides trends in biodiversity</td>
-                <td align="left">Limited to vertebrate species, not all
-            biodiversity</td>
-              </tr>
-              <tr>
-                <td align="left">Natural Capital Protocol</td>
-                <td align="left">Identifies, measures, and values natural
-            capital impacts</td>
-                <td align="left">Ecosystems, biodiversity, ecosystem
-            services</td>
-                <td align="left">Widely accepted in corporate sector</td>
-                <td align="left">Comprehensive business-oriented impact
-            assessment</td>
-                <td align="left">May lack detailed ecological metrics</td>
-              </tr>
-              <tr>
-                <td align="left">Ecosystem Services Framework (ESF)</td>
-                <td align="left">Assesses and values ecosystem services</td>
-                <td align="left">Provisioning, regulating, cultural,
-            supporting services</td>
-                <td align="left">Gaining acceptance in policy-making</td>
-                <td align="left">Integrates ecological and socio-economic
-            aspects</td>
-                <td align="left">Implementation can be complex and
-            subjective</td>
-              </tr>
-              <tr>
-                <td align="left">Biodiversity Intactness Index (BII)</td>
-                <td align="left">Measures the intactness of biodiversity in
-            a region</td>
-                <td align="left">Biodiversity at species level</td>
-                <td align="left">Growing in conservation research</td>
-                <td align="left">Effective for monitoring biodiversity
-            changes</td>
-                <td align="left">Focused primarily on biodiversiy, not
-            broader ecological health</td>
-              </tr>
-              <tr>
-                <td align="left">Accounting for Nature</td>
-                <td align="left">Measures and reports on the condition of
-            environmental assets</td>
-                <td align="left">Ecological health of natural resources
-            (soils, vegetation, fauna)</td>
-                <td align="left">Emerging; primarily in Australia, expanding
-            globally</td>
-                <td align="left">Standardised ecological health metrics;
-            comprehensive assessment</td>
-                <td align="left">Limited broader application until further
-            refinement globally</td>
-              </tr>
-            </tbody>
-          </table>
-        </table-wrap>
+          <table-wrap>
+            <table>
+              <thead>
+                <tr>
+                  <th align="left">Framework</th>
+                  <th align="left">Purpose</th>
+                  <th align="left">Scope</th>
+                  <th align="left">Uptake</th>
+                  <th align="left">Strengths</th>
+                  <th align="left">Weaknesses</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">UN CBD Indicators</td>
+                  <td align="left">Measures and monitors biodiversity</td>
+                  <td align="left">Species populations, habitat extent,
+              ecosystem health</td>
+                  <td align="left">High; used globally for biodiversity
+              targets</td>
+                  <td align="left">Provides broad biodiversity
+              indicators</td>
+                  <td align="left">May lack specificity for detailed
+              ecosystem health assessments</td>
+                </tr>
+                <tr>
+                  <td align="left">IUCN Red List of Ecosystems</td>
+                  <td align="left">Assesses conservation status of
+              ecosystems</td>
+                  <td align="left">Risk of ecosystem collapse</td>
+                  <td align="left">High; recognized globally</td>
+                  <td align="left">Standardized risk assessment for
+              ecosystems</td>
+                  <td align="left">Primarily focused on risk, not
+              comprehensive health metrics</td>
+                </tr>
+                <tr>
+                  <td align="left">Living Planet Index (LPI)</td>
+                  <td align="left">Tracks changes in global vertebrate
+              species populations</td>
+                  <td align="left">Population trends of vertebrate
+              species</td>
+                  <td align="left">High; widely used by conservation
+              organizations</td>
+                  <td align="left">Provides trends in biodiversity</td>
+                  <td align="left">Limited to vertebrate species, not all
+              biodiversity</td>
+                </tr>
+                <tr>
+                  <td align="left">Natural Capital Protocol</td>
+                  <td align="left">Identifies, measures, and values natural
+              capital impacts</td>
+                  <td align="left">Ecosystems, biodiversity, ecosystem
+              services</td>
+                  <td align="left">Widely accepted in corporate sector</td>
+                  <td align="left">Comprehensive business-oriented impact
+              assessment</td>
+                  <td align="left">May lack detailed ecological metrics</td>
+                </tr>
+                <tr>
+                  <td align="left">Ecosystem Services Framework (ESF)</td>
+                  <td align="left">Assesses and values ecosystem
+              services</td>
+                  <td align="left">Provisioning, regulating, cultural,
+              supporting services</td>
+                  <td align="left">Gaining acceptance in policy-making</td>
+                  <td align="left">Integrates ecological and socio-economic
+              aspects</td>
+                  <td align="left">Implementation can be complex and
+              subjective</td>
+                </tr>
+                <tr>
+                  <td align="left">Biodiversity Intactness Index (BII)</td>
+                  <td align="left">Measures the intactness of biodiversity
+              in a region</td>
+                  <td align="left">Biodiversity at species level</td>
+                  <td align="left">Growing in conservation research</td>
+                  <td align="left">Effective for monitoring biodiversity
+              changes</td>
+                  <td align="left">Focused primarily on biodiversiy, not
+              broader ecological health</td>
+                </tr>
+                <tr>
+                  <td align="left">Accounting for Nature</td>
+                  <td align="left">Measures and reports on the condition of
+              environmental assets</td>
+                  <td align="left">Ecological health of natural resources
+              (soils, vegetation, fauna)</td>
+                  <td align="left">Emerging; primarily in Australia,
+              expanding globally</td>
+                  <td align="left">Standardised ecological health metrics;
+              comprehensive assessment</td>
+                  <td align="left">Limited broader application until further
+              refinement globally</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </fig>
         <list list-type="order">
           <list-item>
             <label>36.</label>
@@ -1249,177 +1255,186 @@ credibility issues.
         in the following table:</p>
           </list-item>
         </list>
-        <table-wrap>
+        <fig id="tbl-impact">
           <caption>
-            <p>Overview of Measurement and Verification Frameworks for
-        Social Impact.</p>
+            <p>Table 4: Overview of Measurement and Verification
+      Frameworks for Social Impact</p>
           </caption>
-          <table>
-            <thead>
-              <tr>
-                <th align="left">Framework</th>
-                <th align="left">Focus</th>
-                <th align="left">Average</th>
-                <th align="left">MRV</th>
-                <th align="left">Overlap.Gaps</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="left">IRIS+ by GIIN</td>
-                <td align="left">Provide a comprehensive catalog of social,
-            environmental, and financial performance metrics. Global;
-            diverse sectors such as education, healthcare, and economic
-            development</td>
-                <td align="left">Standardised metrics, consistent data
-            collection, self-assessment, third-party audits.</td>
-                <td align="left">Highly accepted globally among impact
-            investors and financial institutions.</td>
-                <td align="left">Overlaps with other frameworks like IMP.
-            Gaps in sector-specific metrics for niche areas.</td>
-              </tr>
-              <tr>
-                <td align="left">Social Performance Task Force (SPTF)</td>
-                <td align="left">Provides standards and guidelines for
-            assessing social performance in microfinance and inclusive
-            finance sectors. Global; specific to microfinance and
-            inclusive finance sectors</td>
-                <td align="left">Indicators for outreach, client protection,
-            social responsibility, self-reporting, external audits.</td>
-                <td align="left">Widely accepted in the microfinance
-            sector.</td>
-                <td align="left">Overlaps with sector-specific stndards like
-            the Universal Standards for Social Performance Management.
-            Gaps in the broader financial inclusion metrics.</td>
-              </tr>
-              <tr>
-                <td align="left">Impact Management Project (IMP)</td>
-                <td align="left">Provides a consensus on how to measure,
-            manage, and report impacts on people and the planet. Global;
-            comprehensive coverage across multiple sectors and impact
-            themes.</td>
-                <td align="left">Five dimensions of impact: what, who, how
-            much, contribution, risk; self-assessment, peer
-            reviews.</td>
-                <td align="left">Highly accepted among impact investors and
-            financial institutions.</td>
-                <td align="left">Overlaps with IRIS+ and other impact
-            measurement frameworks. Gaps in detailed sector-specific
-            guidelines.</td>
-              </tr>
-              <tr>
-                <td align="left">B Impact Assessment (BIA) by B Lab</td>
-                <td align="left">Assess social and environmental performance
-            of companies, focusing on governance, workers, community,
-            environment, and customers. Global; socially responsible
-            business across sectors.</td>
-                <td align="left">Structured questionnaire, comprehensive
-            assessment, third-party audits for B Corp
-            certification.</td>
-                <td align="left">High acceptance among socially responsible
-            businesses and investors.</td>
-                <td align="left">Overlaps with ESG frameworks. Gaps include
-            the depth of impact measurement in specific sectors.</td>
-              </tr>
-              <tr>
-                <td align="left">Social Return on Investment (SROI)</td>
-                <td align="left">Measures social value created by
-            translating social outcomes into monetary values. Global;
-            applicable to community development, education, healthcare,
-            and more.</td>
-                <td align="left">Detailed data on inputs, outputs, outcomes,
-            financial proxies, stakeholder engagement, third-party
-            validation.</td>
-                <td align="left">Growing acceptance, particularly in the
-            non-profit and public sectors.</td>
-                <td align="left">Overlaps with cost-benefit analysis
-            approaches. Gaps include challenges in the assigning
-            monetary values to all social outcomes.</td>
-              </tr>
-              <tr>
-                <td align="left">FC’s Operating Principles for Impact
-            Management</td>
-                <td align="left">Provides a common understanding of impact
-            investing among market players. Global; applicable at
-            corporate, fund or investment vehicle levels. Consists of 9
-            principles divided into 5 steps, including Independent
-            Verification</td>
-                <td align="left">Annual disclosures, independent
-            verification, payment of a registration fee.</td>
-                <td align="left">High acceptance among banks, DFIs,
-            government-backed investment corporations, MDBs,
-            non-profits, asset managers, and investment funds.</td>
-                <td align="left">Overlaps with other impact frameworks like
-            GIIN and IMP. Efforts are ongoing to harmonize these
-            principles with other frameworks.</td>
-              </tr>
-              <tr>
-                <td align="left">UNEP-FI</td>
-                <td align="left">Partnership between the UN and the global
-            financial sector including banks, insurers and investors.
-            Supports PRI, PSI and PRB. Provides tools like Impact
-            Investing Market Map, Corporate Impact Analysis Tool, and
-            Portfolio Impact Analysis Tool for Banks</td>
-                <td align="left">Tools use structured assessment and scoring
-            systems based on predefined criteria and KPIs.</td>
-                <td align="left">High acceptance in the financial sector,
-            especially among banks and insurers.</td>
-                <td align="left">Overlaps with SDG-related frameworks and
-            industry-specific standards. Gaps in comprehensive
-            sector-specific metrics for niche areas.</td>
-              </tr>
-              <tr>
-                <td align="left">DCED Standard</td>
-                <td align="left">Provides a tool for monitoring and
-            evaluation of development and programmatic projects. Focuses
-            on poverty alleviation through private sector
-            development.</td>
-                <td align="left">Structured intervention guide with
-            intervention summary, results chain, reulsts measurement
-            plan, and measurements and calculations.</td>
-                <td align="left">Growing acceptance among government,
-            philanthropic, and multilateral agencies working in the
-            private sector development.</td>
-                <td align="left">Overlaps with other devleopment-focused
-            frameworks. Gaps in tailored metrics for specific impact
-            investing scenarios.</td>
-              </tr>
-              <tr>
-                <td align="left">UNEP-FI Corporate Impact Analysis Tool
-            (CIAT)</td>
-                <td align="left">Enables financial institutions to assess
-            the corporate impact of clients and investee companies.
-            Based on the Positive Impact Approach, it is designed for
-            use by larger concerns (Middle Market, Corporates, and
-            MNCs).</td>
-                <td align="left">Structured Excel spreadsheet with various
-            tabs explaining methodology and use, scoring system with
-            pre-determined and user-picked weights and guidelines.</td>
-                <td align="left">Growing acceptance among large corporations
-            and financial institutions.</td>
-                <td align="left">Overlaps with other corporate impact
-            assessment tools. Gaps in tailored metrics for smaller
-            enterprises and specific sectors.</td>
-              </tr>
-              <tr>
-                <td align="left">UNEP-FI Portfolio Impact Analysis Tool
-            (PIAT)</td>
-                <td align="left">Targets banks, assesses the impact of a
-            given bank’s portfolio, helps banks report and shape their
-            portfolios for positive impact over time. Uses the 22 areas
-            of the Impact Radar.</td>
-                <td align="left">Input spreadsheets for Bank Cartography and
-            Country Needs Scores, coupled with predefined impact maps
-            and user inputs to assess positive and negative impacts</td>
-                <td align="left">High acceptance among banks, particularly
-            those committed to the PRB framework.</td>
-                <td align="left">Overlaps with other banking-specific impact
-            assessment tools. Gaps in comprehensive sector-specific
-            metrics for non-banking financial institutions.</td>
-              </tr>
-            </tbody>
-          </table>
-        </table-wrap>
+          <table-wrap>
+            <table>
+              <thead>
+                <tr>
+                  <th align="left">Framework</th>
+                  <th align="left">Focus</th>
+                  <th align="left">Average</th>
+                  <th align="left">MRV</th>
+                  <th align="left">Overlap.Gaps</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">IRIS+ by GIIN</td>
+                  <td align="left">Provide a comprehensive catalog of
+              social, environmental, and financial performance metrics.
+              Global; diverse sectors such as education, healthcare, and
+              economic development</td>
+                  <td align="left">Standardised metrics, consistent data
+              collection, self-assessment, third-party audits.</td>
+                  <td align="left">Highly accepted globally among impact
+              investors and financial institutions.</td>
+                  <td align="left">Overlaps with other frameworks like IMP.
+              Gaps in sector-specific metrics for niche areas.</td>
+                </tr>
+                <tr>
+                  <td align="left">Social Performance Task Force (SPTF)</td>
+                  <td align="left">Provides standards and guidelines for
+              assessing social performance in microfinance and inclusive
+              finance sectors. Global; specific to microfinance and
+              inclusive finance sectors</td>
+                  <td align="left">Indicators for outreach, client
+              protection, social responsibility, self-reporting,
+              external audits.</td>
+                  <td align="left">Widely accepted in the microfinance
+              sector.</td>
+                  <td align="left">Overlaps with sector-specific stndards
+              like the Universal Standards for Social Performance
+              Management. Gaps in the broader financial inclusion
+              metrics.</td>
+                </tr>
+                <tr>
+                  <td align="left">Impact Management Project (IMP)</td>
+                  <td align="left">Provides a consensus on how to measure,
+              manage, and report impacts on people and the planet.
+              Global; comprehensive coverage across multiple sectors and
+              impact themes.</td>
+                  <td align="left">Five dimensions of impact: what, who, how
+              much, contribution, risk; self-assessment, peer
+              reviews.</td>
+                  <td align="left">Highly accepted among impact investors
+              and financial institutions.</td>
+                  <td align="left">Overlaps with IRIS+ and other impact
+              measurement frameworks. Gaps in detailed sector-specific
+              guidelines.</td>
+                </tr>
+                <tr>
+                  <td align="left">B Impact Assessment (BIA) by B Lab</td>
+                  <td align="left">Assess social and environmental
+              performance of companies, focusing on governance, workers,
+              community, environment, and customers. Global; socially
+              responsible business across sectors.</td>
+                  <td align="left">Structured questionnaire, comprehensive
+              assessment, third-party audits for B Corp
+              certification.</td>
+                  <td align="left">High acceptance among socially
+              responsible businesses and investors.</td>
+                  <td align="left">Overlaps with ESG frameworks. Gaps
+              include the depth of impact measurement in specific
+              sectors.</td>
+                </tr>
+                <tr>
+                  <td align="left">Social Return on Investment (SROI)</td>
+                  <td align="left">Measures social value created by
+              translating social outcomes into monetary values. Global;
+              applicable to community development, education,
+              healthcare, and more.</td>
+                  <td align="left">Detailed data on inputs, outputs,
+              outcomes, financial proxies, stakeholder engagement,
+              third-party validation.</td>
+                  <td align="left">Growing acceptance, particularly in the
+              non-profit and public sectors.</td>
+                  <td align="left">Overlaps with cost-benefit analysis
+              approaches. Gaps include challenges in the assigning
+              monetary values to all social outcomes.</td>
+                </tr>
+                <tr>
+                  <td align="left">FC’s Operating Principles for Impact
+              Management</td>
+                  <td align="left">Provides a common understanding of impact
+              investing among market players. Global; applicable at
+              corporate, fund or investment vehicle levels. Consists of
+              9 principles divided into 5 steps, including Independent
+              Verification</td>
+                  <td align="left">Annual disclosures, independent
+              verification, payment of a registration fee.</td>
+                  <td align="left">High acceptance among banks, DFIs,
+              government-backed investment corporations, MDBs,
+              non-profits, asset managers, and investment funds.</td>
+                  <td align="left">Overlaps with other impact frameworks
+              like GIIN and IMP. Efforts are ongoing to harmonize these
+              principles with other frameworks.</td>
+                </tr>
+                <tr>
+                  <td align="left">UNEP-FI</td>
+                  <td align="left">Partnership between the UN and the global
+              financial sector including banks, insurers and investors.
+              Supports PRI, PSI and PRB. Provides tools like Impact
+              Investing Market Map, Corporate Impact Analysis Tool, and
+              Portfolio Impact Analysis Tool for Banks</td>
+                  <td align="left">Tools use structured assessment and
+              scoring systems based on predefined criteria and
+              KPIs.</td>
+                  <td align="left">High acceptance in the financial sector,
+              especially among banks and insurers.</td>
+                  <td align="left">Overlaps with SDG-related frameworks and
+              industry-specific standards. Gaps in comprehensive
+              sector-specific metrics for niche areas.</td>
+                </tr>
+                <tr>
+                  <td align="left">DCED Standard</td>
+                  <td align="left">Provides a tool for monitoring and
+              evaluation of development and programmatic projects.
+              Focuses on poverty alleviation through private sector
+              development.</td>
+                  <td align="left">Structured intervention guide with
+              intervention summary, results chain, reulsts measurement
+              plan, and measurements and calculations.</td>
+                  <td align="left">Growing acceptance among government,
+              philanthropic, and multilateral agencies working in the
+              private sector development.</td>
+                  <td align="left">Overlaps with other devleopment-focused
+              frameworks. Gaps in tailored metrics for specific impact
+              investing scenarios.</td>
+                </tr>
+                <tr>
+                  <td align="left">UNEP-FI Corporate Impact Analysis Tool
+              (CIAT)</td>
+                  <td align="left">Enables financial institutions to assess
+              the corporate impact of clients and investee companies.
+              Based on the Positive Impact Approach, it is designed for
+              use by larger concerns (Middle Market, Corporates, and
+              MNCs).</td>
+                  <td align="left">Structured Excel spreadsheet with various
+              tabs explaining methodology and use, scoring system with
+              pre-determined and user-picked weights and
+              guidelines.</td>
+                  <td align="left">Growing acceptance among large
+              corporations and financial institutions.</td>
+                  <td align="left">Overlaps with other corporate impact
+              assessment tools. Gaps in tailored metrics for smaller
+              enterprises and specific sectors.</td>
+                </tr>
+                <tr>
+                  <td align="left">UNEP-FI Portfolio Impact Analysis Tool
+              (PIAT)</td>
+                  <td align="left">Targets banks, assesses the impact of a
+              given bank’s portfolio, helps banks report and shape their
+              portfolios for positive impact over time. Uses the 22
+              areas of the Impact Radar.</td>
+                  <td align="left">Input spreadsheets for Bank Cartography
+              and Country Needs Scores, coupled with predefined impact
+              maps and user inputs to assess positive and negative
+              impacts</td>
+                  <td align="left">High acceptance among banks, particularly
+              those committed to the PRB framework.</td>
+                  <td align="left">Overlaps with other banking-specific
+              impact assessment tools. Gaps in comprehensive
+              sector-specific metrics for non-banking financial
+              institutions.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </fig>
       </sec>
     </sec>
     <sec id="market-growth-and-reporting-trends-in-sustainable-investing">
@@ -1916,364 +1931,378 @@ credibility issues.
     </sec>
     <sec id="appendix">
       <title>7. Appendix</title>
-      <table-wrap>
+      <fig id="tbl-ESGS">
         <caption>
-          <p>Overview of ESG Strategies</p>
+          <p>Table 5: Overview of ESG Strategies</p>
         </caption>
-        <table>
-          <thead>
-            <tr>
-              <th align="left">Strategy</th>
-              <th align="left">Description</th>
-              <th align="left">Geography</th>
-              <th align="left">Acceptance</th>
-              <th align="left">Weaknesses</th>
-              <th align="left">Strengths</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td align="left">Negative Screening</td>
-              <td align="left">Avoid the worst performers</td>
-              <td align="left">Global</td>
-              <td align="left">Widely accepted, especially in Europe</td>
-              <td align="left">May exclude potentially profitable
-          investments</td>
-              <td align="left">Simple to implement, reduces reputational
-          risk</td>
-            </tr>
-            <tr>
-              <td align="left">Norms-based Screening</td>
-              <td align="left">Screening based on international norms and
-          standards</td>
-              <td align="left">Global</td>
-              <td align="left">Growing acceptance, especially among
-          institutional investors</td>
-              <td align="left">Can be subjective, may miss new emerging
-          risks</td>
-              <td align="left">Aligns with international standards, enhances
-          ethical alignment</td>
-            </tr>
-            <tr>
-              <td align="left">Best-in-Class Selection / Positive
-          Screening</td>
-              <td align="left">Investing in companies with superior ESG
-          performance within their sector</td>
-              <td align="left">Global</td>
-              <td align="left">Widely accepted, especially in Europe</td>
-              <td align="left">Requires rigorous data and analysis, may lead
-          to over-diversification</td>
-              <td align="left">Encourages industry leaders, promotes best
-          practices</td>
-            </tr>
-            <tr>
-              <td align="left">ESG Integration</td>
-              <td align="left">Integrating ESG factors into financial
-          analysis and investment decisions</td>
-              <td align="left">Global</td>
-              <td align="left">Highly accepted, becoming standard
-          practice</td>
-              <td align="left">Requires comprehensive data integration</td>
-              <td align="left">Holistic approach, aligns with overall
-          corporate strategy</td>
-            </tr>
-            <tr>
-              <td align="left">Proxy Voting</td>
-              <td align="left">Formally expressing approval or disapproval
-          through voting on resolutions and proposing shareholder
-          resolutions on specific ESG issues.</td>
-              <td align="left">Global</td>
-              <td align="left">Widely accepted, especially in activist
-          funds</td>
-              <td align="left">Can be resource-intensive, may have slow
-          impact</td>
-              <td align="left">Promotes active ownership, can lead to
-          long-term improvements</td>
-            </tr>
-            <tr>
-              <td align="left">Engagement</td>
-              <td align="left">Engaging with companies to influence their
-          ESG practices</td>
-              <td align="left">Global</td>
-              <td align="left">Widely accepted, especially in activist
-          funds</td>
-              <td align="left">Can be resource-intensive, may have slow
-          impact</td>
-              <td align="left">Promotes active ownership, can lead to
-          long-term improvements</td>
-            </tr>
-            <tr>
-              <td align="left">ESG Momentum Investing</td>
-              <td align="left">Investing in companies improving their ESG
-          performance</td>
-              <td align="left">Europe, North America</td>
-              <td align="left">Emerging strategy</td>
-              <td align="left">Requires detailed performance tracking</td>
-              <td align="left">Encourages continuous improvement, dynamic
-          approach</td>
-            </tr>
-            <tr>
-              <td align="left">Negative/Positive Tilt</td>
-              <td align="left">Adjusting portfolio weight based on ESG
-          criteria</td>
-              <td align="left">Global</td>
-              <td align="left">Growing among passive and index
-          investors</td>
-              <td align="left">Can lead to sub-optimal diversification</td>
-              <td align="left">Enhances ESG exposure, flexible
-          implementation</td>
-            </tr>
-          </tbody>
-        </table>
-      </table-wrap>
-      <table-wrap>
+        <table-wrap>
+          <table>
+            <thead>
+              <tr>
+                <th align="left">Strategy</th>
+                <th align="left">Description</th>
+                <th align="left">Geography</th>
+                <th align="left">Acceptance</th>
+                <th align="left">Weaknesses</th>
+                <th align="left">Strengths</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Negative Screening</td>
+                <td align="left">Avoid the worst performers</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted, especially in Europe</td>
+                <td align="left">May exclude potentially profitable
+            investments</td>
+                <td align="left">Simple to implement, reduces reputational
+            risk</td>
+              </tr>
+              <tr>
+                <td align="left">Norms-based Screening</td>
+                <td align="left">Screening based on international norms and
+            standards</td>
+                <td align="left">Global</td>
+                <td align="left">Growing acceptance, especially among
+            institutional investors</td>
+                <td align="left">Can be subjective, may miss new emerging
+            risks</td>
+                <td align="left">Aligns with international standards,
+            enhances ethical alignment</td>
+              </tr>
+              <tr>
+                <td align="left">Best-in-Class Selection / Positive
+            Screening</td>
+                <td align="left">Investing in companies with superior ESG
+            performance within their sector</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted, especially in Europe</td>
+                <td align="left">Requires rigorous data and analysis, may
+            lead to over-diversification</td>
+                <td align="left">Encourages industry leaders, promotes best
+            practices</td>
+              </tr>
+              <tr>
+                <td align="left">ESG Integration</td>
+                <td align="left">Integrating ESG factors into financial
+            analysis and investment decisions</td>
+                <td align="left">Global</td>
+                <td align="left">Highly accepted, becoming standard
+            practice</td>
+                <td align="left">Requires comprehensive data
+            integration</td>
+                <td align="left">Holistic approach, aligns with overall
+            corporate strategy</td>
+              </tr>
+              <tr>
+                <td align="left">Proxy Voting</td>
+                <td align="left">Formally expressing approval or disapproval
+            through voting on resolutions and proposing shareholder
+            resolutions on specific ESG issues.</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted, especially in activist
+            funds</td>
+                <td align="left">Can be resource-intensive, may have slow
+            impact</td>
+                <td align="left">Promotes active ownership, can lead to
+            long-term improvements</td>
+              </tr>
+              <tr>
+                <td align="left">Engagement</td>
+                <td align="left">Engaging with companies to influence their
+            ESG practices</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted, especially in activist
+            funds</td>
+                <td align="left">Can be resource-intensive, may have slow
+            impact</td>
+                <td align="left">Promotes active ownership, can lead to
+            long-term improvements</td>
+              </tr>
+              <tr>
+                <td align="left">ESG Momentum Investing</td>
+                <td align="left">Investing in companies improving their ESG
+            performance</td>
+                <td align="left">Europe, North America</td>
+                <td align="left">Emerging strategy</td>
+                <td align="left">Requires detailed performance tracking</td>
+                <td align="left">Encourages continuous improvement, dynamic
+            approach</td>
+              </tr>
+              <tr>
+                <td align="left">Negative/Positive Tilt</td>
+                <td align="left">Adjusting portfolio weight based on ESG
+            criteria</td>
+                <td align="left">Global</td>
+                <td align="left">Growing among passive and index
+            investors</td>
+                <td align="left">Can lead to sub-optimal
+            diversification</td>
+                <td align="left">Enhances ESG exposure, flexible
+            implementation</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </fig>
+      <fig id="tbl-IIS">
         <caption>
-          <p>Overview of Impact Investment Strategies</p>
+          <p>Table 6: Overview of Impact Investment
+    Strategies</p>
         </caption>
-        <table>
-          <thead>
-            <tr>
-              <th align="left">Strategy</th>
-              <th align="left">Description</th>
-              <th align="left">Geography</th>
-              <th align="left">Acceptance</th>
-              <th align="left">Weaknesses</th>
-              <th align="left">Strengths</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td align="left">Sustainability Themed</td>
-              <td align="left">Investing in themes or sectors related to
-          sustainability</td>
-              <td align="left">Europe, Asia, North America</td>
-              <td align="left">High acceptance, especially in thematic
-          funds</td>
-              <td align="left">Can be niche, might limit
-          diversification</td>
-              <td align="left">Targets specific sustainability outcomes,
-          appeals to impact-focused investors</td>
-            </tr>
-            <tr>
-              <td align="left">Impact Investing</td>
-              <td align="left">Investing to generate measurable social or
-          environmental impact</td>
-              <td align="left">Global</td>
-              <td align="left">Growing, especially among social impact
-          funds</td>
-              <td align="left">Often involves higher risk, long time
-          horizons</td>
-              <td align="left">Directly addresses social and environmental
-          issues, measurable impact</td>
-            </tr>
-            <tr>
-              <td align="left">Community Investing</td>
-              <td align="left">Direct investments in community development
-          projects</td>
-              <td align="left">North America, Global</td>
-              <td align="left">Growing in popularity among socially
-          conscious investors</td>
-              <td align="left">Higher risk, often lower returns</td>
-              <td align="left">Supports local communities, social
-          impact</td>
-            </tr>
-            <tr>
-              <td align="left">Transition Investing</td>
-              <td align="left">Supporting companies in transitioning to
-          sustainable practices</td>
-              <td align="left">Europe, Asia</td>
-              <td align="left">Emerging strategy</td>
-              <td align="left">Risk of transition failure, can be capital
-          intensive</td>
-              <td align="left">Facilitates sustainability transitions, can
-          drive significant change</td>
-            </tr>
-            <tr>
-              <td align="left">Climate Change Mitigation</td>
-              <td align="left">Investments aimed at reducing carbon
-          emissions</td>
-              <td align="left">Global</td>
-              <td align="left">High acceptance among climate-focused
-          funds</td>
-              <td align="left">May be narrow in focus, requires thorough
-          impact assessment</td>
-              <td align="left">Addresses climate change directly, supports
-          global goals</td>
-            </tr>
-            <tr>
-              <td align="left">Circular Economy Investing</td>
-              <td align="left">Investing in companies promoting resource
-          efficiency and waste reduction</td>
-              <td align="left">Europe, Asia</td>
-              <td align="left">Growing acceptance</td>
-              <td align="left">Can be niche, may require specific
-          expertise</td>
-              <td align="left">Supports sustainable resource use, innovative
-          business models</td>
-            </tr>
-            <tr>
-              <td align="left">SDGs Investing</td>
-              <td align="left">Aligning investments with the UN’s
-          Sustainable Development Goals</td>
-              <td align="left">Global</td>
-              <td align="left">Increasing, especially among impact
-          investors</td>
-              <td align="left">Can be broad, difficult to measure
-          impact</td>
-              <td align="left">Aligns with global development goals, broad
-          impact</td>
-            </tr>
-          </tbody>
-        </table>
-      </table-wrap>
-      <table-wrap>
+        <table-wrap>
+          <table>
+            <thead>
+              <tr>
+                <th align="left">Strategy</th>
+                <th align="left">Description</th>
+                <th align="left">Geography</th>
+                <th align="left">Acceptance</th>
+                <th align="left">Weaknesses</th>
+                <th align="left">Strengths</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Sustainability Themed</td>
+                <td align="left">Investing in themes or sectors related to
+            sustainability</td>
+                <td align="left">Europe, Asia, North America</td>
+                <td align="left">High acceptance, especially in thematic
+            funds</td>
+                <td align="left">Can be niche, might limit
+            diversification</td>
+                <td align="left">Targets specific sustainability outcomes,
+            appeals to impact-focused investors</td>
+              </tr>
+              <tr>
+                <td align="left">Impact Investing</td>
+                <td align="left">Investing to generate measurable social or
+            environmental impact</td>
+                <td align="left">Global</td>
+                <td align="left">Growing, especially among social impact
+            funds</td>
+                <td align="left">Often involves higher risk, long time
+            horizons</td>
+                <td align="left">Directly addresses social and environmental
+            issues, measurable impact</td>
+              </tr>
+              <tr>
+                <td align="left">Community Investing</td>
+                <td align="left">Direct investments in community development
+            projects</td>
+                <td align="left">North America, Global</td>
+                <td align="left">Growing in popularity among socially
+            conscious investors</td>
+                <td align="left">Higher risk, often lower returns</td>
+                <td align="left">Supports local communities, social
+            impact</td>
+              </tr>
+              <tr>
+                <td align="left">Transition Investing</td>
+                <td align="left">Supporting companies in transitioning to
+            sustainable practices</td>
+                <td align="left">Europe, Asia</td>
+                <td align="left">Emerging strategy</td>
+                <td align="left">Risk of transition failure, can be capital
+            intensive</td>
+                <td align="left">Facilitates sustainability transitions, can
+            drive significant change</td>
+              </tr>
+              <tr>
+                <td align="left">Climate Change Mitigation</td>
+                <td align="left">Investments aimed at reducing carbon
+            emissions</td>
+                <td align="left">Global</td>
+                <td align="left">High acceptance among climate-focused
+            funds</td>
+                <td align="left">May be narrow in focus, requires thorough
+            impact assessment</td>
+                <td align="left">Addresses climate change directly, supports
+            global goals</td>
+              </tr>
+              <tr>
+                <td align="left">Circular Economy Investing</td>
+                <td align="left">Investing in companies promoting resource
+            efficiency and waste reduction</td>
+                <td align="left">Europe, Asia</td>
+                <td align="left">Growing acceptance</td>
+                <td align="left">Can be niche, may require specific
+            expertise</td>
+                <td align="left">Supports sustainable resource use,
+            innovative business models</td>
+              </tr>
+              <tr>
+                <td align="left">SDGs Investing</td>
+                <td align="left">Aligning investments with the UN’s
+            Sustainable Development Goals</td>
+                <td align="left">Global</td>
+                <td align="left">Increasing, especially among impact
+            investors</td>
+                <td align="left">Can be broad, difficult to measure
+            impact</td>
+                <td align="left">Aligns with global development goals, broad
+            impact</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </fig>
+      <fig id="tbl-GFSF">
         <caption>
-          <p>Overview of Green Finance and Social Finance</p>
+          <p>Table 7: Overview of Green Finance and Social
+    Finance</p>
         </caption>
-        <table>
-          <thead>
-            <tr>
-              <th align="left">Strategy</th>
-              <th align="left">Description</th>
-              <th align="left">Geography</th>
-              <th align="left">Acceptance</th>
-              <th align="left">Weaknesses</th>
-              <th align="left">Strengths</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td align="left">Green Bonds</td>
-              <td align="left">Bonds specifically earmarked to fund projects
-          with positive environmental benefits</td>
-              <td align="left">Global</td>
-              <td align="left">Increasing, especially among institutional
-          investors</td>
-              <td align="left">Can be complex to assess impact</td>
-              <td align="left">Direct funding of environmental projects,
-          transparent use of proceeds</td>
-            </tr>
-            <tr>
-              <td align="left">Sustainability Bonds</td>
-              <td align="left">Bonds that finance both environmental and
-          social projects</td>
-              <td align="left">Global</td>
-              <td align="left">Growing in acceptance</td>
-              <td align="left">Requires clear reporting and impact
-          assessment</td>
-              <td align="left">Flexible funding for multiple sustainability
-          projects</td>
-            </tr>
-            <tr>
-              <td align="left">Climate Bonds</td>
-              <td align="left">Bonds aimed at raising capital for climate
-          change mitigation/adaptation</td>
-              <td align="left">Global</td>
-              <td align="left">High acceptance among climate-focused
-          funds</td>
-              <td align="left">Requires stringent verification</td>
-              <td align="left">Directly supports climate initiatives,
-          transparent objectives</td>
-            </tr>
-            <tr>
-              <td align="left">Social Bonds</td>
-              <td align="left">Bonds issued to raise funds for social
-          projects</td>
-              <td align="left">Global</td>
-              <td align="left">Growing in social impact sectors</td>
-              <td align="left">Requires clear impact measurement</td>
-              <td align="left">Addresses social issues directly, transparent
-          use of funds</td>
-            </tr>
-            <tr>
-              <td align="left">Social Impact Bonds</td>
-              <td align="left">Pay-for-success bonds funding social programs
-          with returns based on outcomes</td>
-              <td align="left">Global</td>
-              <td align="left">Emerging strategy, still developing
-          acceptance</td>
-              <td align="left">Complex to structure, outcome-based
-          risks</td>
-              <td align="left">Aligns financial returns with social
-          outcomes</td>
-            </tr>
-          </tbody>
-        </table>
-      </table-wrap>
-      <table-wrap>
+        <table-wrap>
+          <table>
+            <thead>
+              <tr>
+                <th align="left">Strategy</th>
+                <th align="left">Description</th>
+                <th align="left">Geography</th>
+                <th align="left">Acceptance</th>
+                <th align="left">Weaknesses</th>
+                <th align="left">Strengths</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Green Bonds</td>
+                <td align="left">Bonds specifically earmarked to fund
+            projects with positive environmental benefits</td>
+                <td align="left">Global</td>
+                <td align="left">Increasing, especially among institutional
+            investors</td>
+                <td align="left">Can be complex to assess impact</td>
+                <td align="left">Direct funding of environmental projects,
+            transparent use of proceeds</td>
+              </tr>
+              <tr>
+                <td align="left">Sustainability Bonds</td>
+                <td align="left">Bonds that finance both environmental and
+            social projects</td>
+                <td align="left">Global</td>
+                <td align="left">Growing in acceptance</td>
+                <td align="left">Requires clear reporting and impact
+            assessment</td>
+                <td align="left">Flexible funding for multiple
+            sustainability projects</td>
+              </tr>
+              <tr>
+                <td align="left">Climate Bonds</td>
+                <td align="left">Bonds aimed at raising capital for climate
+            change mitigation/adaptation</td>
+                <td align="left">Global</td>
+                <td align="left">High acceptance among climate-focused
+            funds</td>
+                <td align="left">Requires stringent verification</td>
+                <td align="left">Directly supports climate initiatives,
+            transparent objectives</td>
+              </tr>
+              <tr>
+                <td align="left">Social Bonds</td>
+                <td align="left">Bonds issued to raise funds for social
+            projects</td>
+                <td align="left">Global</td>
+                <td align="left">Growing in social impact sectors</td>
+                <td align="left">Requires clear impact measurement</td>
+                <td align="left">Addresses social issues directly,
+            transparent use of funds</td>
+              </tr>
+              <tr>
+                <td align="left">Social Impact Bonds</td>
+                <td align="left">Pay-for-success bonds funding social
+            programs with returns based on outcomes</td>
+                <td align="left">Global</td>
+                <td align="left">Emerging strategy, still developing
+            acceptance</td>
+                <td align="left">Complex to structure, outcome-based
+            risks</td>
+                <td align="left">Aligns financial returns with social
+            outcomes</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </fig>
+      <fig id="tbl-GEI">
         <caption>
-          <p>Overview of Governance and Ethical Investing.</p>
+          <p>Table 8: Overview of Governance and Ethical
+    Investing</p>
         </caption>
-        <table>
-          <thead>
-            <tr>
-              <th align="left">Strategy</th>
-              <th align="left">Description</th>
-              <th align="left">Geography</th>
-              <th align="left">Acceptance</th>
-              <th align="left">Weaknesses</th>
-              <th align="left">Strengths</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td align="left">Active Ownership</td>
-              <td align="left">Using shareholder power to influence
-          corporate behavior through proxy voting and engagement</td>
-              <td align="left">Global</td>
-              <td align="left">Widely accepted in activist circles</td>
-              <td align="left">Resource-intensive, may face resistance from
-          management</td>
-              <td align="left">Can drive significant corporate change,
-          empowers investors</td>
-            </tr>
-            <tr>
-              <td align="left">Corporate Governance Investing</td>
-              <td align="left">Focusing on companies with strong governance
-          practices</td>
-              <td align="left">Global</td>
-              <td align="left">Growing among governance-focused funds</td>
-              <td align="left">May overlook environmental and social
-          factors</td>
-              <td align="left">Enhances corporate governance, reduces
-          governance risks</td>
-            </tr>
-            <tr>
-              <td align="left">Faith-Based Investing</td>
-              <td align="left">Investments guided by religious or ethical
-          beliefs</td>
-              <td align="left">Global</td>
-              <td align="left">Niche market, specific to certain groups</td>
-              <td align="left">Aligns with investor values, ethical
-          alignment</td>
-              <td align="left"/>
-            </tr>
-            <tr>
-              <td align="left">Moral Investing</td>
-              <td align="left">Avoiding investments in industries or
-          companies that contradict moral values</td>
-              <td align="left">Global</td>
-              <td align="left">Niche market, specific to certain
-          beliefs</td>
-              <td align="left">Ensures investments reflect personal
-          values</td>
-              <td align="left"/>
-            </tr>
-            <tr>
-              <td align="left">Venture Philanthropy</td>
-              <td align="left">Combining venture capital principles with
-          philanthropy to maximize social impact</td>
-              <td align="left">Global</td>
-              <td align="left">Emerging, high potential for social
-          impact</td>
-              <td align="left">Higher risk, may involve lower financial
-          returns</td>
-              <td align="left">Maximizes social impact, innovative funding
-          approach</td>
-            </tr>
-          </tbody>
-        </table>
-      </table-wrap>
+        <table-wrap>
+          <table>
+            <thead>
+              <tr>
+                <th align="left">Strategy</th>
+                <th align="left">Description</th>
+                <th align="left">Geography</th>
+                <th align="left">Acceptance</th>
+                <th align="left">Weaknesses</th>
+                <th align="left">Strengths</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Active Ownership</td>
+                <td align="left">Using shareholder power to influence
+            corporate behavior through proxy voting and engagement</td>
+                <td align="left">Global</td>
+                <td align="left">Widely accepted in activist circles</td>
+                <td align="left">Resource-intensive, may face resistance
+            from management</td>
+                <td align="left">Can drive significant corporate change,
+            empowers investors</td>
+              </tr>
+              <tr>
+                <td align="left">Corporate Governance Investing</td>
+                <td align="left">Focusing on companies with strong
+            governance practices</td>
+                <td align="left">Global</td>
+                <td align="left">Growing among governance-focused funds</td>
+                <td align="left">May overlook environmental and social
+            factors</td>
+                <td align="left">Enhances corporate governance, reduces
+            governance risks</td>
+              </tr>
+              <tr>
+                <td align="left">Faith-Based Investing</td>
+                <td align="left">Investments guided by religious or ethical
+            beliefs</td>
+                <td align="left">Global</td>
+                <td align="left">Niche market, specific to certain
+            groups</td>
+                <td align="left">Aligns with investor values, ethical
+            alignment</td>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Moral Investing</td>
+                <td align="left">Avoiding investments in industries or
+            companies that contradict moral values</td>
+                <td align="left">Global</td>
+                <td align="left">Niche market, specific to certain
+            beliefs</td>
+                <td align="left">Ensures investments reflect personal
+            values</td>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Venture Philanthropy</td>
+                <td align="left">Combining venture capital principles with
+            philanthropy to maximize social impact</td>
+                <td align="left">Global</td>
+                <td align="left">Emerging, high potential for social
+            impact</td>
+                <td align="left">Higher risk, may involve lower financial
+            returns</td>
+                <td align="left">Maximizes social impact, innovative funding
+            approach</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </fig>
     </sec>
   </body>
   <back>
@@ -2769,7 +2798,7 @@ outcomes for a proposed Australian Impact Exchange</article-title>
             <given-names>Marianne</given-names>
           </name>
           <string-name>Marianne Feoli</string-name>
-          <xref ref-type="aff" rid="aff-2-nb-article">b</xref>
+          <xref ref-type="aff" rid="aff-1-nb-article">a</xref>
         </contrib>
         <contrib contrib-type="author" corresp="yes">
           <contrib-id contrib-id-type="orcid">0000-0003-1313-3956</contrib-id>
@@ -2779,19 +2808,14 @@ outcomes for a proposed Australian Impact Exchange</article-title>
           </name>
           <string-name>Ben Milligan</string-name>
           <email>b.milligan@unsw.edu.au</email>
-          <xref ref-type="aff" rid="aff-2-nb-article">b</xref>
+          <xref ref-type="aff" rid="aff-1-nb-article">a</xref>
           <xref ref-type="corresp" rid="cor-3-nb-article">*</xref>
         </contrib>
       </contrib-group>
       <aff id="aff-1-nb-article">
         <institution-wrap>
-          <institution>Centre for Sustainable Development Reform, University of
-New South Wales (UNSW-CSDR)</institution>
-        </institution-wrap>
-      </aff>
-      <aff id="aff-2-nb-article">
-        <institution-wrap>
-          <institution>UNSW-CSDR</institution>
+          <institution>UNSW Centre for Sustainable Development
+Reform</institution>
         </institution-wrap>
       </aff>
       <author-notes>
@@ -2968,11 +2992,11 @@ credibility issues.
       tale.<xref ref-type="fn" rid="fn2-nb-article">2</xref></p>
           </list-item>
         </list>
-        <fig>
+        <fig id="fig-SEEA-nb-article">
           <caption>
-            <p>Conceptual basis for organising environmental, social
-    and economic metrics aligned to international statistical standards.
-    Source: United Nations Statistics Division
+            <p>Figure 1: Conceptual basis for organising environmental,
+    social and economic metrics aligned to international statistical
+    standards. Source: United Nations Statistics Division
     (<xref alt="2024" rid="ref-united_nations_statistics_division_2024-nb-article" ref-type="bibr">2024</xref>).</p>
           </caption>
           <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%201.png"/>
@@ -3101,10 +3125,10 @@ credibility issues.
       sustainable development:</p>
           </list-item>
         </list>
-        <fig>
+        <fig id="fig-market-nb-article">
           <caption>
-            <p>Methodology for market studies on sustainability-related
-    investments. Source: Eurosif
+            <p>Figure 2: Methodology for market studies on
+    sustainability-related investments. Source: Eurosif
     (<xref alt="2024" rid="ref-eurosif_classification_report_2024-nb-article" ref-type="bibr">2024</xref>).</p>
           </caption>
           <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%202.png"/>
@@ -3217,10 +3241,10 @@ credibility issues.
         guide meta-governance structures for desired outcomes:</p>
             </list-item>
           </list>
-          <fig>
+          <fig id="fig-iris-nb-article">
             <caption>
-              <p>Interconnectedness of IRIS+ Impact Categories and
-      Themes as of May 2021. Source:
+              <p>Figure 3: Interconnectedness of IRIS+ Impact
+      Categories and Themes as of May 2021. Source:
       <ext-link ext-link-type="uri" xlink:href="https://iris.thegiin.org">iris.thegiin.org</ext-link>.</p>
             </caption>
             <graphic mimetype="image" mime-subtype="jpeg" xlink:href="media/Picture%203.jpg"/>
@@ -3234,10 +3258,10 @@ credibility issues.
         general tiers:</p>
             </list-item>
           </list>
-          <fig>
+          <fig id="fig-approaches-nb-article">
             <caption>
-              <p>Illustrative tiers of analytical approaches to impact
-      and ESG assessment</p>
+              <p>Figure 4: Illustrative tiers of analytical approaches
+      to impact and ESG assessment</p>
             </caption>
             <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%204.png"/>
           </fig>
@@ -3367,102 +3391,110 @@ credibility issues.
           <sec specific-use="notebook-content">
             <code language="css">.small .table {font-size: 11px;}</code>
           </sec>
-          <code language="r script">data &lt;- read.csv(file = "sustainability-standards.csv")
+          <sec specific-use="notebook-content">
+            <code language="r script">data &lt;- read.csv(file = "sustainability-standards.csv")
 library(knitr)
 kable(data[1:7, ], 
-      caption = "Overview of Climate-related Disclosure and Reporting Standards.",
       format = "simple",
       booktabs = TRUE,
-      align = 'l')</code>
-          <table-wrap>
-            <caption>
-              <p>Overview of Climate-related Disclosure and Reporting
-        Standards.</p>
-            </caption>
-            <table>
-              <thead>
-                <tr>
-                  <th align="left">Region</th>
-                  <th align="left">Standard</th>
-                  <th align="left">Scope</th>
-                  <th align="left">Coverage</th>
-                  <th align="left">Purpose</th>
-                  <th align="left">Uptake</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td align="left">Global</td>
-                  <td align="left">Taskforce on Climate-related Financial
-            Disclosures</td>
-                  <td align="left">Climate-related financial disclosures</td>
-                  <td align="left">Climate risk and opportunities</td>
-                  <td align="left">Provide recommendations for diclosing
-            climate-related risks and opportunities</td>
-                  <td align="left">Wide adopted espectially in finance</td>
-                </tr>
-                <tr>
-                  <td align="left">Global</td>
-                  <td align="left">Carbon Disclosure Project</td>
-                  <td align="left">Climate and environmental reporting</td>
-                  <td align="left">Climate change, water, security,
-            deforestation</td>
-                  <td align="left">Enable compnaies to measure and manage
-            their environmental impacts</td>
-                  <td align="left">Widely used globally</td>
-                </tr>
-                <tr>
-                  <td align="left">Global</td>
-                  <td align="left">Integrated Reporting</td>
-                  <td align="left">Financial, social and environmental
-            reporting</td>
-                  <td align="left">Financial performance, ecological, social
-            metrics</td>
-                  <td align="left">Promote transparency and holistic
-            reporting</td>
-                  <td align="left">Increasingly adopted by companies</td>
-                </tr>
-                <tr>
-                  <td align="left">Global</td>
-                  <td align="left">Science-based Targets Initiative</td>
-                  <td align="left">Set science-based climate targets</td>
-                  <td align="left">Corporate GHG emissions</td>
-                  <td align="left">Help companies set GHG reduction targets in
-            line with climate science</td>
-                  <td align="left">Widely recognised especially in corporate
-            sector</td>
-                </tr>
-                <tr>
-                  <td align="left">USA</td>
-                  <td align="left">Sustainability Accounting Standards
-            Board</td>
-                  <td align="left">Industry-specific standards</td>
-                  <td align="left">Environmental, social, governance</td>
-                  <td align="left">Provide industry-specific standards</td>
-                  <td align="left">Growing adoption particularly in the
-            US</td>
-                </tr>
-                <tr>
-                  <td align="left">Global</td>
-                  <td align="left">Climate Disclosure Standards Board</td>
-                  <td align="left">Climate-related financial disclosures</td>
-                  <td align="left">Environmental information</td>
-                  <td align="left">Integrate climate-related information into
-            mainstream financial reporting</td>
-                  <td align="left">Increasingly recognised globally</td>
-                </tr>
-                <tr>
-                  <td align="left">Global</td>
-                  <td align="left">Global Reporting Initiative</td>
-                  <td align="left">Sustainability reporting standards</td>
-                  <td align="left">environmental, social, governance</td>
-                  <td align="left">Provide comprehensive sustainability
-            reporting guidelines</td>
-                  <td align="left">Widely used globally</td>
-                </tr>
-              </tbody>
-            </table>
-          </table-wrap>
+      align = 'l'#,
+      # caption = "Overview of Climate-related Disclosure and Reporting Standards.",
+      #label = "tbl-standards"
+      )</code>
+            <fig id="tbl-standards-nb-article">
+              <caption>
+                <p>Table 1: Overview of Climate-related Disclosure and
+      Reporting Standards</p>
+              </caption>
+              <table-wrap>
+                <table>
+                  <thead>
+                    <tr>
+                      <th align="left">Region</th>
+                      <th align="left">Standard</th>
+                      <th align="left">Scope</th>
+                      <th align="left">Coverage</th>
+                      <th align="left">Purpose</th>
+                      <th align="left">Uptake</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">Global</td>
+                      <td align="left">Taskforce on Climate-related Financial
+              Disclosures</td>
+                      <td align="left">Climate-related financial
+              disclosures</td>
+                      <td align="left">Climate risk and opportunities</td>
+                      <td align="left">Provide recommendations for diclosing
+              climate-related risks and opportunities</td>
+                      <td align="left">Wide adopted espectially in finance</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Global</td>
+                      <td align="left">Carbon Disclosure Project</td>
+                      <td align="left">Climate and environmental reporting</td>
+                      <td align="left">Climate change, water, security,
+              deforestation</td>
+                      <td align="left">Enable compnaies to measure and manage
+              their environmental impacts</td>
+                      <td align="left">Widely used globally</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Global</td>
+                      <td align="left">Integrated Reporting</td>
+                      <td align="left">Financial, social and environmental
+              reporting</td>
+                      <td align="left">Financial performance, ecological, social
+              metrics</td>
+                      <td align="left">Promote transparency and holistic
+              reporting</td>
+                      <td align="left">Increasingly adopted by companies</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Global</td>
+                      <td align="left">Science-based Targets Initiative</td>
+                      <td align="left">Set science-based climate targets</td>
+                      <td align="left">Corporate GHG emissions</td>
+                      <td align="left">Help companies set GHG reduction targets
+              in line with climate science</td>
+                      <td align="left">Widely recognised especially in corporate
+              sector</td>
+                    </tr>
+                    <tr>
+                      <td align="left">USA</td>
+                      <td align="left">Sustainability Accounting Standards
+              Board</td>
+                      <td align="left">Industry-specific standards</td>
+                      <td align="left">Environmental, social, governance</td>
+                      <td align="left">Provide industry-specific standards</td>
+                      <td align="left">Growing adoption particularly in the
+              US</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Global</td>
+                      <td align="left">Climate Disclosure Standards Board</td>
+                      <td align="left">Climate-related financial
+              disclosures</td>
+                      <td align="left">Environmental information</td>
+                      <td align="left">Integrate climate-related information
+              into mainstream financial reporting</td>
+                      <td align="left">Increasingly recognised globally</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Global</td>
+                      <td align="left">Global Reporting Initiative</td>
+                      <td align="left">Sustainability reporting standards</td>
+                      <td align="left">environmental, social, governance</td>
+                      <td align="left">Provide comprehensive sustainability
+              reporting guidelines</td>
+                      <td align="left">Widely used globally</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </fig>
+          </sec>
           <list list-type="order">
             <list-item>
               <label>21.</label>
@@ -3475,10 +3507,10 @@ kable(data[1:7, ],
         informed investment strategies.</p>
             </list-item>
           </list>
-          <fig>
+          <fig id="fig-ESG-nb-article">
             <caption>
-              <p>Role of guiding principles and frameworks for ESG
-      investment assessment</p>
+              <p>Figure 5: Role of guiding principles and frameworks
+      for ESG investment assessment</p>
             </caption>
             <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%205.png"/>
           </fig>
@@ -3498,10 +3530,10 @@ kable(data[1:7, ],
         alongside key measurement and verification approaches.</p>
             </list-item>
           </list>
-          <fig>
+          <fig id="fig-impact-nb-article">
             <caption>
-              <p>Role of guiding principles and frameworks for ESG
-      investment assessment</p>
+              <p>Figure 6: Role of guiding principles and frameworks
+      for impact investment assessment</p>
             </caption>
             <graphic mimetype="image" mime-subtype="png" xlink:href="media/Picture%206.png"/>
           </fig>
@@ -3614,115 +3646,120 @@ kable(data[1:7, ],
             </list-item>
           </list>
           <sec specific-use="notebook-content">
-            <code language="css">.small .table {font-size: 10px;}</code>
+            <code language="css">.small .table {font-size: 11px;}</code>
           </sec>
-          <code language="r script">data &lt;- read.csv(file = "emissions-standards.csv")
+          <sec specific-use="notebook-content">
+            <code language="r script">data &lt;- read.csv(file = "emissions-standards.csv")
 library(knitr)
 kable(data[1:8, ], 
-      caption = "Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks.",
+      # caption = "Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks.",
       format = "simple",
       booktabs = TRUE,
       align = 'l')</code>
-          <table-wrap>
-            <caption>
-              <p>Overview of Climate Change and GHG Emissions Measurement and
-        Verification Frameworks.</p>
-            </caption>
-            <table>
-              <thead>
-                <tr>
-                  <th align="left">Region</th>
-                  <th align="left">Standard</th>
-                  <th align="left">Scope</th>
-                  <th align="left">Coverage</th>
-                  <th align="left">Purpose</th>
-                  <th align="left">Uptake</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td align="left">Global</td>
-                  <td align="left">Greenhouse Gas Protocol (GHG Protocol)</td>
-                  <td align="left">Corporate, Project, Value Chain (Scope 1,
-            2, 3)</td>
-                  <td align="left">Global</td>
-                  <td align="left">Provide standardized approach for GHG
-            accounting transparency consistency</td>
-                  <td align="left">Widely adopted by businesses, governments,
-            NGOs</td>
-                </tr>
-                <tr>
-                  <td align="left">Global</td>
-                  <td align="left">ISO 14064</td>
-                  <td align="left">Organization (Part 1), Project (Part 2),
-            Verification (Part 3)</td>
-                  <td align="left">Global</td>
-                  <td align="left">Guidelines for quantifying, reporting, and
-            verifying GHG emissions</td>
-                  <td align="left">Widely recognized and implemented
-            globally</td>
-                </tr>
-                <tr>
-                  <td align="left">Europe</td>
-                  <td align="left">EU Emissions Trading System (EU ETS)</td>
-                  <td align="left">Cap-and-trade system for power, industry,
-            aviation</td>
-                  <td align="left">Europe</td>
-                  <td align="left">Regulate and reduce GHG emissions through a
-            cap-and-trade system</td>
-                  <td align="left">Major compliance tool in Europe</td>
-                </tr>
-                <tr>
-                  <td align="left">Africa</td>
-                  <td align="left">African Regional Standard (ARS 902)</td>
-                  <td align="left">GHG emissions inventory</td>
-                  <td align="left">Africa</td>
-                  <td align="left">Standardized approach for GHG emissions
-            inventory</td>
-                  <td align="left">Increasing adoption across African
-            countries</td>
-                </tr>
-                <tr>
-                  <td align="left">Africa</td>
-                  <td align="left">South Africa’s NGER Regulations</td>
-                  <td align="left">Mandatory GHG reporting</td>
-                  <td align="left">South Africa</td>
-                  <td align="left">Regulatory compliance and GHG
-            management</td>
-                  <td align="left">Key regulation in South Africa</td>
-                </tr>
-                <tr>
-                  <td align="left">Americas</td>
-                  <td align="left">California Cap-and-Trade Program</td>
-                  <td align="left">Cap-and-trade system for emissions</td>
-                  <td align="left">United States (California)</td>
-                  <td align="left">Regulate and reduce GHG emissions through a
-            cap-and-trade system</td>
-                  <td align="left">Major compliance tool in California</td>
-                </tr>
-                <tr>
-                  <td align="left">Americas</td>
-                  <td align="left">Climate Registry General Reporting Protocol
-            (GRP)</td>
-                  <td align="left">Voluntary GHG reporting</td>
-                  <td align="left">Americas</td>
-                  <td align="left">Standardize GHG emissions reporting for
-            voluntary programs</td>
-                  <td align="left">Widely used in North America</td>
-                </tr>
-                <tr>
-                  <td align="left">Asia Pacific</td>
-                  <td align="left">Japan’s GHG Accounting and Reporting
-            System</td>
-                  <td align="left">Mandatory GHG reporting</td>
-                  <td align="left">Japan</td>
-                  <td align="left">Regulatory compliance and GHG
-            management</td>
-                  <td align="left">Major regulation in Japan</td>
-                </tr>
-              </tbody>
-            </table>
-          </table-wrap>
+            <fig id="tbl-emissions-nb-article">
+              <caption>
+                <p>Table 2: Overview of Climate Change and GHG Emissions
+      Measurement and Verification Frameworks</p>
+              </caption>
+              <table-wrap>
+                <table>
+                  <thead>
+                    <tr>
+                      <th align="left">Region</th>
+                      <th align="left">Standard</th>
+                      <th align="left">Scope</th>
+                      <th align="left">Coverage</th>
+                      <th align="left">Purpose</th>
+                      <th align="left">Uptake</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">Global</td>
+                      <td align="left">Greenhouse Gas Protocol (GHG
+              Protocol)</td>
+                      <td align="left">Corporate, Project, Value Chain (Scope 1,
+              2, 3)</td>
+                      <td align="left">Global</td>
+                      <td align="left">Provide standardized approach for GHG
+              accounting transparency consistency</td>
+                      <td align="left">Widely adopted by businesses,
+              governments, NGOs</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Global</td>
+                      <td align="left">ISO 14064</td>
+                      <td align="left">Organization (Part 1), Project (Part 2),
+              Verification (Part 3)</td>
+                      <td align="left">Global</td>
+                      <td align="left">Guidelines for quantifying, reporting,
+              and verifying GHG emissions</td>
+                      <td align="left">Widely recognized and implemented
+              globally</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Europe</td>
+                      <td align="left">EU Emissions Trading System (EU ETS)</td>
+                      <td align="left">Cap-and-trade system for power, industry,
+              aviation</td>
+                      <td align="left">Europe</td>
+                      <td align="left">Regulate and reduce GHG emissions through
+              a cap-and-trade system</td>
+                      <td align="left">Major compliance tool in Europe</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Africa</td>
+                      <td align="left">African Regional Standard (ARS 902)</td>
+                      <td align="left">GHG emissions inventory</td>
+                      <td align="left">Africa</td>
+                      <td align="left">Standardized approach for GHG emissions
+              inventory</td>
+                      <td align="left">Increasing adoption across African
+              countries</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Africa</td>
+                      <td align="left">South Africa’s NGER Regulations</td>
+                      <td align="left">Mandatory GHG reporting</td>
+                      <td align="left">South Africa</td>
+                      <td align="left">Regulatory compliance and GHG
+              management</td>
+                      <td align="left">Key regulation in South Africa</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Americas</td>
+                      <td align="left">California Cap-and-Trade Program</td>
+                      <td align="left">Cap-and-trade system for emissions</td>
+                      <td align="left">United States (California)</td>
+                      <td align="left">Regulate and reduce GHG emissions through
+              a cap-and-trade system</td>
+                      <td align="left">Major compliance tool in California</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Americas</td>
+                      <td align="left">Climate Registry General Reporting
+              Protocol (GRP)</td>
+                      <td align="left">Voluntary GHG reporting</td>
+                      <td align="left">Americas</td>
+                      <td align="left">Standardize GHG emissions reporting for
+              voluntary programs</td>
+                      <td align="left">Widely used in North America</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Asia Pacific</td>
+                      <td align="left">Japan’s GHG Accounting and Reporting
+              System</td>
+                      <td align="left">Mandatory GHG reporting</td>
+                      <td align="left">Japan</td>
+                      <td align="left">Regulatory compliance and GHG
+              management</td>
+                      <td align="left">Major regulation in Japan</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </fig>
+          </sec>
         </sec>
         <sec id="measurement-and-verification-of-ecological-health-nb-article">
           <title>4.5 Measurement and verification of ecological health</title>
@@ -3824,115 +3861,121 @@ kable(data[1:8, ],
             </list-item>
           </list>
           <sec specific-use="notebook-content">
-            <code language="css">.small .table {font-size: 10px;}</code>
+            <code language="css">.small .table {font-size: 11px;}</code>
           </sec>
-          <code language="r script">data &lt;- read.csv(file = "mrv-frameworks.csv")
+          <sec specific-use="notebook-content">
+            <code language="r script">data &lt;- read.csv(file = "mrv-frameworks.csv")
 library(knitr)
 kable(data[1:7, ], 
-      caption = "Overview of Measurement and Verification Frameworks focused on Ecological Health.",
+      # caption = "Overview of Measurement and Verification Frameworks focused on Ecological Health.",
       format = "simple",
       booktabs = TRUE,
       align = 'l')</code>
-          <table-wrap>
-            <caption>
-              <p>Overview of Measurement and Verification Frameworks focused
-        on Ecological Health.</p>
-            </caption>
-            <table>
-              <thead>
-                <tr>
-                  <th align="left">Framework</th>
-                  <th align="left">Purpose</th>
-                  <th align="left">Scope</th>
-                  <th align="left">Uptake</th>
-                  <th align="left">Strengths</th>
-                  <th align="left">Weaknesses</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td align="left">UN CBD Indicators</td>
-                  <td align="left">Measures and monitors biodiversity</td>
-                  <td align="left">Species populations, habitat extent,
-            ecosystem health</td>
-                  <td align="left">High; used globally for biodiversity
-            targets</td>
-                  <td align="left">Provides broad biodiversity indicators</td>
-                  <td align="left">May lack specificity for detailed ecosystem
-            health assessments</td>
-                </tr>
-                <tr>
-                  <td align="left">IUCN Red List of Ecosystems</td>
-                  <td align="left">Assesses conservation status of
-            ecosystems</td>
-                  <td align="left">Risk of ecosystem collapse</td>
-                  <td align="left">High; recognized globally</td>
-                  <td align="left">Standardized risk assessment for
-            ecosystems</td>
-                  <td align="left">Primarily focused on risk, not
-            comprehensive health metrics</td>
-                </tr>
-                <tr>
-                  <td align="left">Living Planet Index (LPI)</td>
-                  <td align="left">Tracks changes in global vertebrate species
-            populations</td>
-                  <td align="left">Population trends of vertebrate
-            species</td>
-                  <td align="left">High; widely used by conservation
-            organizations</td>
-                  <td align="left">Provides trends in biodiversity</td>
-                  <td align="left">Limited to vertebrate species, not all
-            biodiversity</td>
-                </tr>
-                <tr>
-                  <td align="left">Natural Capital Protocol</td>
-                  <td align="left">Identifies, measures, and values natural
-            capital impacts</td>
-                  <td align="left">Ecosystems, biodiversity, ecosystem
-            services</td>
-                  <td align="left">Widely accepted in corporate sector</td>
-                  <td align="left">Comprehensive business-oriented impact
-            assessment</td>
-                  <td align="left">May lack detailed ecological metrics</td>
-                </tr>
-                <tr>
-                  <td align="left">Ecosystem Services Framework (ESF)</td>
-                  <td align="left">Assesses and values ecosystem services</td>
-                  <td align="left">Provisioning, regulating, cultural,
-            supporting services</td>
-                  <td align="left">Gaining acceptance in policy-making</td>
-                  <td align="left">Integrates ecological and socio-economic
-            aspects</td>
-                  <td align="left">Implementation can be complex and
-            subjective</td>
-                </tr>
-                <tr>
-                  <td align="left">Biodiversity Intactness Index (BII)</td>
-                  <td align="left">Measures the intactness of biodiversity in
-            a region</td>
-                  <td align="left">Biodiversity at species level</td>
-                  <td align="left">Growing in conservation research</td>
-                  <td align="left">Effective for monitoring biodiversity
-            changes</td>
-                  <td align="left">Focused primarily on biodiversiy, not
-            broader ecological health</td>
-                </tr>
-                <tr>
-                  <td align="left">Accounting for Nature</td>
-                  <td align="left">Measures and reports on the condition of
-            environmental assets</td>
-                  <td align="left">Ecological health of natural resources
-            (soils, vegetation, fauna)</td>
-                  <td align="left">Emerging; primarily in Australia, expanding
-            globally</td>
-                  <td align="left">Standardised ecological health metrics;
-            comprehensive assessment</td>
-                  <td align="left">Limited broader application until further
-            refinement globally</td>
-                </tr>
-              </tbody>
-            </table>
-          </table-wrap>
+            <fig id="tbl-health-nb-article">
+              <caption>
+                <p>Table 3: Overview of Measurement and Verification
+      Frameworks focused on Ecological Health</p>
+              </caption>
+              <table-wrap>
+                <table>
+                  <thead>
+                    <tr>
+                      <th align="left">Framework</th>
+                      <th align="left">Purpose</th>
+                      <th align="left">Scope</th>
+                      <th align="left">Uptake</th>
+                      <th align="left">Strengths</th>
+                      <th align="left">Weaknesses</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">UN CBD Indicators</td>
+                      <td align="left">Measures and monitors biodiversity</td>
+                      <td align="left">Species populations, habitat extent,
+              ecosystem health</td>
+                      <td align="left">High; used globally for biodiversity
+              targets</td>
+                      <td align="left">Provides broad biodiversity
+              indicators</td>
+                      <td align="left">May lack specificity for detailed
+              ecosystem health assessments</td>
+                    </tr>
+                    <tr>
+                      <td align="left">IUCN Red List of Ecosystems</td>
+                      <td align="left">Assesses conservation status of
+              ecosystems</td>
+                      <td align="left">Risk of ecosystem collapse</td>
+                      <td align="left">High; recognized globally</td>
+                      <td align="left">Standardized risk assessment for
+              ecosystems</td>
+                      <td align="left">Primarily focused on risk, not
+              comprehensive health metrics</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Living Planet Index (LPI)</td>
+                      <td align="left">Tracks changes in global vertebrate
+              species populations</td>
+                      <td align="left">Population trends of vertebrate
+              species</td>
+                      <td align="left">High; widely used by conservation
+              organizations</td>
+                      <td align="left">Provides trends in biodiversity</td>
+                      <td align="left">Limited to vertebrate species, not all
+              biodiversity</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Natural Capital Protocol</td>
+                      <td align="left">Identifies, measures, and values natural
+              capital impacts</td>
+                      <td align="left">Ecosystems, biodiversity, ecosystem
+              services</td>
+                      <td align="left">Widely accepted in corporate sector</td>
+                      <td align="left">Comprehensive business-oriented impact
+              assessment</td>
+                      <td align="left">May lack detailed ecological metrics</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Ecosystem Services Framework (ESF)</td>
+                      <td align="left">Assesses and values ecosystem
+              services</td>
+                      <td align="left">Provisioning, regulating, cultural,
+              supporting services</td>
+                      <td align="left">Gaining acceptance in policy-making</td>
+                      <td align="left">Integrates ecological and socio-economic
+              aspects</td>
+                      <td align="left">Implementation can be complex and
+              subjective</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Biodiversity Intactness Index (BII)</td>
+                      <td align="left">Measures the intactness of biodiversity
+              in a region</td>
+                      <td align="left">Biodiversity at species level</td>
+                      <td align="left">Growing in conservation research</td>
+                      <td align="left">Effective for monitoring biodiversity
+              changes</td>
+                      <td align="left">Focused primarily on biodiversiy, not
+              broader ecological health</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Accounting for Nature</td>
+                      <td align="left">Measures and reports on the condition of
+              environmental assets</td>
+                      <td align="left">Ecological health of natural resources
+              (soils, vegetation, fauna)</td>
+                      <td align="left">Emerging; primarily in Australia,
+              expanding globally</td>
+                      <td align="left">Standardised ecological health metrics;
+              comprehensive assessment</td>
+                      <td align="left">Limited broader application until further
+              refinement globally</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </fig>
+          </sec>
           <list list-type="order">
             <list-item>
               <label>36.</label>
@@ -4005,184 +4048,195 @@ kable(data[1:7, ],
           <sec specific-use="notebook-content">
             <code language="css">.small .table {font-size: 10px;}</code>
           </sec>
-          <code language="r script">data &lt;- read.csv(file = "social-frameworks.csv")
+          <sec specific-use="notebook-content">
+            <code language="r script">data &lt;- read.csv(file = "social-frameworks.csv")
 library(knitr)
 kable(data[1:10, ], 
-      caption = "Overview of Measurement and Verification Frameworks for Social Impact.",
+      # caption = "Overview of Measurement and Verification Frameworks for Social Impact.",
       format = "simple",
       booktabs = TRUE,
       align = 'l')</code>
-          <table-wrap>
-            <caption>
-              <p>Overview of Measurement and Verification Frameworks for
-        Social Impact.</p>
-            </caption>
-            <table>
-              <thead>
-                <tr>
-                  <th align="left">Framework</th>
-                  <th align="left">Focus</th>
-                  <th align="left">Average</th>
-                  <th align="left">MRV</th>
-                  <th align="left">Overlap.Gaps</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td align="left">IRIS+ by GIIN</td>
-                  <td align="left">Provide a comprehensive catalog of social,
-            environmental, and financial performance metrics. Global;
-            diverse sectors such as education, healthcare, and economic
-            development</td>
-                  <td align="left">Standardised metrics, consistent data
-            collection, self-assessment, third-party audits.</td>
-                  <td align="left">Highly accepted globally among impact
-            investors and financial institutions.</td>
-                  <td align="left">Overlaps with other frameworks like IMP.
-            Gaps in sector-specific metrics for niche areas.</td>
-                </tr>
-                <tr>
-                  <td align="left">Social Performance Task Force (SPTF)</td>
-                  <td align="left">Provides standards and guidelines for
-            assessing social performance in microfinance and inclusive
-            finance sectors. Global; specific to microfinance and
-            inclusive finance sectors</td>
-                  <td align="left">Indicators for outreach, client protection,
-            social responsibility, self-reporting, external audits.</td>
-                  <td align="left">Widely accepted in the microfinance
-            sector.</td>
-                  <td align="left">Overlaps with sector-specific stndards like
-            the Universal Standards for Social Performance Management.
-            Gaps in the broader financial inclusion metrics.</td>
-                </tr>
-                <tr>
-                  <td align="left">Impact Management Project (IMP)</td>
-                  <td align="left">Provides a consensus on how to measure,
-            manage, and report impacts on people and the planet. Global;
-            comprehensive coverage across multiple sectors and impact
-            themes.</td>
-                  <td align="left">Five dimensions of impact: what, who, how
-            much, contribution, risk; self-assessment, peer
-            reviews.</td>
-                  <td align="left">Highly accepted among impact investors and
-            financial institutions.</td>
-                  <td align="left">Overlaps with IRIS+ and other impact
-            measurement frameworks. Gaps in detailed sector-specific
-            guidelines.</td>
-                </tr>
-                <tr>
-                  <td align="left">B Impact Assessment (BIA) by B Lab</td>
-                  <td align="left">Assess social and environmental performance
-            of companies, focusing on governance, workers, community,
-            environment, and customers. Global; socially responsible
-            business across sectors.</td>
-                  <td align="left">Structured questionnaire, comprehensive
-            assessment, third-party audits for B Corp
-            certification.</td>
-                  <td align="left">High acceptance among socially responsible
-            businesses and investors.</td>
-                  <td align="left">Overlaps with ESG frameworks. Gaps include
-            the depth of impact measurement in specific sectors.</td>
-                </tr>
-                <tr>
-                  <td align="left">Social Return on Investment (SROI)</td>
-                  <td align="left">Measures social value created by
-            translating social outcomes into monetary values. Global;
-            applicable to community development, education, healthcare,
-            and more.</td>
-                  <td align="left">Detailed data on inputs, outputs, outcomes,
-            financial proxies, stakeholder engagement, third-party
-            validation.</td>
-                  <td align="left">Growing acceptance, particularly in the
-            non-profit and public sectors.</td>
-                  <td align="left">Overlaps with cost-benefit analysis
-            approaches. Gaps include challenges in the assigning
-            monetary values to all social outcomes.</td>
-                </tr>
-                <tr>
-                  <td align="left">FC’s Operating Principles for Impact
-            Management</td>
-                  <td align="left">Provides a common understanding of impact
-            investing among market players. Global; applicable at
-            corporate, fund or investment vehicle levels. Consists of 9
-            principles divided into 5 steps, including Independent
-            Verification</td>
-                  <td align="left">Annual disclosures, independent
-            verification, payment of a registration fee.</td>
-                  <td align="left">High acceptance among banks, DFIs,
-            government-backed investment corporations, MDBs,
-            non-profits, asset managers, and investment funds.</td>
-                  <td align="left">Overlaps with other impact frameworks like
-            GIIN and IMP. Efforts are ongoing to harmonize these
-            principles with other frameworks.</td>
-                </tr>
-                <tr>
-                  <td align="left">UNEP-FI</td>
-                  <td align="left">Partnership between the UN and the global
-            financial sector including banks, insurers and investors.
-            Supports PRI, PSI and PRB. Provides tools like Impact
-            Investing Market Map, Corporate Impact Analysis Tool, and
-            Portfolio Impact Analysis Tool for Banks</td>
-                  <td align="left">Tools use structured assessment and scoring
-            systems based on predefined criteria and KPIs.</td>
-                  <td align="left">High acceptance in the financial sector,
-            especially among banks and insurers.</td>
-                  <td align="left">Overlaps with SDG-related frameworks and
-            industry-specific standards. Gaps in comprehensive
-            sector-specific metrics for niche areas.</td>
-                </tr>
-                <tr>
-                  <td align="left">DCED Standard</td>
-                  <td align="left">Provides a tool for monitoring and
-            evaluation of development and programmatic projects. Focuses
-            on poverty alleviation through private sector
-            development.</td>
-                  <td align="left">Structured intervention guide with
-            intervention summary, results chain, reulsts measurement
-            plan, and measurements and calculations.</td>
-                  <td align="left">Growing acceptance among government,
-            philanthropic, and multilateral agencies working in the
-            private sector development.</td>
-                  <td align="left">Overlaps with other devleopment-focused
-            frameworks. Gaps in tailored metrics for specific impact
-            investing scenarios.</td>
-                </tr>
-                <tr>
-                  <td align="left">UNEP-FI Corporate Impact Analysis Tool
-            (CIAT)</td>
-                  <td align="left">Enables financial institutions to assess
-            the corporate impact of clients and investee companies.
-            Based on the Positive Impact Approach, it is designed for
-            use by larger concerns (Middle Market, Corporates, and
-            MNCs).</td>
-                  <td align="left">Structured Excel spreadsheet with various
-            tabs explaining methodology and use, scoring system with
-            pre-determined and user-picked weights and guidelines.</td>
-                  <td align="left">Growing acceptance among large corporations
-            and financial institutions.</td>
-                  <td align="left">Overlaps with other corporate impact
-            assessment tools. Gaps in tailored metrics for smaller
-            enterprises and specific sectors.</td>
-                </tr>
-                <tr>
-                  <td align="left">UNEP-FI Portfolio Impact Analysis Tool
-            (PIAT)</td>
-                  <td align="left">Targets banks, assesses the impact of a
-            given bank’s portfolio, helps banks report and shape their
-            portfolios for positive impact over time. Uses the 22 areas
-            of the Impact Radar.</td>
-                  <td align="left">Input spreadsheets for Bank Cartography and
-            Country Needs Scores, coupled with predefined impact maps
-            and user inputs to assess positive and negative impacts</td>
-                  <td align="left">High acceptance among banks, particularly
-            those committed to the PRB framework.</td>
-                  <td align="left">Overlaps with other banking-specific impact
-            assessment tools. Gaps in comprehensive sector-specific
-            metrics for non-banking financial institutions.</td>
-                </tr>
-              </tbody>
-            </table>
-          </table-wrap>
+            <fig id="tbl-impact-nb-article">
+              <caption>
+                <p>Table 4: Overview of Measurement and Verification
+      Frameworks for Social Impact</p>
+              </caption>
+              <table-wrap>
+                <table>
+                  <thead>
+                    <tr>
+                      <th align="left">Framework</th>
+                      <th align="left">Focus</th>
+                      <th align="left">Average</th>
+                      <th align="left">MRV</th>
+                      <th align="left">Overlap.Gaps</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left">IRIS+ by GIIN</td>
+                      <td align="left">Provide a comprehensive catalog of
+              social, environmental, and financial performance metrics.
+              Global; diverse sectors such as education, healthcare, and
+              economic development</td>
+                      <td align="left">Standardised metrics, consistent data
+              collection, self-assessment, third-party audits.</td>
+                      <td align="left">Highly accepted globally among impact
+              investors and financial institutions.</td>
+                      <td align="left">Overlaps with other frameworks like IMP.
+              Gaps in sector-specific metrics for niche areas.</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Social Performance Task Force (SPTF)</td>
+                      <td align="left">Provides standards and guidelines for
+              assessing social performance in microfinance and inclusive
+              finance sectors. Global; specific to microfinance and
+              inclusive finance sectors</td>
+                      <td align="left">Indicators for outreach, client
+              protection, social responsibility, self-reporting,
+              external audits.</td>
+                      <td align="left">Widely accepted in the microfinance
+              sector.</td>
+                      <td align="left">Overlaps with sector-specific stndards
+              like the Universal Standards for Social Performance
+              Management. Gaps in the broader financial inclusion
+              metrics.</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Impact Management Project (IMP)</td>
+                      <td align="left">Provides a consensus on how to measure,
+              manage, and report impacts on people and the planet.
+              Global; comprehensive coverage across multiple sectors and
+              impact themes.</td>
+                      <td align="left">Five dimensions of impact: what, who, how
+              much, contribution, risk; self-assessment, peer
+              reviews.</td>
+                      <td align="left">Highly accepted among impact investors
+              and financial institutions.</td>
+                      <td align="left">Overlaps with IRIS+ and other impact
+              measurement frameworks. Gaps in detailed sector-specific
+              guidelines.</td>
+                    </tr>
+                    <tr>
+                      <td align="left">B Impact Assessment (BIA) by B Lab</td>
+                      <td align="left">Assess social and environmental
+              performance of companies, focusing on governance, workers,
+              community, environment, and customers. Global; socially
+              responsible business across sectors.</td>
+                      <td align="left">Structured questionnaire, comprehensive
+              assessment, third-party audits for B Corp
+              certification.</td>
+                      <td align="left">High acceptance among socially
+              responsible businesses and investors.</td>
+                      <td align="left">Overlaps with ESG frameworks. Gaps
+              include the depth of impact measurement in specific
+              sectors.</td>
+                    </tr>
+                    <tr>
+                      <td align="left">Social Return on Investment (SROI)</td>
+                      <td align="left">Measures social value created by
+              translating social outcomes into monetary values. Global;
+              applicable to community development, education,
+              healthcare, and more.</td>
+                      <td align="left">Detailed data on inputs, outputs,
+              outcomes, financial proxies, stakeholder engagement,
+              third-party validation.</td>
+                      <td align="left">Growing acceptance, particularly in the
+              non-profit and public sectors.</td>
+                      <td align="left">Overlaps with cost-benefit analysis
+              approaches. Gaps include challenges in the assigning
+              monetary values to all social outcomes.</td>
+                    </tr>
+                    <tr>
+                      <td align="left">FC’s Operating Principles for Impact
+              Management</td>
+                      <td align="left">Provides a common understanding of impact
+              investing among market players. Global; applicable at
+              corporate, fund or investment vehicle levels. Consists of
+              9 principles divided into 5 steps, including Independent
+              Verification</td>
+                      <td align="left">Annual disclosures, independent
+              verification, payment of a registration fee.</td>
+                      <td align="left">High acceptance among banks, DFIs,
+              government-backed investment corporations, MDBs,
+              non-profits, asset managers, and investment funds.</td>
+                      <td align="left">Overlaps with other impact frameworks
+              like GIIN and IMP. Efforts are ongoing to harmonize these
+              principles with other frameworks.</td>
+                    </tr>
+                    <tr>
+                      <td align="left">UNEP-FI</td>
+                      <td align="left">Partnership between the UN and the global
+              financial sector including banks, insurers and investors.
+              Supports PRI, PSI and PRB. Provides tools like Impact
+              Investing Market Map, Corporate Impact Analysis Tool, and
+              Portfolio Impact Analysis Tool for Banks</td>
+                      <td align="left">Tools use structured assessment and
+              scoring systems based on predefined criteria and
+              KPIs.</td>
+                      <td align="left">High acceptance in the financial sector,
+              especially among banks and insurers.</td>
+                      <td align="left">Overlaps with SDG-related frameworks and
+              industry-specific standards. Gaps in comprehensive
+              sector-specific metrics for niche areas.</td>
+                    </tr>
+                    <tr>
+                      <td align="left">DCED Standard</td>
+                      <td align="left">Provides a tool for monitoring and
+              evaluation of development and programmatic projects.
+              Focuses on poverty alleviation through private sector
+              development.</td>
+                      <td align="left">Structured intervention guide with
+              intervention summary, results chain, reulsts measurement
+              plan, and measurements and calculations.</td>
+                      <td align="left">Growing acceptance among government,
+              philanthropic, and multilateral agencies working in the
+              private sector development.</td>
+                      <td align="left">Overlaps with other devleopment-focused
+              frameworks. Gaps in tailored metrics for specific impact
+              investing scenarios.</td>
+                    </tr>
+                    <tr>
+                      <td align="left">UNEP-FI Corporate Impact Analysis Tool
+              (CIAT)</td>
+                      <td align="left">Enables financial institutions to assess
+              the corporate impact of clients and investee companies.
+              Based on the Positive Impact Approach, it is designed for
+              use by larger concerns (Middle Market, Corporates, and
+              MNCs).</td>
+                      <td align="left">Structured Excel spreadsheet with various
+              tabs explaining methodology and use, scoring system with
+              pre-determined and user-picked weights and
+              guidelines.</td>
+                      <td align="left">Growing acceptance among large
+              corporations and financial institutions.</td>
+                      <td align="left">Overlaps with other corporate impact
+              assessment tools. Gaps in tailored metrics for smaller
+              enterprises and specific sectors.</td>
+                    </tr>
+                    <tr>
+                      <td align="left">UNEP-FI Portfolio Impact Analysis Tool
+              (PIAT)</td>
+                      <td align="left">Targets banks, assesses the impact of a
+              given bank’s portfolio, helps banks report and shape their
+              portfolios for positive impact over time. Uses the 22
+              areas of the Impact Radar.</td>
+                      <td align="left">Input spreadsheets for Bank Cartography
+              and Country Needs Scores, coupled with predefined impact
+              maps and user inputs to assess positive and negative
+              impacts</td>
+                      <td align="left">High acceptance among banks, particularly
+              those committed to the PRB framework.</td>
+                      <td align="left">Overlaps with other banking-specific
+              impact assessment tools. Gaps in comprehensive
+              sector-specific metrics for non-banking financial
+              institutions.</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </fig>
+          </sec>
         </sec>
       </sec>
       <sec id="market-growth-and-reporting-trends-in-sustainable-investing-nb-article">
@@ -4680,403 +4734,425 @@ kable(data[1:10, ],
       <sec id="appendix-nb-article">
         <title>7. Appendix</title>
         <sec specific-use="notebook-content">
-          <code language="css">.small .table {font-size: 10px;}</code>
+          <code language="css">.small .table {font-size: 11px;}</code>
         </sec>
-        <code language="r script">data &lt;- read.csv(file = "Figure-7.csv")
+        <sec specific-use="notebook-content">
+          <code language="r script">data &lt;- read.csv(file = "Figure-7.csv")
 library(knitr)
 kable(data[1:8, ], 
-      caption = "Overview of ESG Strategies",
+      # caption = "Overview of ESG Strategies",
       format = "simple",
       booktabs = TRUE,
       align = 'l')</code>
-        <table-wrap>
-          <caption>
-            <p>Overview of ESG Strategies</p>
-          </caption>
-          <table>
-            <thead>
-              <tr>
-                <th align="left">Strategy</th>
-                <th align="left">Description</th>
-                <th align="left">Geography</th>
-                <th align="left">Acceptance</th>
-                <th align="left">Weaknesses</th>
-                <th align="left">Strengths</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="left">Negative Screening</td>
-                <td align="left">Avoid the worst performers</td>
-                <td align="left">Global</td>
-                <td align="left">Widely accepted, especially in Europe</td>
-                <td align="left">May exclude potentially profitable
-          investments</td>
-                <td align="left">Simple to implement, reduces reputational
-          risk</td>
-              </tr>
-              <tr>
-                <td align="left">Norms-based Screening</td>
-                <td align="left">Screening based on international norms and
-          standards</td>
-                <td align="left">Global</td>
-                <td align="left">Growing acceptance, especially among
-          institutional investors</td>
-                <td align="left">Can be subjective, may miss new emerging
-          risks</td>
-                <td align="left">Aligns with international standards, enhances
-          ethical alignment</td>
-              </tr>
-              <tr>
-                <td align="left">Best-in-Class Selection / Positive
-          Screening</td>
-                <td align="left">Investing in companies with superior ESG
-          performance within their sector</td>
-                <td align="left">Global</td>
-                <td align="left">Widely accepted, especially in Europe</td>
-                <td align="left">Requires rigorous data and analysis, may lead
-          to over-diversification</td>
-                <td align="left">Encourages industry leaders, promotes best
-          practices</td>
-              </tr>
-              <tr>
-                <td align="left">ESG Integration</td>
-                <td align="left">Integrating ESG factors into financial
-          analysis and investment decisions</td>
-                <td align="left">Global</td>
-                <td align="left">Highly accepted, becoming standard
-          practice</td>
-                <td align="left">Requires comprehensive data integration</td>
-                <td align="left">Holistic approach, aligns with overall
-          corporate strategy</td>
-              </tr>
-              <tr>
-                <td align="left">Proxy Voting</td>
-                <td align="left">Formally expressing approval or disapproval
-          through voting on resolutions and proposing shareholder
-          resolutions on specific ESG issues.</td>
-                <td align="left">Global</td>
-                <td align="left">Widely accepted, especially in activist
-          funds</td>
-                <td align="left">Can be resource-intensive, may have slow
-          impact</td>
-                <td align="left">Promotes active ownership, can lead to
-          long-term improvements</td>
-              </tr>
-              <tr>
-                <td align="left">Engagement</td>
-                <td align="left">Engaging with companies to influence their
-          ESG practices</td>
-                <td align="left">Global</td>
-                <td align="left">Widely accepted, especially in activist
-          funds</td>
-                <td align="left">Can be resource-intensive, may have slow
-          impact</td>
-                <td align="left">Promotes active ownership, can lead to
-          long-term improvements</td>
-              </tr>
-              <tr>
-                <td align="left">ESG Momentum Investing</td>
-                <td align="left">Investing in companies improving their ESG
-          performance</td>
-                <td align="left">Europe, North America</td>
-                <td align="left">Emerging strategy</td>
-                <td align="left">Requires detailed performance tracking</td>
-                <td align="left">Encourages continuous improvement, dynamic
-          approach</td>
-              </tr>
-              <tr>
-                <td align="left">Negative/Positive Tilt</td>
-                <td align="left">Adjusting portfolio weight based on ESG
-          criteria</td>
-                <td align="left">Global</td>
-                <td align="left">Growing among passive and index
-          investors</td>
-                <td align="left">Can lead to sub-optimal diversification</td>
-                <td align="left">Enhances ESG exposure, flexible
-          implementation</td>
-              </tr>
-            </tbody>
-          </table>
-        </table-wrap>
-        <sec specific-use="notebook-content">
-          <code language="css">.small .table {font-size: 10px;}</code>
+          <fig id="tbl-ESGS-nb-article">
+            <caption>
+              <p>Table 5: Overview of ESG Strategies</p>
+            </caption>
+            <table-wrap>
+              <table>
+                <thead>
+                  <tr>
+                    <th align="left">Strategy</th>
+                    <th align="left">Description</th>
+                    <th align="left">Geography</th>
+                    <th align="left">Acceptance</th>
+                    <th align="left">Weaknesses</th>
+                    <th align="left">Strengths</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">Negative Screening</td>
+                    <td align="left">Avoid the worst performers</td>
+                    <td align="left">Global</td>
+                    <td align="left">Widely accepted, especially in Europe</td>
+                    <td align="left">May exclude potentially profitable
+            investments</td>
+                    <td align="left">Simple to implement, reduces reputational
+            risk</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Norms-based Screening</td>
+                    <td align="left">Screening based on international norms and
+            standards</td>
+                    <td align="left">Global</td>
+                    <td align="left">Growing acceptance, especially among
+            institutional investors</td>
+                    <td align="left">Can be subjective, may miss new emerging
+            risks</td>
+                    <td align="left">Aligns with international standards,
+            enhances ethical alignment</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Best-in-Class Selection / Positive
+            Screening</td>
+                    <td align="left">Investing in companies with superior ESG
+            performance within their sector</td>
+                    <td align="left">Global</td>
+                    <td align="left">Widely accepted, especially in Europe</td>
+                    <td align="left">Requires rigorous data and analysis, may
+            lead to over-diversification</td>
+                    <td align="left">Encourages industry leaders, promotes best
+            practices</td>
+                  </tr>
+                  <tr>
+                    <td align="left">ESG Integration</td>
+                    <td align="left">Integrating ESG factors into financial
+            analysis and investment decisions</td>
+                    <td align="left">Global</td>
+                    <td align="left">Highly accepted, becoming standard
+            practice</td>
+                    <td align="left">Requires comprehensive data
+            integration</td>
+                    <td align="left">Holistic approach, aligns with overall
+            corporate strategy</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Proxy Voting</td>
+                    <td align="left">Formally expressing approval or disapproval
+            through voting on resolutions and proposing shareholder
+            resolutions on specific ESG issues.</td>
+                    <td align="left">Global</td>
+                    <td align="left">Widely accepted, especially in activist
+            funds</td>
+                    <td align="left">Can be resource-intensive, may have slow
+            impact</td>
+                    <td align="left">Promotes active ownership, can lead to
+            long-term improvements</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Engagement</td>
+                    <td align="left">Engaging with companies to influence their
+            ESG practices</td>
+                    <td align="left">Global</td>
+                    <td align="left">Widely accepted, especially in activist
+            funds</td>
+                    <td align="left">Can be resource-intensive, may have slow
+            impact</td>
+                    <td align="left">Promotes active ownership, can lead to
+            long-term improvements</td>
+                  </tr>
+                  <tr>
+                    <td align="left">ESG Momentum Investing</td>
+                    <td align="left">Investing in companies improving their ESG
+            performance</td>
+                    <td align="left">Europe, North America</td>
+                    <td align="left">Emerging strategy</td>
+                    <td align="left">Requires detailed performance tracking</td>
+                    <td align="left">Encourages continuous improvement, dynamic
+            approach</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Negative/Positive Tilt</td>
+                    <td align="left">Adjusting portfolio weight based on ESG
+            criteria</td>
+                    <td align="left">Global</td>
+                    <td align="left">Growing among passive and index
+            investors</td>
+                    <td align="left">Can lead to sub-optimal
+            diversification</td>
+                    <td align="left">Enhances ESG exposure, flexible
+            implementation</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </fig>
         </sec>
-        <code language="r script">data &lt;- read.csv(file = "Figure-8.csv")
+        <sec specific-use="notebook-content">
+          <code language="css">.small .table {font-size: 11px;}</code>
+        </sec>
+        <sec specific-use="notebook-content">
+          <code language="r script">data &lt;- read.csv(file = "Figure-8.csv")
 library(knitr)
 kable(data[1:7, ], 
-      caption = "Overview of Impact Investment Strategies",
+      # caption = "Overview of Impact Investment Strategies",
       format = "simple",
       booktabs = TRUE,
       align = 'l')</code>
-        <table-wrap>
-          <caption>
-            <p>Overview of Impact Investment Strategies</p>
-          </caption>
-          <table>
-            <thead>
-              <tr>
-                <th align="left">Strategy</th>
-                <th align="left">Description</th>
-                <th align="left">Geography</th>
-                <th align="left">Acceptance</th>
-                <th align="left">Weaknesses</th>
-                <th align="left">Strengths</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="left">Sustainability Themed</td>
-                <td align="left">Investing in themes or sectors related to
-          sustainability</td>
-                <td align="left">Europe, Asia, North America</td>
-                <td align="left">High acceptance, especially in thematic
-          funds</td>
-                <td align="left">Can be niche, might limit
-          diversification</td>
-                <td align="left">Targets specific sustainability outcomes,
-          appeals to impact-focused investors</td>
-              </tr>
-              <tr>
-                <td align="left">Impact Investing</td>
-                <td align="left">Investing to generate measurable social or
-          environmental impact</td>
-                <td align="left">Global</td>
-                <td align="left">Growing, especially among social impact
-          funds</td>
-                <td align="left">Often involves higher risk, long time
-          horizons</td>
-                <td align="left">Directly addresses social and environmental
-          issues, measurable impact</td>
-              </tr>
-              <tr>
-                <td align="left">Community Investing</td>
-                <td align="left">Direct investments in community development
-          projects</td>
-                <td align="left">North America, Global</td>
-                <td align="left">Growing in popularity among socially
-          conscious investors</td>
-                <td align="left">Higher risk, often lower returns</td>
-                <td align="left">Supports local communities, social
-          impact</td>
-              </tr>
-              <tr>
-                <td align="left">Transition Investing</td>
-                <td align="left">Supporting companies in transitioning to
-          sustainable practices</td>
-                <td align="left">Europe, Asia</td>
-                <td align="left">Emerging strategy</td>
-                <td align="left">Risk of transition failure, can be capital
-          intensive</td>
-                <td align="left">Facilitates sustainability transitions, can
-          drive significant change</td>
-              </tr>
-              <tr>
-                <td align="left">Climate Change Mitigation</td>
-                <td align="left">Investments aimed at reducing carbon
-          emissions</td>
-                <td align="left">Global</td>
-                <td align="left">High acceptance among climate-focused
-          funds</td>
-                <td align="left">May be narrow in focus, requires thorough
-          impact assessment</td>
-                <td align="left">Addresses climate change directly, supports
-          global goals</td>
-              </tr>
-              <tr>
-                <td align="left">Circular Economy Investing</td>
-                <td align="left">Investing in companies promoting resource
-          efficiency and waste reduction</td>
-                <td align="left">Europe, Asia</td>
-                <td align="left">Growing acceptance</td>
-                <td align="left">Can be niche, may require specific
-          expertise</td>
-                <td align="left">Supports sustainable resource use, innovative
-          business models</td>
-              </tr>
-              <tr>
-                <td align="left">SDGs Investing</td>
-                <td align="left">Aligning investments with the UN’s
-          Sustainable Development Goals</td>
-                <td align="left">Global</td>
-                <td align="left">Increasing, especially among impact
-          investors</td>
-                <td align="left">Can be broad, difficult to measure
-          impact</td>
-                <td align="left">Aligns with global development goals, broad
-          impact</td>
-              </tr>
-            </tbody>
-          </table>
-        </table-wrap>
-        <sec specific-use="notebook-content">
-          <code language="css">.small .table {font-size: 10px;}</code>
+          <fig id="tbl-IIS-nb-article">
+            <caption>
+              <p>Table 6: Overview of Impact Investment
+    Strategies</p>
+            </caption>
+            <table-wrap>
+              <table>
+                <thead>
+                  <tr>
+                    <th align="left">Strategy</th>
+                    <th align="left">Description</th>
+                    <th align="left">Geography</th>
+                    <th align="left">Acceptance</th>
+                    <th align="left">Weaknesses</th>
+                    <th align="left">Strengths</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">Sustainability Themed</td>
+                    <td align="left">Investing in themes or sectors related to
+            sustainability</td>
+                    <td align="left">Europe, Asia, North America</td>
+                    <td align="left">High acceptance, especially in thematic
+            funds</td>
+                    <td align="left">Can be niche, might limit
+            diversification</td>
+                    <td align="left">Targets specific sustainability outcomes,
+            appeals to impact-focused investors</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Impact Investing</td>
+                    <td align="left">Investing to generate measurable social or
+            environmental impact</td>
+                    <td align="left">Global</td>
+                    <td align="left">Growing, especially among social impact
+            funds</td>
+                    <td align="left">Often involves higher risk, long time
+            horizons</td>
+                    <td align="left">Directly addresses social and environmental
+            issues, measurable impact</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Community Investing</td>
+                    <td align="left">Direct investments in community development
+            projects</td>
+                    <td align="left">North America, Global</td>
+                    <td align="left">Growing in popularity among socially
+            conscious investors</td>
+                    <td align="left">Higher risk, often lower returns</td>
+                    <td align="left">Supports local communities, social
+            impact</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Transition Investing</td>
+                    <td align="left">Supporting companies in transitioning to
+            sustainable practices</td>
+                    <td align="left">Europe, Asia</td>
+                    <td align="left">Emerging strategy</td>
+                    <td align="left">Risk of transition failure, can be capital
+            intensive</td>
+                    <td align="left">Facilitates sustainability transitions, can
+            drive significant change</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Climate Change Mitigation</td>
+                    <td align="left">Investments aimed at reducing carbon
+            emissions</td>
+                    <td align="left">Global</td>
+                    <td align="left">High acceptance among climate-focused
+            funds</td>
+                    <td align="left">May be narrow in focus, requires thorough
+            impact assessment</td>
+                    <td align="left">Addresses climate change directly, supports
+            global goals</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Circular Economy Investing</td>
+                    <td align="left">Investing in companies promoting resource
+            efficiency and waste reduction</td>
+                    <td align="left">Europe, Asia</td>
+                    <td align="left">Growing acceptance</td>
+                    <td align="left">Can be niche, may require specific
+            expertise</td>
+                    <td align="left">Supports sustainable resource use,
+            innovative business models</td>
+                  </tr>
+                  <tr>
+                    <td align="left">SDGs Investing</td>
+                    <td align="left">Aligning investments with the UN’s
+            Sustainable Development Goals</td>
+                    <td align="left">Global</td>
+                    <td align="left">Increasing, especially among impact
+            investors</td>
+                    <td align="left">Can be broad, difficult to measure
+            impact</td>
+                    <td align="left">Aligns with global development goals, broad
+            impact</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </fig>
         </sec>
-        <code language="r script">data &lt;- read.csv(file = "Figure-9.csv")
+        <sec specific-use="notebook-content">
+          <code language="css">.small .table {font-size: 11px;}</code>
+        </sec>
+        <sec specific-use="notebook-content">
+          <code language="r script">data &lt;- read.csv(file = "Figure-9.csv")
 library(knitr)
 kable(data[1:5, ], 
-      caption = "Overview of Green Finance and Social Finance",
+     # caption = "Overview of Green Finance and Social Finance",
       format = "simple",
       booktabs = TRUE,
       align = 'l')</code>
-        <table-wrap>
-          <caption>
-            <p>Overview of Green Finance and Social Finance</p>
-          </caption>
-          <table>
-            <thead>
-              <tr>
-                <th align="left">Strategy</th>
-                <th align="left">Description</th>
-                <th align="left">Geography</th>
-                <th align="left">Acceptance</th>
-                <th align="left">Weaknesses</th>
-                <th align="left">Strengths</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="left">Green Bonds</td>
-                <td align="left">Bonds specifically earmarked to fund projects
-          with positive environmental benefits</td>
-                <td align="left">Global</td>
-                <td align="left">Increasing, especially among institutional
-          investors</td>
-                <td align="left">Can be complex to assess impact</td>
-                <td align="left">Direct funding of environmental projects,
-          transparent use of proceeds</td>
-              </tr>
-              <tr>
-                <td align="left">Sustainability Bonds</td>
-                <td align="left">Bonds that finance both environmental and
-          social projects</td>
-                <td align="left">Global</td>
-                <td align="left">Growing in acceptance</td>
-                <td align="left">Requires clear reporting and impact
-          assessment</td>
-                <td align="left">Flexible funding for multiple sustainability
-          projects</td>
-              </tr>
-              <tr>
-                <td align="left">Climate Bonds</td>
-                <td align="left">Bonds aimed at raising capital for climate
-          change mitigation/adaptation</td>
-                <td align="left">Global</td>
-                <td align="left">High acceptance among climate-focused
-          funds</td>
-                <td align="left">Requires stringent verification</td>
-                <td align="left">Directly supports climate initiatives,
-          transparent objectives</td>
-              </tr>
-              <tr>
-                <td align="left">Social Bonds</td>
-                <td align="left">Bonds issued to raise funds for social
-          projects</td>
-                <td align="left">Global</td>
-                <td align="left">Growing in social impact sectors</td>
-                <td align="left">Requires clear impact measurement</td>
-                <td align="left">Addresses social issues directly, transparent
-          use of funds</td>
-              </tr>
-              <tr>
-                <td align="left">Social Impact Bonds</td>
-                <td align="left">Pay-for-success bonds funding social programs
-          with returns based on outcomes</td>
-                <td align="left">Global</td>
-                <td align="left">Emerging strategy, still developing
-          acceptance</td>
-                <td align="left">Complex to structure, outcome-based
-          risks</td>
-                <td align="left">Aligns financial returns with social
-          outcomes</td>
-              </tr>
-            </tbody>
-          </table>
-        </table-wrap>
-        <sec specific-use="notebook-content">
-          <code language="css">.small .table {font-size: 10px;}</code>
+          <fig id="tbl-GFSF-nb-article">
+            <caption>
+              <p>Table 7: Overview of Green Finance and Social
+    Finance</p>
+            </caption>
+            <table-wrap>
+              <table>
+                <thead>
+                  <tr>
+                    <th align="left">Strategy</th>
+                    <th align="left">Description</th>
+                    <th align="left">Geography</th>
+                    <th align="left">Acceptance</th>
+                    <th align="left">Weaknesses</th>
+                    <th align="left">Strengths</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">Green Bonds</td>
+                    <td align="left">Bonds specifically earmarked to fund
+            projects with positive environmental benefits</td>
+                    <td align="left">Global</td>
+                    <td align="left">Increasing, especially among institutional
+            investors</td>
+                    <td align="left">Can be complex to assess impact</td>
+                    <td align="left">Direct funding of environmental projects,
+            transparent use of proceeds</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Sustainability Bonds</td>
+                    <td align="left">Bonds that finance both environmental and
+            social projects</td>
+                    <td align="left">Global</td>
+                    <td align="left">Growing in acceptance</td>
+                    <td align="left">Requires clear reporting and impact
+            assessment</td>
+                    <td align="left">Flexible funding for multiple
+            sustainability projects</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Climate Bonds</td>
+                    <td align="left">Bonds aimed at raising capital for climate
+            change mitigation/adaptation</td>
+                    <td align="left">Global</td>
+                    <td align="left">High acceptance among climate-focused
+            funds</td>
+                    <td align="left">Requires stringent verification</td>
+                    <td align="left">Directly supports climate initiatives,
+            transparent objectives</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Social Bonds</td>
+                    <td align="left">Bonds issued to raise funds for social
+            projects</td>
+                    <td align="left">Global</td>
+                    <td align="left">Growing in social impact sectors</td>
+                    <td align="left">Requires clear impact measurement</td>
+                    <td align="left">Addresses social issues directly,
+            transparent use of funds</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Social Impact Bonds</td>
+                    <td align="left">Pay-for-success bonds funding social
+            programs with returns based on outcomes</td>
+                    <td align="left">Global</td>
+                    <td align="left">Emerging strategy, still developing
+            acceptance</td>
+                    <td align="left">Complex to structure, outcome-based
+            risks</td>
+                    <td align="left">Aligns financial returns with social
+            outcomes</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </fig>
         </sec>
-        <code language="r script">data &lt;- read.csv(file = "Figure-10.csv")
+        <sec specific-use="notebook-content">
+          <code language="css">.small .table {font-size: 11px;}</code>
+        </sec>
+        <sec specific-use="notebook-content">
+          <code language="r script">data &lt;- read.csv(file = "Figure-10.csv")
 library(knitr)
 kable(data[1:5, ], 
-      caption = "Overview of Governance and Ethical Investing.",
+      # caption = "Overview of Governance and Ethical Investing.",
       format = "simple",
       booktabs = TRUE,
       align = 'l')</code>
-        <table-wrap>
-          <caption>
-            <p>Overview of Governance and Ethical Investing.</p>
-          </caption>
-          <table>
-            <thead>
-              <tr>
-                <th align="left">Strategy</th>
-                <th align="left">Description</th>
-                <th align="left">Geography</th>
-                <th align="left">Acceptance</th>
-                <th align="left">Weaknesses</th>
-                <th align="left">Strengths</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="left">Active Ownership</td>
-                <td align="left">Using shareholder power to influence
-          corporate behavior through proxy voting and engagement</td>
-                <td align="left">Global</td>
-                <td align="left">Widely accepted in activist circles</td>
-                <td align="left">Resource-intensive, may face resistance from
-          management</td>
-                <td align="left">Can drive significant corporate change,
-          empowers investors</td>
-              </tr>
-              <tr>
-                <td align="left">Corporate Governance Investing</td>
-                <td align="left">Focusing on companies with strong governance
-          practices</td>
-                <td align="left">Global</td>
-                <td align="left">Growing among governance-focused funds</td>
-                <td align="left">May overlook environmental and social
-          factors</td>
-                <td align="left">Enhances corporate governance, reduces
-          governance risks</td>
-              </tr>
-              <tr>
-                <td align="left">Faith-Based Investing</td>
-                <td align="left">Investments guided by religious or ethical
-          beliefs</td>
-                <td align="left">Global</td>
-                <td align="left">Niche market, specific to certain groups</td>
-                <td align="left">Aligns with investor values, ethical
-          alignment</td>
-                <td align="left"/>
-              </tr>
-              <tr>
-                <td align="left">Moral Investing</td>
-                <td align="left">Avoiding investments in industries or
-          companies that contradict moral values</td>
-                <td align="left">Global</td>
-                <td align="left">Niche market, specific to certain
-          beliefs</td>
-                <td align="left">Ensures investments reflect personal
-          values</td>
-                <td align="left"/>
-              </tr>
-              <tr>
-                <td align="left">Venture Philanthropy</td>
-                <td align="left">Combining venture capital principles with
-          philanthropy to maximize social impact</td>
-                <td align="left">Global</td>
-                <td align="left">Emerging, high potential for social
-          impact</td>
-                <td align="left">Higher risk, may involve lower financial
-          returns</td>
-                <td align="left">Maximizes social impact, innovative funding
-          approach</td>
-              </tr>
-            </tbody>
-          </table>
-        </table-wrap>
+          <fig id="tbl-GEI-nb-article">
+            <caption>
+              <p>Table 8: Overview of Governance and Ethical
+    Investing</p>
+            </caption>
+            <table-wrap>
+              <table>
+                <thead>
+                  <tr>
+                    <th align="left">Strategy</th>
+                    <th align="left">Description</th>
+                    <th align="left">Geography</th>
+                    <th align="left">Acceptance</th>
+                    <th align="left">Weaknesses</th>
+                    <th align="left">Strengths</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">Active Ownership</td>
+                    <td align="left">Using shareholder power to influence
+            corporate behavior through proxy voting and engagement</td>
+                    <td align="left">Global</td>
+                    <td align="left">Widely accepted in activist circles</td>
+                    <td align="left">Resource-intensive, may face resistance
+            from management</td>
+                    <td align="left">Can drive significant corporate change,
+            empowers investors</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Corporate Governance Investing</td>
+                    <td align="left">Focusing on companies with strong
+            governance practices</td>
+                    <td align="left">Global</td>
+                    <td align="left">Growing among governance-focused funds</td>
+                    <td align="left">May overlook environmental and social
+            factors</td>
+                    <td align="left">Enhances corporate governance, reduces
+            governance risks</td>
+                  </tr>
+                  <tr>
+                    <td align="left">Faith-Based Investing</td>
+                    <td align="left">Investments guided by religious or ethical
+            beliefs</td>
+                    <td align="left">Global</td>
+                    <td align="left">Niche market, specific to certain
+            groups</td>
+                    <td align="left">Aligns with investor values, ethical
+            alignment</td>
+                    <td align="left"/>
+                  </tr>
+                  <tr>
+                    <td align="left">Moral Investing</td>
+                    <td align="left">Avoiding investments in industries or
+            companies that contradict moral values</td>
+                    <td align="left">Global</td>
+                    <td align="left">Niche market, specific to certain
+            beliefs</td>
+                    <td align="left">Ensures investments reflect personal
+            values</td>
+                    <td align="left"/>
+                  </tr>
+                  <tr>
+                    <td align="left">Venture Philanthropy</td>
+                    <td align="left">Combining venture capital principles with
+            philanthropy to maximize social impact</td>
+                    <td align="left">Global</td>
+                    <td align="left">Emerging, high potential for social
+            impact</td>
+                    <td align="left">Higher risk, may involve lower financial
+            returns</td>
+                    <td align="left">Maximizes social impact, innovative funding
+            approach</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </fig>
+        </sec>
       </sec>
     </body>
     <back>

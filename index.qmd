@@ -5,16 +5,16 @@ shortauthors: UNSW CSDR
 authors:
   - name: Arlette Schramm
     affiliations:
-      - Centre for Sustainable Development Reform, University of New South Wales (UNSW-CSDR)
+      - UNSW Centre for Sustainable Development Reform
   - name: Marianne Feoli
     affiliations:
-      - UNSW-CSDR
+      - UNSW Centre for Sustainable Development Reform
   - name: Ben Milligan
     orcid: 0000-0003-1313-3956
     corresponding: true
     email: b.milligan@unsw.edu.au
     affiliations:
-      - UNSW-CSDR
+      - UNSW Centre for Sustainable Development Reform
 keywords: 
   - Sustainability Metrics
   - Market Exchanges
@@ -65,7 +65,7 @@ citation:
 
 [^2]: See for example @nature_credits2024.
 
-![Conceptual basis for organising environmental, social and economic metrics aligned to international statistical standards. Source: @united_nations_statistics_division_2024.](media/Picture%201.png)
+![Conceptual basis for organising environmental, social and economic metrics aligned to international statistical standards. Source: @united_nations_statistics_division_2024.](media/Picture%201.png){#fig-SEEA}
 
 # Introduction
 
@@ -97,7 +97,7 @@ citation:
 
 8.  In contrast, ESG reporting focuses on the broader disclosure of organisations' environmental, social, and governance practices. Standards such as those developed by the @gri2021 (GRI), @sasb_2024 (SASB), @tcfd_2024, and the @ghg_protocol_2024 help organisations provide structured and transparent information on their ESG performance, manage related risks, and ensure regulatory compliance. Integrating various strategies within AIX could be beneficial to ensure robust impact measurement and verification, enhancing credibility and effectiveness in driving sustainable development:
 
-![Methodology for market studies on sustainability-related investments. Source: @eurosif_classification_report_2024.](media/Picture%202.png)
+![Methodology for market studies on sustainability-related investments. Source: @eurosif_classification_report_2024.](media/Picture%202.png){#fig-market}
 
 9.  The AIX will need to adhere to the characteristics of each asset and strategy to ensure investments deliver verified social and environmental outcomes alongside financial returns. The assessment should be conducted before investment, with ongoing reporting to measure impact during the investment and the use of appropriate reporting standards for communicating effect in the form of reporting.
 
@@ -115,11 +115,11 @@ citation:
 
 14. The current measurement and verification standards landscape for institutional investment can be differentiated based on the applied strategy (for example, ESG, Triple Bottom Line), overaching goal (for example risk management, reputation, regulatory compliance) or impact dimensions such as climate, ecological health, and social impact (among others). This classification can help identify the relevant standards for each dimension, guiding principles, and frameworks. The impact dimensions cover the primary areas where impacts occur and are reported on, aligning them with the AIX project's objectives. The following illustration highlights the interconnectedness of IRIS+ impact categories and themes as of May 2021 and can help guide meta-governance structures for desired outcomes:
 
-![Interconnectedness of IRIS+ Impact Categories and Themes as of May 2021. Source: [iris.thegiin.org](https://iris.thegiin.org).](media/Picture%203.jpg)
+![Interconnectedness of IRIS+ Impact Categories and Themes as of May 2021. Source: [iris.thegiin.org](https://iris.thegiin.org).](media/Picture%203.jpg){#fig-iris}
 
 15. The following paragraphs discuss different groups of impact dimensions, relevant standards, and guiding frameworks for impact and ESG assessment, where applicable across the following general tiers:
 
-![Illustrative tiers of analytical approaches to impact and ESG assessment](media/Picture%204.png)
+![Illustrative tiers of analytical approaches to impact and ESG assessment](media/Picture%204.png){#fig-approaches}
 
 16. Dividing the structure of the impact assessment within the AIX, pursuant to categories such as those shown in Tier 3 makes is easier to identify and apply the applicable standards for specific types of measurement and verification.
 
@@ -155,14 +155,18 @@ citation:
 ```
 
 ::: small
-```{r echo = FALSE, results = 'asis'}
+```{r echo = FALSE}
+#| label: tbl-standards
+#| tbl-cap: Overview of Climate-related Disclosure and Reporting Standards
 data <- read.csv(file = "sustainability-standards.csv")
 library(knitr)
 kable(data[1:7, ], 
-      caption = "Overview of Climate-related Disclosure and Reporting Standards.",
       format = "simple",
       booktabs = TRUE,
-      align = 'l')
+      align = 'l'#,
+      # caption = "Overview of Climate-related Disclosure and Reporting Standards.",
+      #label = "tbl-standards"
+      )
 ```
 :::
 
@@ -173,11 +177,11 @@ kable(data[1:7, ],
 
 21. The figure below illustrates the role of guiding principles and frameworks for ESG investment assessment from an investor perspective. Their associated indices and assessment support tools are crucial for investors looking to integrate ESG factors into their investment decisions. They help investors assess their portfolio’s sustainability and ethical impacts, driving informed investment strategies.
 
-![Role of guiding principles and frameworks for ESG investment assessment](media/Picture%205.png)
+![Role of guiding principles and frameworks for ESG investment assessment](media/Picture%205.png){#fig-ESG}
 
 22. Impact investment refers to investments made to generate positive, measurable social and environmental benefits alongside a financial return ( @godeke_briaud_2021, @bundesinitiative_impact_investing_2022, @giin_2022). The figure below illustrates the role of key guiding principles and frameworks for assessment of impact investment performance, alongside key measurement and verification approaches.
 
-![Role of guiding principles and frameworks for ESG investment assessment](media/Picture%206.png)
+![Role of guiding principles and frameworks for impact investment assessment](media/Picture%206.png){#fig-impact}
 
 23. @iris_2022 provides a comprehensive global catalogue of metrics impact investors use to measure social, environmental, and financial performance across sectors such as education, healthcare, and economic development. SROI translates social outcomes into monetary values, offering a method to measure social value created by investments in various sectors, including community development and healthcare. SPTF focuses on assessing social performance in the microfinance sector, while BIA evaluates companies' social and environmental performance, emphasising governance, workers, community, environment, and customers (@ceriseSPTF). IMP provides a consensus on measuring, managing, and reporting impacts on people and the planet, covering multiple sectors and impact themes (@impact_management_platform).
 
@@ -199,15 +203,17 @@ kable(data[1:7, ],
 ```
 
 ```{css echo = FALSE}
-.small .table {font-size: 10px;}
+.small .table {font-size: 11px;}
 ```
 
 ::: small
-```{r echo = FALSE, results = 'asis'}
+```{r echo = FALSE}
+#| label: tbl-emissions
+#| tbl-cap: Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks
 data <- read.csv(file = "emissions-standards.csv")
 library(knitr)
 kable(data[1:8, ], 
-      caption = "Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks.",
+      # caption = "Overview of Climate Change and GHG Emissions Measurement and Verification Frameworks.",
       format = "simple",
       booktabs = TRUE,
       align = 'l')
@@ -245,15 +251,17 @@ kable(data[1:8, ],
 ```
 
 ```{css echo = FALSE}
-.small .table {font-size: 10px;}
+.small .table {font-size: 11px;}
 ```
 
 ::: small
-```{r echo = FALSE, results = 'asis'}
+```{r echo = FALSE}
+#| label: tbl-health
+#| tbl-cap: Overview of Measurement and Verification Frameworks focused on Ecological Health
 data <- read.csv(file = "mrv-frameworks.csv")
 library(knitr)
 kable(data[1:7, ], 
-      caption = "Overview of Measurement and Verification Frameworks focused on Ecological Health.",
+      # caption = "Overview of Measurement and Verification Frameworks focused on Ecological Health.",
       format = "simple",
       booktabs = TRUE,
       align = 'l')
@@ -287,11 +295,13 @@ kable(data[1:7, ],
 ```
 
 ::: small
-```{r echo = FALSE, results = 'asis'}
+```{r echo = FALSE}
+#| label: tbl-impact
+#| tbl-cap: Overview of Measurement and Verification Frameworks for Social Impact
 data <- read.csv(file = "social-frameworks.csv")
 library(knitr)
 kable(data[1:10, ], 
-      caption = "Overview of Measurement and Verification Frameworks for Social Impact.",
+      # caption = "Overview of Measurement and Verification Frameworks for Social Impact.",
       format = "simple",
       booktabs = TRUE,
       align = 'l')
@@ -382,15 +392,17 @@ kable(data[1:10, ],
 ```
 
 ```{css echo = FALSE}
-.small .table {font-size: 10px;}
+.small .table {font-size: 11px;}
 ```
 
 ::: small
-```{r echo = FALSE, results = 'asis'}
+```{r echo = FALSE}
+#| label: tbl-ESGS
+#| tbl-cap: Overview of ESG Strategies
 data <- read.csv(file = "Figure-7.csv")
 library(knitr)
 kable(data[1:8, ], 
-      caption = "Overview of ESG Strategies",
+      # caption = "Overview of ESG Strategies",
       format = "simple",
       booktabs = TRUE,
       align = 'l')
@@ -408,15 +420,17 @@ kable(data[1:8, ],
 ```
 
 ```{css echo = FALSE}
-.small .table {font-size: 10px;}
+.small .table {font-size: 11px;}
 ```
 
 ::: small
-```{r echo = FALSE, results = 'asis'}
+```{r echo = FALSE}
+#| label: tbl-IIS
+#| tbl-cap: Overview of Impact Investment Strategies
 data <- read.csv(file = "Figure-8.csv")
 library(knitr)
 kable(data[1:7, ], 
-      caption = "Overview of Impact Investment Strategies",
+      # caption = "Overview of Impact Investment Strategies",
       format = "simple",
       booktabs = TRUE,
       align = 'l')
@@ -434,15 +448,17 @@ kable(data[1:7, ],
 ```
 
 ```{css echo = FALSE}
-.small .table {font-size: 10px;}
+.small .table {font-size: 11px;}
 ```
 
 ::: small
-```{r echo = FALSE, results = 'asis'}
+```{r echo = FALSE}
+#| label: tbl-GFSF
+#| tbl-cap: Overview of Green Finance and Social Finance
 data <- read.csv(file = "Figure-9.csv")
 library(knitr)
 kable(data[1:5, ], 
-      caption = "Overview of Green Finance and Social Finance",
+     # caption = "Overview of Green Finance and Social Finance",
       format = "simple",
       booktabs = TRUE,
       align = 'l')
@@ -460,15 +476,17 @@ kable(data[1:5, ],
 ```
 
 ```{css echo = FALSE}
-.small .table {font-size: 10px;}
+.small .table {font-size: 11px;}
 ```
 
 ::: small
-```{r echo = FALSE, results = 'asis'}
+```{r echo = FALSE}
+#| label: tbl-GEI
+#| tbl-cap: Overview of Governance and Ethical Investing
 data <- read.csv(file = "Figure-10.csv")
 library(knitr)
 kable(data[1:5, ], 
-      caption = "Overview of Governance and Ethical Investing.",
+      # caption = "Overview of Governance and Ethical Investing.",
       format = "simple",
       booktabs = TRUE,
       align = 'l')
