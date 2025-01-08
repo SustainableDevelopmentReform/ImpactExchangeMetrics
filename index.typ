@@ -681,6 +681,20 @@ supplement: "Table",
 + Leading social impact measures in institutional investment include several prominent frameworks and standards that aim to provide consistency, transparency, and comparability in measuring social outcomes. The frameworks address various constraints in impact investing, such as diverse definitions of impact, the need for internationally comparable data, and underdeveloped impact measurement practices. Among the most recognised frameworks are the GIIN IRIS+, SROI, SPTF, B Impact Assessment, and the Impact Management Project (). the Social Return on Investment (SROI), the Social Performance Task Force (SPTF), B Impact Assessment (BIA) by B Lab, and the #cite(<impact_management_platform>, form: "prose");.
 
 + The landscape of existing and emerging measurement and verification standards and frameworks for social impact is diverse, commonly used and emerging frameworks can be summarised in the following table:
+
++ asdf
+
++ asdf
+
++ asdf
+
++ asdf
+
++ asdf
+
++ asdf
+
++ asdf
 ]
 
 #block[
